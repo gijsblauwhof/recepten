@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Recepten</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  color-scheme:light;
+  --paper:#FFFFFF; --soft:#FBF7F1; --ink:#16120F; --muted:#6B6158; --rule:#E7E0D6;
+  --tomato:#E03C26; --tomato-dark:#B62D1A; --tomato-wash:#FDECE8;
+  --saffron:#E9960C; --saffron-wash:#FDF0D8; --saffron-ink:#8A5600;
+  --herb:#0E8A5A; --herb-wash:#DFF3E9; --herb-ink:#0A6243;
+  --plum:#9B2C6F; --plum-wash:#FBE7F2;
+  --display:"Bricolage Grotesque","Archivo",Impact,sans-serif;
+  --body:"Figtree","Helvetica Neue",Arial,sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px);-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;
+  overflow-wrap:break-word;overflow-x:hidden;max-width:100%}
+.wrap{max-width:64rem;margin:0 auto;padding:0 1.25rem 5rem}
+button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
+:focus-visible{outline:3px solid var(--tomato);outline-offset:2px;border-radius:4px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+.printonly{display:none}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;border-radius:999px;
+  border:2px solid var(--rule);background:var(--paper);padding:.55rem 1.15rem;font-size:.92rem;
+  font-weight:600;line-height:1.2;transition:background .15s ease,border-color .15s ease,color .15s ease,transform .1s ease}
+.btn:hover{border-color:var(--tomato);color:var(--tomato);background:var(--tomato-wash)}
+.btn:active{transform:translateY(1px)}
+.btn:disabled{opacity:.5;cursor:wait}
+.btn--primary{background:var(--tomato);border-color:var(--tomato);color:#fff}
+.btn--primary:hover{background:var(--tomato-dark);border-color:var(--tomato-dark);color:#fff}
+.btn--plain{border-color:transparent;padding-left:0;padding-right:0;color:var(--muted)}
+.btn--plain:hover{background:none;border-color:transparent;color:var(--muted);
+  text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+
+.topbar{padding:2.75rem 0 .5rem}
+.brandrow{display:flex;align-items:flex-end;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+.brand{margin:0;font-family:var(--display);font-weight:800;font-size:clamp(2.4rem,7vw,3.4rem);line-height:.95;letter-spacing:-.03em}
+.brand a{color:inherit;text-decoration:none}
+.brandbar{display:block;height:7px;width:3.2rem;background:var(--tomato);border-radius:4px;margin-top:.55rem}
+.topnav{display:flex;gap:.5rem;flex-wrap:wrap}
+
+.searchform{margin-top:1.75rem}
+.search{width:100%;background:var(--paper);border:2px solid var(--rule);border-radius:999px;
+  padding:.8rem 1.3rem;font-size:1.02rem;font-family:var(--body);color:var(--ink)}
+.search::placeholder{color:var(--muted)}
+.search:focus{outline:none;border-color:var(--tomato);box-shadow:0 0 0 4px var(--tomato-wash)}
+
+.filters{display:flex;flex-direction:column;gap:.55rem;margin-top:1.25rem}
+.fgroup{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.fname{font-size:.8rem;font-weight:600;color:var(--muted);width:5.25rem;flex:none}
+@media (max-width:34rem){.fname{width:100%;margin-bottom:-.15rem}}
+.chip{border:2px solid var(--rule);border-radius:999px;padding:.28rem .8rem;
+  font-size:.85rem;font-weight:600;color:var(--muted);background:var(--paper);
+  transition:background .15s ease,border-color .15s ease,color .15s ease}
+.chip[data-g="maaltijd"]:hover,.chip[data-g="maaltijd"][aria-pressed="true"]{color:var(--saffron-ink);border-color:var(--saffron)}
+.chip[data-g="basis"]:hover,.chip[data-g="basis"][aria-pressed="true"]{color:var(--tomato-dark);border-color:var(--tomato)}
+.chip[data-g="proteine"]:hover,.chip[data-g="proteine"][aria-pressed="true"]{color:var(--herb-ink);border-color:var(--herb)}
+.chip[data-g="tijd"]:hover,.chip[data-g="tijd"][aria-pressed="true"]{color:var(--plum);border-color:var(--plum)}
+.chip[aria-pressed="true"][data-g="maaltijd"]{background:var(--saffron-wash)}
+.chip[aria-pressed="true"][data-g="basis"]{background:var(--tomato-wash)}
+.chip[aria-pressed="true"][data-g="proteine"]{background:var(--herb-wash)}
+.chip[aria-pressed="true"][data-g="tijd"]{background:var(--plum-wash)}
+
+.resultline{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin-top:1.5rem;
+  padding-bottom:.6rem;font-size:.88rem;font-weight:600;color:var(--muted);border-bottom:2px solid var(--ink)}
+
+.list{list-style:none;margin:0;padding:0}
+.row+.row{border-top:1px solid var(--rule)}
+.rowbtn{display:flex;width:100%;text-align:left;gap:1.25rem;align-items:center;padding:1.1rem .5rem;
+  border-radius:.9rem;transition:background .15s ease}
+.rowbtn:hover{background:var(--soft)}
+.rowbtn:hover .rowtitle{color:var(--tomato)}
+.rowmain{flex:1 1 auto;min-width:0;display:block}
+.rowtitle{display:block;margin:0;font-family:var(--display);font-weight:700;font-size:1.45rem;line-height:1.2;
+  letter-spacing:-.015em;transition:color .15s ease;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rowdesc{display:block;margin:.25rem 0 0;color:var(--muted);font-size:.92rem;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rowtags{margin-top:.55rem;display:flex;gap:.35rem;flex-wrap:wrap}
+.pill{display:inline-block;border-radius:999px;padding:.2rem .6rem;font-size:.72rem;font-weight:700;white-space:nowrap}
+.pill--maaltijd{background:var(--saffron-wash);color:var(--saffron-ink)}
+.pill--basis{background:var(--tomato-wash);color:var(--tomato-dark)}
+.pill--proteine{background:var(--herb-wash);color:var(--herb-ink)}
+.pill--vrij{background:var(--soft);color:var(--muted);border:1px solid var(--rule)}
+.rowmeta{flex:0 0 auto;width:5rem;text-align:right;display:block}
+.bigtime{display:block;font-family:var(--display);font-weight:800;font-size:2rem;line-height:1;
+  color:var(--tomato);font-variant-numeric:tabular-nums}
+.bigunit{display:block;font-family:var(--body);font-size:.72rem;font-weight:600;color:var(--muted);margin-top:.1rem}
+.smallkcal{display:block;font-size:.78rem;color:var(--muted);margin-top:.45rem;font-variant-numeric:tabular-nums}
+@media (max-width:34rem){
+  .rowbtn{gap:.85rem;padding:1rem .25rem}
+  .rowtitle{font-size:1.2rem}
+  .rowmeta{width:4rem}
+  .bigtime{font-size:1.6rem}
+}
+.empty{padding:3rem .5rem;color:var(--muted);max-width:44ch}
+
+.pager{display:flex;gap:.4rem;justify-content:center;align-items:center;margin-top:2rem;flex-wrap:wrap}
+.pagebtn{min-width:2.4rem;height:2.4rem;border-radius:999px;border:2px solid var(--rule);
+  font-weight:700;font-size:.9rem;padding:0 .6rem;transition:all .15s ease}
+.pagebtn:hover:not(:disabled){border-color:var(--tomato);color:var(--tomato);background:var(--tomato-wash)}
+.pagebtn[aria-current="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.pagebtn:disabled{opacity:.35;cursor:not-allowed}
+
+.rtop{padding-top:1.75rem}
+.rtitle{font-family:var(--display);font-weight:800;font-size:clamp(2.1rem,6vw,3.4rem);line-height:1.03;
+  letter-spacing:-.03em;margin:.75rem 0 0;max-width:18ch}
+.rdesc{color:var(--muted);max-width:56ch;margin:.85rem 0 0;font-size:1.08rem;line-height:1.6}
+.rtags{margin-top:1.1rem;display:flex;flex-wrap:wrap;gap:.4rem}
+.macros{display:flex;gap:.5rem;flex-wrap:wrap;margin:1.75rem 0 .6rem}
+.macro{flex:0 0 auto;background:var(--soft);border-radius:.7rem;padding:.5rem .8rem}
+.macro:first-child{background:var(--tomato);color:#fff}
+.macroval{display:block;font-family:var(--display);font-weight:800;font-size:1.25rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.macrokey{display:block;font-size:.72rem;font-weight:600;margin-top:.15rem;color:var(--muted)}
+.macro:first-child .macrokey{color:#fff;opacity:.85}
+@media (max-width:34rem){.macro{flex:1 1 7rem}}
+.estimate{font-size:.8rem;color:var(--muted);margin:0 0 1.75rem}
+
+.servings{display:flex;align-items:center;gap:.85rem;background:var(--soft);border-radius:999px;
+  padding:.5rem .65rem;margin-bottom:2rem;width:fit-content}
+.stepbtn{width:2.5rem;height:2.5rem;border-radius:50%;border:2px solid var(--rule);background:var(--paper);
+  font-size:1.3rem;font-weight:700;line-height:1;display:grid;place-items:center;transition:all .15s ease}
+.stepbtn:hover:not(:disabled){background:var(--tomato);border-color:var(--tomato);color:#fff}
+.stepbtn:disabled{opacity:.3;cursor:not-allowed}
+.stepval{font-family:var(--display);font-weight:800;font-size:1.6rem;min-width:1.8rem;text-align:center;font-variant-numeric:tabular-nums}
+.steplabel{font-size:.9rem;font-weight:600;color:var(--muted);padding-right:.65rem}
+
+.cols{display:grid;grid-template-columns:minmax(0,19rem) minmax(0,1fr);gap:3.5rem;align-items:start}
+@media (max-width:48rem){.cols{grid-template-columns:1fr;gap:2.5rem}}
+.h{font-family:var(--display);font-weight:700;font-size:1.35rem;margin:0 0 1rem;letter-spacing:-.01em;
+  display:flex;align-items:center;gap:.6rem}
+.h::after{content:"";flex:1;height:3px;background:var(--rule);border-radius:2px}
+.ingr{list-style:none;margin:0;padding:0}
+.ingr li{display:flex;gap:.85rem;padding:.5rem 0;border-bottom:1px solid var(--rule);align-items:baseline}
+.amt{flex:none;width:5rem;text-align:right;font-variant-numeric:tabular-nums;font-weight:700;color:var(--tomato);font-size:1.02rem}
+.amt.none{color:var(--muted);font-weight:600;font-size:.8rem}
+.ingrname{flex:1;min-width:0}
+.flash{animation:flash .5s ease-out}
+@keyframes flash{from{background:var(--saffron-wash)}to{background:transparent}}
+.steps{list-style:none;counter-reset:s;margin:0;padding:0}
+.steps li{counter-increment:s;display:flex;gap:1rem;padding:0 0 1.15rem}
+.steps li::before{content:counter(s);flex:none;width:1.9rem;height:1.9rem;border-radius:50%;
+  background:var(--tomato);color:#fff;font-weight:700;font-size:.9rem;display:grid;place-items:center;margin-top:.05rem}
+.steptext{max-width:58ch;line-height:1.65}
+.ractions{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:2.5rem;padding-top:1.5rem;border-top:2px solid var(--ink)}
+
+.ftitle{font-family:var(--display);font-weight:800;font-size:clamp(1.9rem,5vw,2.8rem);letter-spacing:-.025em;margin:.75rem 0 0}
+.form{max-width:46rem;margin-top:1.25rem}
+.field{margin-bottom:1.1rem}
+.lab{display:block;font-size:.84rem;font-weight:600;color:var(--muted);margin-bottom:.3rem}
+.inp,.ta,.sel{width:100%;background:var(--paper);border:2px solid var(--rule);border-radius:.6rem;
+  padding:.55rem .75rem;font-family:var(--body);font-size:.95rem;color:var(--ink)}
+.inp:focus,.ta:focus,.sel:focus{outline:none;border-color:var(--tomato);box-shadow:0 0 0 4px var(--tomato-wash)}
+.ta{min-height:5rem;resize:vertical;line-height:1.5}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:.75rem}
+@media (max-width:34rem){.grid2,.grid4{grid-template-columns:1fr}}
+.irow{display:grid;grid-template-columns:5rem 8rem 1fr 2.2rem;gap:.5rem;margin-bottom:.5rem;align-items:center}
+.srow{display:grid;grid-template-columns:1.9rem 1fr 2.2rem;gap:.5rem;margin-bottom:.5rem;align-items:start}
+.snum{display:grid;place-items:center;width:1.9rem;height:1.9rem;border-radius:50%;background:var(--tomato-wash);
+  color:var(--tomato-dark);font-weight:700;font-size:.85rem;margin-top:.45rem}
+@media (max-width:34rem){.irow{grid-template-columns:4rem 6rem 1fr 2rem}}
+.del{color:var(--muted);font-size:1.2rem;line-height:1;padding:.35rem;border-radius:50%;transition:all .15s ease}
+.del:hover{color:var(--tomato);background:var(--tomato-wash)}
+.addbtn{border:2px dashed var(--rule);border-radius:999px;padding:.45rem 1rem;font-size:.88rem;
+  font-weight:600;color:var(--muted);margin-top:.25rem;transition:all .15s ease}
+.addbtn:hover{border-color:var(--tomato);color:var(--tomato);background:var(--tomato-wash)}
+.formfoot{display:flex;gap:.75rem;align-items:center;margin-top:1.75rem;flex-wrap:wrap}
+.note{font-size:.86rem;color:var(--muted);max-width:56ch}
+.sectionhead{font-family:var(--display);font-weight:700;font-size:1.25rem;margin:2.25rem 0 .9rem;
+  padding-top:1.25rem;border-top:2px solid var(--rule)}
+.msg{margin-top:1rem;padding:.7rem 1rem;border-radius:.6rem;background:var(--herb-wash);color:var(--herb-ink);
+  font-size:.9rem;font-weight:600}
+.msg.bad{background:var(--tomato-wash);color:var(--tomato-dark)}
+.msg.busy{background:var(--saffron-wash);color:var(--saffron-ink)}
+.codebox{width:100%;min-height:15rem;background:var(--soft);border:2px solid var(--rule);border-radius:.6rem;
+  padding:.8rem;font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:.78rem;line-height:1.5;
+  color:var(--ink);resize:vertical}
+.loader{padding:4rem .5rem;color:var(--muted);font-weight:600}
+
+@media print{
+  :root{--paper:#fff;--soft:#fff;--ink:#000;--muted:#3a3a3a;--rule:#c9c9c9;--tomato:#000;--tomato-dark:#000;--tomato-wash:#eee}
+  body{background:#fff;font-size:10.5pt}
+  .wrap{max-width:none;padding:0}
+  .topbar,.ractions,.servings,.noprint,.rtags{display:none!important}
+  .printonly{display:block}
+  .cols{grid-template-columns:1fr;gap:1.1rem}
+  .rtop{padding-top:0}
+  .rtitle{font-size:24pt;margin:0;max-width:none}
+  .rdesc{font-size:10.5pt;margin-top:.35rem}
+  .printmeta{font-size:9.5pt;font-weight:700;color:#000;margin:.5rem 0 0}
+  .macros{gap:1.25rem;margin:.75rem 0 .35rem}
+  .macro{background:none!important;color:#000!important;padding:0;flex:0 0 auto}
+  .macro .macrokey{color:#000!important;opacity:1}
+  .macroval{font-size:13pt}
+  .estimate{margin-bottom:1rem}
+  .h{font-size:12pt}
+  .h::after{background:#000;height:1px}
+  .steps li,.ingr li{break-inside:avoid}
+  .steps li::before{background:#eee;color:#000;border:1px solid #999}
+  .amt{color:#000}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="topbar" id="topbar">
+    <div class="brandrow">
+      <div>
+        <h1 class="brand"><a href="#/">Recepten</a></h1>
+        <span class="brandbar"></span>
+      </div>
+      <nav class="topnav" id="topnav"></nav>
+    </div>
+  </header>
+  <main id="view"><p class="loader">Recepten laden…</p></main>
+</div>
+
+<script>
+"use strict";
+
+/* =========================================================
+   INSTELLINGEN VAN DIT PROJECT
+   Alleen aanpassen als je project of bestand anders gaat heten.
+   ========================================================= */
+const CONFIG={ eigenaar:"gijsblauwhof", project:"recepten", tak:"main", bestand:"recepten.json" };
+
+const SLEUTEL_OPSLAG="recepten-sleutel";
+const SPIEGEL_OPSLAG="recepten-kopie";
+const STANDAARD_PERSONEN=2;
+const PER_PAGINA=10;
+
+let RECEPTEN=[];
+let SLEUTEL="";
+try{ SLEUTEL=localStorage.getItem(SLEUTEL_OPSLAG)||""; }catch(e){ SLEUTEL=""; }
+const magBewerken=()=>!!SLEUTEL;
+
+/* ---------- hulpjes ---------- */
+const GROEPEN=[{sleutel:"maaltijd",naam:"Maaltijd"},{sleutel:"basis",naam:"Basis"},{sleutel:"proteine",naam:"Proteïne"}];
+const TIJDVAKKEN=[
+  {id:"kort",naam:"onder 30 min",test:t=>t<30},
+  {id:"middel",naam:"30 tot 60 min",test:t=>t>=30&&t<=60},
+  {id:"lang",naam:"meer dan 60 min",test:t=>t>60}
+];
+const EENHEDEN=["","gram","ml","eetlepel","theelepel","stuks","snufje"];
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const getal=n=>String(Math.round(n*1000)/1000).replace(".",",");
+function waarden(groep){
+  const set=new Set();
+  RECEPTEN.forEach(r=>((r.labels&&r.labels[groep])||[]).forEach(v=>set.add(v)));
+  return [...set].sort();
+}
+function pills(r){
+  const l=r.labels||{};
+  return [].concat(
+    (l.maaltijd||[]).map(v=>({v,k:"maaltijd"})),
+    (l.basis||[]).map(v=>({v,k:"basis"})),
+    (l.proteine||[]).map(v=>({v,k:"proteine"})),
+    (l.vrij||[]).map(v=>({v,k:"vrij"})));
+}
+const zoekTekst=r=>[r.titel,r.omschrijving||"",pills(r).map(p=>p.v).join(" "),
+  (r.ingredienten||[]).map(i=>i.n).join(" "),(r.stappen||[]).join(" ")].join(" ").toLowerCase();
+
+/* ---------- laden en opslaan ---------- */
+function spiegel(){ try{ localStorage.setItem(SPIEGEL_OPSLAG,JSON.stringify(RECEPTEN)); }catch(e){} }
+
+async function laadRecepten(){
+  try{
+    const res=await fetch(CONFIG.bestand+"?t="+Date.now(),{cache:"no-store"});
+    if(!res.ok) throw new Error("status "+res.status);
+    const data=await res.json();
+    if(!Array.isArray(data)) throw new Error("onverwachte inhoud");
+    RECEPTEN=data; spiegel(); return true;
+  }catch(e){
+    let kopie=null;
+    try{ kopie=JSON.parse(localStorage.getItem(SPIEGEL_OPSLAG)||"null"); }catch(x){}
+    if(Array.isArray(kopie)&&kopie.length){ RECEPTEN=kopie; return true; }
+    document.getElementById("view").innerHTML=
+      `<div class="msg bad" style="margin-top:2rem">Het bestand met je recepten kon niet geladen worden (${esc(e.message)}).
+       Controleer of <strong>${esc(CONFIG.bestand)}</strong> in je project staat en ververs de pagina.</div>`;
+    return false;
+  }
+}
+
+function naarBase64(tekst){
+  const bytes=new TextEncoder().encode(tekst);
+  let bin=""; bytes.forEach(b=>{bin+=String.fromCharCode(b);});
+  return btoa(bin);
+}
+const apiUrl=()=>`https://api.github.com/repos/${CONFIG.eigenaar}/${CONFIG.project}/contents/${CONFIG.bestand}`;
+
+function uitlegFout(status){
+  if(status===401) return "De sleutel wordt niet geaccepteerd. Controleer of je hem helemaal hebt geplakt, of maak een nieuwe aan.";
+  if(status===403) return "De sleutel heeft geen schrijfrechten op dit project. Maak hem opnieuw aan met rechten voor Contents: Read and write.";
+  if(status===404) return "Het project of het bestand is niet gevonden. Controleer de naam van je project en van het bestand.";
+  if(status===409||status===422) return "Er is ondertussen iets anders gewijzigd. Ververs de pagina en probeer het opnieuw.";
+  return "Opslaan is niet gelukt (foutcode "+status+"). Probeer het nog een keer.";
+}
+
+async function schrijfNaarGithub(bericht){
+  if(!SLEUTEL) throw new Error("Geen sleutel ingesteld. Ga naar Instellingen.");
+  const kop={Authorization:"Bearer "+SLEUTEL,Accept:"application/vnd.github+json"};
+  const lees=await fetch(apiUrl()+"?ref="+CONFIG.tak+"&t="+Date.now(),{headers:kop,cache:"no-store"});
+  if(!lees.ok) throw new Error(uitlegFout(lees.status));
+  const huidig=await lees.json();
+  const schrijf=await fetch(apiUrl(),{
+    method:"PUT",headers:Object.assign({"Content-Type":"application/json"},kop),
+    body:JSON.stringify({message:bericht,content:naarBase64(JSON.stringify(RECEPTEN,null,2)),
+      sha:huidig.sha,branch:CONFIG.tak})
+  });
+  if(!schrijf.ok) throw new Error(uitlegFout(schrijf.status));
+  spiegel();
+}
+
+/* ---------- staat ---------- */
+let zoek="", pagina=1;
+let actief={maaltijd:new Set(),basis:new Set(),proteine:new Set(),tijd:new Set()};
+let personen={};
+
+function gefilterd(){
+  const q=zoek.trim().toLowerCase();
+  return RECEPTEN.filter(r=>{
+    for(const g of GROEPEN){
+      const gekozen=actief[g.sleutel];
+      if(gekozen.size&&![...gekozen].some(v=>((r.labels&&r.labels[g.sleutel])||[]).includes(v))) return false;
+    }
+    if(actief.tijd.size){
+      const past=[...actief.tijd].some(id=>{const v=TIJDVAKKEN.find(t=>t.id===id);return v&&v.test(r.tijd);});
+      if(!past) return false;
+    }
+    if(!q) return true;
+    const hooi=zoekTekst(r);
+    return q.split(/\s+/).every(w=>hooi.includes(w));
+  });
+}
+
+/* ---------- navigatie bovenin ---------- */
+function tekenNav(){
+  const nav=document.getElementById("topnav");
+  nav.innerHTML=
+    (magBewerken()?`<button class="btn" data-go="#/nieuw">Recept toevoegen</button>`:"")+
+    `<button class="btn" data-go="#/export">Alles exporteren</button>`+
+    `<button class="btn btn--plain" data-go="#/instellingen" style="padding:.55rem .6rem">Instellingen</button>`;
+  nav.querySelectorAll("[data-go]").forEach(b=>b.addEventListener("click",()=>{location.hash=b.dataset.go;}));
+}
+
+/* ---------- overzicht ---------- */
+function toonOverzicht(){
+  document.getElementById("topbar").style.display="";
+  const filterHtml=GROEPEN.map(g=>`
+    <div class="fgroup"><span class="fname">${g.naam}</span>
+      ${waarden(g.sleutel).map(v=>`<button class="chip" data-g="${g.sleutel}" data-v="${esc(v)}"
+        aria-pressed="${actief[g.sleutel].has(v)}">${esc(v)}</button>`).join("")}
+    </div>`).join("")
+    +`<div class="fgroup"><span class="fname">Tijd</span>
+      ${TIJDVAKKEN.map(t=>`<button class="chip" data-g="tijd" data-v="${t.id}"
+        aria-pressed="${actief.tijd.has(t.id)}">${t.naam}</button>`).join("")}</div>`;
+
+  document.getElementById("view").innerHTML=`
+    <form class="searchform" id="zoekform" role="search">
+      <input class="search" id="zoekveld" type="search" enterkeyhint="search" autocomplete="off"
+        placeholder="Zoek op naam, ingrediënt of stap" value="${esc(zoek)}">
+    </form>
+    <div class="filters">${filterHtml}</div>
+    <div id="lijstzone"></div>`;
+
+  document.getElementById("zoekform").addEventListener("submit",e=>{e.preventDefault();document.getElementById("zoekveld").blur();});
+  document.getElementById("zoekveld").addEventListener("input",e=>{zoek=e.target.value;pagina=1;tekenLijst();});
+  document.querySelectorAll(".chip").forEach(b=>{
+    b.addEventListener("click",()=>{
+      const s=actief[b.dataset.g],v=b.dataset.v;
+      s.has(v)?s.delete(v):s.add(v);
+      b.setAttribute("aria-pressed",s.has(v));
+      pagina=1;tekenLijst();
+    });
+  });
+  tekenLijst();
+}
+
+function tekenLijst(){
+  const lijst=gefilterd();
+  const paginas=Math.max(1,Math.ceil(lijst.length/PER_PAGINA));
+  if(pagina>paginas) pagina=paginas;
+  const deel=lijst.slice((pagina-1)*PER_PAGINA,pagina*PER_PAGINA);
+  const filterActief=GROEPEN.reduce((s,g)=>s+actief[g.sleutel].size,0)+actief.tijd.size;
+
+  const rijen=deel.map(r=>`
+    <li class="row"><button class="rowbtn" data-open="${esc(r.id)}">
+      <span class="rowmain">
+        <span class="rowtitle">${esc(r.titel)}</span>
+        <span class="rowdesc">${esc(r.omschrijving||"")}</span>
+        <span class="rowtags">${pills(r).map(p=>`<span class="pill pill--${p.k}">${esc(p.v)}</span>`).join("")}</span>
+      </span>
+      <span class="rowmeta">
+        <span class="bigtime">${r.tijd}<span class="bigunit">min</span></span>
+        <span class="smallkcal">${r.voeding?r.voeding.kcal+" kcal":"–"}</span>
+      </span>
+    </button></li>`).join("");
+
+  let pagerHtml="";
+  if(paginas>1){
+    let knoppen="";
+    for(let p=1;p<=paginas;p++) knoppen+=`<button class="pagebtn" data-page="${p}" aria-current="${p===pagina}">${p}</button>`;
+    pagerHtml=`<nav class="pager">
+      <button class="pagebtn" data-page="${pagina-1}" ${pagina===1?"disabled":""}>Vorige</button>
+      ${knoppen}
+      <button class="pagebtn" data-page="${pagina+1}" ${pagina===paginas?"disabled":""}>Volgende</button></nav>`;
+  }
+
+  document.getElementById("lijstzone").innerHTML=`
+    <div class="resultline">
+      <span>${lijst.length} van ${RECEPTEN.length} recepten${paginas>1?" · pagina "+pagina+" van "+paginas:""}</span>
+      ${(filterActief||zoek)?`<button class="btn btn--plain" id="wis">Filters wissen</button>`:""}
+    </div>
+    ${deel.length?`<ul class="list">${rijen}</ul>`:`<p class="empty">Niets gevonden. Pas je zoekwoorden aan of wis de filters.</p>`}
+    ${pagerHtml}`;
+
+  const wis=document.getElementById("wis");
+  if(wis) wis.addEventListener("click",()=>{
+    zoek="";pagina=1;
+    actief={maaltijd:new Set(),basis:new Set(),proteine:new Set(),tijd:new Set()};
+    const veld=document.getElementById("zoekveld"); if(veld) veld.value="";
+    document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed","false"));
+    tekenLijst();
+  });
+  document.querySelectorAll("[data-open]").forEach(b=>b.addEventListener("click",()=>{location.hash="#/recept/"+b.dataset.open;}));
+  document.querySelectorAll("[data-page]").forEach(b=>b.addEventListener("click",()=>{
+    pagina=Number(b.dataset.page);tekenLijst();window.scrollTo({top:0,behavior:"smooth"});
+  }));
+}
+
+/* ---------- receptpagina ---------- */
+function toonRecept(id){
+  const r=RECEPTEN.find(x=>x.id===id);
+  if(!r){ location.hash="#/"; return; }
+  document.getElementById("topbar").style.display="none";
+  if(!personen[id]) personen[id]=STANDAARD_PERSONEN;
+  const n=personen[id], v=r.voeding, f=n/(r.basisPersonen||1);
+
+  document.getElementById("view").innerHTML=`
+    <div class="rtop">
+      <button class="btn btn--plain noprint" id="terug">Terug naar het overzicht</button>
+      <h2 class="rtitle">${esc(r.titel)}</h2>
+      ${r.omschrijving?`<p class="rdesc">${esc(r.omschrijving)}</p>`:""}
+      <p class="printmeta printonly" id="printmeta">${r.tijd} minuten · voor ${n} ${n===1?"persoon":"personen"}</p>
+      <div class="rtags">
+        <span class="pill pill--basis">${r.tijd} min</span>
+        ${pills(r).map(p=>`<span class="pill pill--${p.k}">${esc(p.v)}</span>`).join("")}
+      </div>
+    </div>
+    ${v?`<div class="macros">
+      <span class="macro"><span class="macroval">${v.kcal}</span><span class="macrokey">kcal per portie</span></span>
+      <span class="macro"><span class="macroval">${v.eiwit} g</span><span class="macrokey">eiwit</span></span>
+      <span class="macro"><span class="macroval">${v.kh} g</span><span class="macrokey">koolhydraten</span></span>
+      <span class="macro"><span class="macroval">${v.vet} g</span><span class="macrokey">vet</span></span>
+    </div>
+    <p class="estimate">Voedingswaarden zijn geschat en blijven per portie gelijk.</p>`:""}
+
+    <div class="servings noprint">
+      <button class="stepbtn" id="min" ${n<=1?"disabled":""} aria-label="Eén persoon minder">−</button>
+      <span class="stepval" id="aantal">${n}</span>
+      <button class="stepbtn" id="plus" aria-label="Eén persoon meer">+</button>
+      <span class="steplabel" id="plabel">${n===1?"persoon":"personen"}</span>
+    </div>
+
+    <div class="cols">
+      <section>
+        <h3 class="h">Ingrediënten</h3>
+        <ul class="ingr" id="ingrlijst">
+          ${(r.ingredienten||[]).map(i=>`<li>
+            <span class="amt ${i.h==null?"none":""}">${i.h==null?"naar smaak":getal(i.h*f)}</span>
+            <span class="ingrname">${i.h==null?"":esc(i.e)+" "}${esc(i.n)}</span></li>`).join("")}
+        </ul>
+      </section>
+      <section>
+        <h3 class="h">Bereiding</h3>
+        <ol class="steps">${(r.stappen||[]).map(s=>`<li><span class="steptext">${esc(s)}</span></li>`).join("")}</ol>
+      </section>
+    </div>
+
+    <div class="ractions noprint">
+      ${magBewerken()?`<button class="btn btn--primary" id="bewerk">Recept bewerken</button>`:""}
+      <button class="btn" id="print">Printen of opslaan als pdf</button>
+      <button class="btn" id="deel">Link kopiëren</button>
+    </div>
+    <div id="deelmelding" class="noprint"></div>`;
+
+  document.getElementById("terug").addEventListener("click",()=>{location.hash="#/";});
+  const bew=document.getElementById("bewerk");
+  if(bew) bew.addEventListener("click",()=>{location.hash="#/bewerk/"+r.id;});
+  document.getElementById("min").addEventListener("click",()=>{if(personen[r.id]>1){personen[r.id]--;herteken(r);}});
+  document.getElementById("plus").addEventListener("click",()=>{personen[r.id]++;herteken(r);});
+  document.getElementById("print").addEventListener("click",()=>window.print());
+  document.getElementById("deel").addEventListener("click",()=>{
+    const link=location.origin+location.pathname+"#/recept/"+r.id;
+    if(navigator.clipboard&&navigator.clipboard.writeText)
+      navigator.clipboard.writeText(link).then(()=>melding("Link gekopieerd.")).catch(()=>melding(link,true));
+    else melding(link,true);
+  });
+}
+
+function herteken(r){
+  const n=personen[r.id], f=n/(r.basisPersonen||1);
+  document.getElementById("aantal").textContent=n;
+  document.getElementById("min").disabled=n<=1;
+  document.getElementById("plabel").textContent=n===1?"persoon":"personen";
+  document.getElementById("printmeta").textContent=r.tijd+" minuten · voor "+n+(n===1?" persoon":" personen");
+  const regels=document.querySelectorAll("#ingrlijst li");
+  (r.ingredienten||[]).forEach((i,k)=>{
+    if(i.h==null) return;
+    const cel=regels[k].querySelector(".amt");
+    cel.textContent=getal(i.h*f);
+    cel.classList.remove("flash"); void cel.offsetWidth; cel.classList.add("flash");
+  });
+}
+const melding=(t,bad)=>{document.getElementById("deelmelding").innerHTML=`<div class="msg${bad?" bad":""}">${esc(t)}</div>`;};
+
+/* ---------- formulier ---------- */
+function toonFormulier(bestaandId){
+  if(!magBewerken()){ location.hash="#/instellingen"; return; }
+  document.getElementById("topbar").style.display="";
+  const bestaand=bestaandId?RECEPTEN.find(r=>r.id===bestaandId):null;
+  if(bestaandId&&!bestaand){ location.hash="#/"; return; }
+  const l=(bestaand&&bestaand.labels)||{}, v=(bestaand&&bestaand.voeding)||{};
+  const val=x=>x==null?"":x;
+
+  document.getElementById("view").innerHTML=`
+    <button class="btn btn--plain" id="terug" style="margin-top:1.25rem">${bestaand?"Terug naar het recept":"Terug naar het overzicht"}</button>
+    <h2 class="ftitle">${bestaand?"Recept bewerken":"Recept toevoegen"}</h2>
+    <p class="note" style="margin-top:.75rem">Voer de hoeveelheden in zoals het bronrecept ze geeft en vul in op hoeveel personen dat is. De site rekent zelf om. Laat de hoeveelheid leeg voor alles wat naar smaak gaat.</p>
+    <div class="form">
+      <div class="field"><label class="lab" for="f-titel">Titel</label>
+        <input class="inp" id="f-titel" value="${esc(bestaand?bestaand.titel:"")}" placeholder="Bijvoorbeeld: Babi ketjap"></div>
+      <div class="field"><label class="lab" for="f-oms">Korte omschrijving</label>
+        <textarea class="ta" id="f-oms" placeholder="Eén à twee regels. Ook de plek voor je eigen aantekeningen.">${esc(bestaand?bestaand.omschrijving:"")}</textarea></div>
+      <div class="grid2">
+        <div class="field"><label class="lab" for="f-tijd">Bereidingstijd in minuten</label>
+          <input class="inp" id="f-tijd" type="number" min="1" value="${bestaand?bestaand.tijd:25}"></div>
+        <div class="field"><label class="lab" for="f-basis">Recept is voor hoeveel personen</label>
+          <input class="inp" id="f-basis" type="number" min="1" value="${bestaand?bestaand.basisPersonen:1}"></div>
+      </div>
+      <div class="grid2">
+        <div class="field"><label class="lab" for="f-maaltijd">Maaltijd</label>
+          <input class="inp" id="f-maaltijd" value="${esc((l.maaltijd||["diner"]).join(", "))}" placeholder="ontbijt, lunch of diner"></div>
+        <div class="field"><label class="lab" for="f-basislabel">Basis</label>
+          <input class="inp" id="f-basislabel" value="${esc((l.basis||[]).join(", "))}" placeholder="pasta, rijst, aardappel, soep of brood"></div>
+      </div>
+      <div class="grid2">
+        <div class="field"><label class="lab" for="f-proteine">Proteïne</label>
+          <input class="inp" id="f-proteine" value="${esc((l.proteine||[]).join(", "))}" placeholder="kip, vis, vega, rund of varken"></div>
+        <div class="field"><label class="lab" for="f-vrij">Vrije labels</label>
+          <input class="inp" id="f-vrij" value="${esc((l.vrij||[]).join(", "))}" placeholder="gescheiden door komma's"></div>
+      </div>
+
+      <h3 class="sectionhead">Ingrediënten</h3>
+      <div id="ingrvelden"></div>
+      <button class="addbtn" id="meeringr">Regel toevoegen</button>
+
+      <h3 class="sectionhead">Stappen</h3>
+      <p class="note" style="margin:-.35rem 0 .9rem">Geen hoeveelheden in de stappen. Schrijf "voeg de bloem toe", niet "voeg 200 gram bloem toe".</p>
+      <div id="stapvelden"></div>
+      <button class="addbtn" id="meerstap">Stap toevoegen</button>
+
+      <h3 class="sectionhead">Voedingswaarden per portie</h3>
+      <div class="grid4">
+        <div class="field"><label class="lab" for="f-kcal">kcal</label><input class="inp" id="f-kcal" type="number" value="${val(v.kcal)}"></div>
+        <div class="field"><label class="lab" for="f-eiwit">eiwit (g)</label><input class="inp" id="f-eiwit" type="number" value="${val(v.eiwit)}"></div>
+        <div class="field"><label class="lab" for="f-kh">koolhydraten (g)</label><input class="inp" id="f-kh" type="number" value="${val(v.kh)}"></div>
+        <div class="field"><label class="lab" for="f-vet">vet (g)</label><input class="inp" id="f-vet" type="number" value="${val(v.vet)}"></div>
+      </div>
+
+      <div class="formfoot">
+        <button class="btn btn--primary" id="opslaan">${bestaand?"Wijzigingen opslaan":"Recept opslaan"}</button>
+        ${bestaand?`<button class="btn" id="verwijder">Recept verwijderen</button>`:""}
+      </div>
+      <div id="formmelding"></div>
+
+      ${bestaand?"":`
+      <h3 class="sectionhead">Of plak een recept in één keer</h3>
+      <p class="note" style="margin:-.35rem 0 .9rem">Laat een recept door Claude omzetten naar dit format en plak de uitkomst hieronder.</p>
+      <textarea class="codebox" id="plakvak" placeholder='{"titel":"...","basisPersonen":1,"ingredienten":[...]}'></textarea>
+      <div class="formfoot"><button class="btn btn--primary" id="plakknop">Geplakt recept toevoegen</button></div>
+      <div id="plakmelding"></div>`}
+    </div>`;
+
+  const ingrvelden=document.getElementById("ingrvelden"), stapvelden=document.getElementById("stapvelden");
+  function ingrRegel(data){
+    const d=document.createElement("div"); d.className="irow";
+    d.innerHTML=`<input class="inp i-h" type="text" inputmode="decimal" placeholder="150" value="${data&&data.h!=null?getal(data.h):""}">
+      <select class="sel i-e">${EENHEDEN.map(e=>`<option value="${e}" ${data&&data.e===e?"selected":""}>${e||"geen"}</option>`).join("")}</select>
+      <input class="inp i-n" type="text" placeholder="Mager rundergehakt" value="${esc(data?data.n:"")}">
+      <button class="del" aria-label="Regel verwijderen">×</button>`;
+    d.querySelector(".del").addEventListener("click",()=>d.remove());
+    ingrvelden.appendChild(d);
+  }
+  function stapRegel(tekst){
+    const d=document.createElement("div"); d.className="srow";
+    d.innerHTML=`<span class="snum">${stapvelden.children.length+1}</span>
+      <textarea class="ta s-t" style="min-height:3.5rem" placeholder="Kook de rijst gaar en giet af.">${esc(tekst||"")}</textarea>
+      <button class="del" aria-label="Stap verwijderen">×</button>`;
+    d.querySelector(".del").addEventListener("click",()=>{d.remove();hernummer();});
+    stapvelden.appendChild(d);
+  }
+  const hernummer=()=>[...stapvelden.children].forEach((d,i)=>d.querySelector(".snum").textContent=i+1);
+
+  if(bestaand){ (bestaand.ingredienten||[]).forEach(ingrRegel); (bestaand.stappen||[]).forEach(stapRegel); }
+  else { for(let i=0;i<4;i++) ingrRegel(); for(let i=0;i<3;i++) stapRegel(); }
+
+  document.getElementById("meeringr").addEventListener("click",()=>ingrRegel());
+  document.getElementById("meerstap").addEventListener("click",()=>stapRegel());
+  document.getElementById("terug").addEventListener("click",()=>{location.hash=bestaand?"#/recept/"+bestaand.id:"#/";});
+
+  const formMelding=(t,soort)=>{document.getElementById("formmelding").innerHTML=`<div class="msg ${soort||""}">${esc(t)}</div>`;};
+
+  const verwijder=document.getElementById("verwijder");
+  if(verwijder) verwijder.addEventListener("click",async()=>{
+    if(!confirm("Dit recept definitief verwijderen?")) return;
+    const terug=RECEPTEN.slice();
+    RECEPTEN=RECEPTEN.filter(r=>r.id!==bestaand.id);
+    verwijder.disabled=true; formMelding("Bezig met verwijderen…","busy");
+    try{ await schrijfNaarGithub("Recept verwijderd: "+bestaand.titel); location.hash="#/"; }
+    catch(e){ RECEPTEN=terug; verwijder.disabled=false; formMelding(e.message,"bad"); }
+  });
+
+  document.getElementById("opslaan").addEventListener("click",async()=>{
+    const g=id=>document.getElementById(id).value.trim();
+    const titel=g("f-titel");
+    if(!titel) return formMelding("Vul een titel in.","bad");
+    const lijst=[...ingrvelden.children].map(d=>{
+      const h=d.querySelector(".i-h").value.trim().replace(",",".");
+      const n=d.querySelector(".i-n").value.trim();
+      if(!n) return null;
+      return {h:h===""?null:parseFloat(h),e:d.querySelector(".i-e").value,n};
+    }).filter(Boolean);
+    if(!lijst.length) return formMelding("Voeg minstens één ingrediënt toe.","bad");
+    const stappen=[...stapvelden.children].map(d=>d.querySelector(".s-t").value.trim()).filter(Boolean);
+    if(!stappen.length) return formMelding("Voeg minstens één stap toe.","bad");
+    const split=s=>s.split(",").map(x=>x.trim()).filter(Boolean);
+    const num=id=>{const x=g(id);return x===""?null:Number(x);};
+    const recept={
+      id:bestaand?bestaand.id:titel.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")+"-"+Date.now().toString(36),
+      titel, omschrijving:g("f-oms"),
+      labels:{maaltijd:split(g("f-maaltijd")),basis:split(g("f-basislabel")),
+              proteine:split(g("f-proteine")),vrij:split(g("f-vrij"))},
+      tijd:Number(g("f-tijd"))||25, basisPersonen:Number(g("f-basis"))||1,
+      ingredienten:lijst, stappen,
+      voeding:num("f-kcal")==null?null:{kcal:num("f-kcal"),eiwit:num("f-eiwit"),kh:num("f-kh"),vet:num("f-vet")}
+    };
+    const terug=RECEPTEN.slice();
+    if(bestaand) RECEPTEN[RECEPTEN.findIndex(r=>r.id===bestaand.id)]=recept; else RECEPTEN.push(recept);
+    const knop=document.getElementById("opslaan");
+    knop.disabled=true; formMelding("Bezig met opslaan…","busy");
+    try{
+      await schrijfNaarGithub((bestaand?"Recept bijgewerkt: ":"Recept toegevoegd: ")+titel);
+      delete personen[recept.id];
+      location.hash="#/recept/"+recept.id;
+    }catch(e){ RECEPTEN=terug; knop.disabled=false; formMelding(e.message,"bad"); }
+  });
+
+  const plakknop=document.getElementById("plakknop");
+  if(plakknop) plakknop.addEventListener("click",async()=>{
+    const plakMelding=(t,soort)=>{document.getElementById("plakmelding").innerHTML=`<div class="msg ${soort||""}">${esc(t)}</div>`;};
+    const tekst=document.getElementById("plakvak").value.trim();
+    if(!tekst) return plakMelding("Plak eerst een recept in het vak.","bad");
+    let data;
+    try{ data=JSON.parse(tekst); }catch(e){ return plakMelding("Dit is geen geldig recept. Controleer of je alles hebt meegekopieerd.","bad"); }
+    const items=Array.isArray(data)?data:[data];
+    const goed=items.filter(r=>r&&r.titel&&Array.isArray(r.ingredienten));
+    if(!goed.length) return plakMelding("Er ontbreekt een titel of een ingrediëntenlijst.","bad");
+    const terug=RECEPTEN.slice();
+    goed.forEach(r=>{
+      r.id=r.id||r.titel.toLowerCase().replace(/[^a-z0-9]+/g,"-")+"-"+Date.now().toString(36);
+      r.labels=r.labels||{maaltijd:[],basis:[],proteine:[],vrij:[]};
+      r.basisPersonen=r.basisPersonen||1; r.stappen=r.stappen||[];
+      RECEPTEN.push(r);
+    });
+    plakknop.disabled=true; plakMelding("Bezig met opslaan…","busy");
+    try{
+      await schrijfNaarGithub("Recepten geplakt: "+goed.length);
+      plakMelding(goed.length===1?"Eén recept toegevoegd en opgeslagen.":goed.length+" recepten toegevoegd en opgeslagen.");
+      document.getElementById("plakvak").value="";
+    }catch(e){ RECEPTEN=terug; plakMelding(e.message,"bad"); }
+    plakknop.disabled=false;
+  });
+}
+
+/* ---------- export ---------- */
+function toonExport(){
+  document.getElementById("topbar").style.display="";
+  document.getElementById("view").innerHTML=`
+    <button class="btn btn--plain" id="terug" style="margin-top:1.25rem">Terug naar het overzicht</button>
+    <h2 class="ftitle">Alles exporteren</h2>
+    <p class="note" style="margin-top:.75rem">Zet af en toe een kopie van al je recepten op je laptop. Dat is je back-up als er ooit iets misgaat met je account.</p>
+    <div class="formfoot"><button class="btn btn--primary" id="download">Bestand downloaden</button>
+      <button class="btn" id="kopieer">Naar klembord kopiëren</button></div>
+    <div id="expmelding"></div>
+    <textarea class="codebox" id="dump" readonly style="margin-top:1rem;min-height:18rem"></textarea>`;
+  const vak=document.getElementById("dump");
+  vak.value=JSON.stringify(RECEPTEN,null,2);
+  const melden=(t,bad)=>{document.getElementById("expmelding").innerHTML=`<div class="msg${bad?" bad":""}">${esc(t)}</div>`;};
+  document.getElementById("terug").addEventListener("click",()=>{location.hash="#/";});
+  document.getElementById("download").addEventListener("click",()=>{
+    const datum=new Date().toISOString().slice(0,10);
+    const blob=new Blob([vak.value],{type:"application/json"});
+    const a=document.createElement("a");
+    a.href=URL.createObjectURL(blob); a.download="recepten-"+datum+".json";
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+    melden("Bestand gedownload.");
+  });
+  document.getElementById("kopieer").addEventListener("click",()=>{
+    vak.select();
+    if(navigator.clipboard&&navigator.clipboard.writeText)
+      navigator.clipboard.writeText(vak.value).then(()=>melden("Gekopieerd.")).catch(()=>melden("Selecteer de tekst en kopieer hem zelf.",true));
+    else melden("Selecteer de tekst en kopieer hem zelf.",true);
+  });
+}
+
+/* ---------- instellingen ---------- */
+function toonInstellingen(){
+  document.getElementById("topbar").style.display="";
+  document.getElementById("view").innerHTML=`
+    <button class="btn btn--plain" id="terug" style="margin-top:1.25rem">Terug naar het overzicht</button>
+    <h2 class="ftitle">Instellingen</h2>
+    <div class="form">
+      <div class="msg ${magBewerken()?"":"bad"}" style="margin-bottom:1.5rem">
+        ${magBewerken()?"Er staat een sleutel in deze browser. Je kunt recepten toevoegen en aanpassen."
+                       :"Er staat geen sleutel in deze browser. Je kunt alles lezen, maar niets aanpassen."}
+      </div>
+      <p class="note">De sleutel geeft deze pagina toestemming om je receptenbestand bij te werken. Hij staat alleen in de browser waarin je hem plakt, dus op een nieuwe laptop of telefoon vul je hem opnieuw in. Wie de sleutel niet heeft, kan de site gewoon lezen maar niets wijzigen.</p>
+      <div class="field" style="margin-top:1.25rem">
+        <label class="lab" for="f-sleutel">Toegangssleutel</label>
+        <input class="inp" id="f-sleutel" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…">
+      </div>
+      <div class="formfoot" style="margin-top:.75rem">
+        <button class="btn btn--primary" id="bewaar">Sleutel opslaan en testen</button>
+        ${magBewerken()?`<button class="btn" id="wis">Sleutel uit deze browser halen</button>`:""}
+      </div>
+      <div id="setmelding"></div>
+      <h3 class="sectionhead">Dit project</h3>
+      <p class="note">Gekoppeld aan <strong>${esc(CONFIG.eigenaar)}/${esc(CONFIG.project)}</strong>, bestand <strong>${esc(CONFIG.bestand)}</strong>.</p>
+    </div>`;
+  const melden=(t,soort)=>{document.getElementById("setmelding").innerHTML=`<div class="msg ${soort||""}">${esc(t)}</div>`;};
+  document.getElementById("terug").addEventListener("click",()=>{location.hash="#/";});
+  document.getElementById("bewaar").addEventListener("click",async()=>{
+    const waarde=document.getElementById("f-sleutel").value.trim();
+    if(!waarde) return melden("Plak eerst een sleutel in het veld.","bad");
+    melden("Sleutel controleren…","busy");
+    try{
+      const res=await fetch(apiUrl()+"?ref="+CONFIG.tak,{headers:{Authorization:"Bearer "+waarde,Accept:"application/vnd.github+json"}});
+      if(!res.ok) throw new Error(uitlegFout(res.status));
+      SLEUTEL=waarde;
+      try{ localStorage.setItem(SLEUTEL_OPSLAG,waarde); }catch(e){}
+      tekenNav();
+      melden("De sleutel werkt. Je kunt nu recepten toevoegen en aanpassen.");
+      setTimeout(()=>{location.hash="#/";},1200);
+    }catch(e){ melden(e.message,"bad"); }
+  });
+  const wis=document.getElementById("wis");
+  if(wis) wis.addEventListener("click",()=>{
+    SLEUTEL="";
+    try{ localStorage.removeItem(SLEUTEL_OPSLAG); }catch(e){}
+    tekenNav(); toonInstellingen();
+  });
+}
+
+/* ---------- router ---------- */
+function route(){
+  const h=location.hash||"#/";
+  window.scrollTo(0,0);
+  if(h.startsWith("#/recept/")) return toonRecept(h.slice(9));
+  if(h.startsWith("#/bewerk/")) return toonFormulier(h.slice(9));
+  if(h==="#/nieuw") return toonFormulier(null);
+  if(h==="#/export") return toonExport();
+  if(h==="#/instellingen") return toonInstellingen();
+  toonOverzicht();
+}
+window.addEventListener("hashchange",route);
+
+(async function start(){
+  tekenNav();
+  const gelukt=await laadRecepten();
+  if(gelukt) route();
+})();
+</script>
+</body>
+</html>

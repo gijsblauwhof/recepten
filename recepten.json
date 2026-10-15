@@ -1,0 +1,250 @@
+[
+  {
+    "id": "asian-beef-broccolini",
+    "titel": "Asian beef en broccolini bowl",
+    "omschrijving": "Snelle wok met biefstuk en broccolini over zilvervliesrijst. Geen olie in de pan, klaar in twintig minuten.",
+    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["rund"], "vrij": ["aziatisch", "wok"] },
+    "tijd": 20,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 180, "e": "gram", "n": "Biefstuk (in reepjes)" },
+      { "h": 60, "e": "gram", "n": "Zilvervliesrijst (ongekookt)" },
+      { "h": 150, "e": "gram", "n": "Broccolini of broccoli" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
+      { "h": 2, "e": "eetlepel", "n": "Lichte sojasaus" },
+      { "h": 1, "e": "theelepel", "n": "Sesamolie" },
+      { "h": null, "e": "", "n": "Rode chilipeper in ringetjes of chilivlokken" },
+      { "h": null, "e": "", "n": "Bakspray" },
+      { "h": null, "e": "", "n": "Peper en zout" }
+    ],
+    "stappen": [
+      "Kook de zilvervliesrijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Spray een wok of hete pan in met bakspray en roerbak de broccolini en de knoflook 3 minuten op middelhoog vuur.",
+      "Voeg de biefstukreepjes toe op hoog vuur en schroei ze in 2 minuten rondom bruin.",
+      "Blus de pan af met de sojasaus en de sesamolie en voeg de chilipeper toe.",
+      "Hussel alles kort om en serveer over de zilvervliesrijst."
+    ],
+    "voeding": { "kcal": 510, "eiwit": 46, "kh": 48, "vet": 12 }
+  },
+  {
+    "id": "babi-ketjap",
+    "titel": "Babi ketjap",
+    "omschrijving": "Varkenshaas die zachtjes indikt in ketjap, met sperziebonen en een frisse schep atjar ernaast.",
+    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["varken"], "vrij": ["indonesisch"] },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 175, "e": "gram", "n": "Magere varkenshaas (in reepjes)" },
+      { "h": 50, "e": "gram", "n": "Basmatirijst (ongekookt)" },
+      { "h": 150, "e": "gram", "n": "Sperziebonen (gehalveerd)" },
+      { "h": 50, "e": "gram", "n": "Atjar tjampoer" },
+      { "h": 0.5, "e": "stuks", "n": "Ui (gesnipperd)" },
+      { "h": 2, "e": "eetlepel", "n": "Ketjap manis (minder zoet)" },
+      { "h": 1, "e": "theelepel", "n": "Sambal oelek" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
+      { "h": 0.5, "e": "theelepel", "n": "Gemberpoeder" },
+      { "h": 0.5, "e": "theelepel", "n": "Laospoeder" },
+      { "h": null, "e": "", "n": "Bakspray" },
+      { "h": null, "e": "", "n": "Peper en zout" }
+    ],
+    "stappen": [
+      "Kook de basmatirijst en de sperziebonen in aparte pannen gaar en giet af.",
+      "Spray een koekenpan of wok in met bakspray en fruit de ui, de knoflook, het gemberpoeder, de laos en de sambal 2 minuten aan op middelhoog vuur.",
+      "Voeg de varkenshaasreepjes toe en bak ze in 4 minuten rondom goudbruin.",
+      "Giet de ketjap manis in de pan en laat 2 minuten zachtjes pruttelen tot de saus stroperig om het vlees zit.",
+      "Serveer met de rijst, de sperziebonen en de atjar tjampoer aan de zijkant."
+    ],
+    "voeding": { "kcal": 480, "eiwit": 44, "kh": 52, "vet": 8 }
+  },
+  {
+    "id": "babi-pangang",
+    "titel": "Babi pangang",
+    "omschrijving": "Knapperige varkenshaas uit de airfryer met kant-en-klare saus. Vier stappen en klaar.",
+    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["varken"], "vrij": ["indonesisch", "airfryer"] },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 150, "e": "gram", "n": "Varkenshaas" },
+      { "h": 50, "e": "gram", "n": "Basmatirijst (ongekookt)" },
+      { "h": 100, "e": "gram", "n": "Magere babi pangang saus" },
+      { "h": 150, "e": "gram", "n": "Atjar tjampoer" }
+    ],
+    "stappen": [
+      "Kook de basmatirijst gaar en giet af.",
+      "Snijd de varkenshaas in plakken en bak ze knapperig in de airfryer, 10 minuten op 190 graden, of in een hete pan.",
+      "Verwarm de saus in een steelpan.",
+      "Serveer het vlees met de saus, de rijst en de atjar."
+    ],
+    "voeding": { "kcal": 490, "eiwit": 40, "kh": 56, "vet": 10 }
+  },
+  {
+    "id": "burrito-gehakt",
+    "titel": "Burrito met gehakt",
+    "omschrijving": "Gehaktsaus die indikt tot hij bindt, met rijst en kaas door de vulling en een knapperig gegrilde buitenkant.",
+    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["rund"], "vrij": ["mexicaans", "meal prep"] },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 150, "e": "gram", "n": "Mager rundergehakt" },
+      { "h": 2, "e": "stuks", "n": "Tortillawrap" },
+      { "h": 50, "e": "gram", "n": "Zilvervliesrijst (ongekookt)" },
+      { "h": 75, "e": "gram", "n": "Kidneybonen (uitgelekt)" },
+      { "h": 35, "e": "gram", "n": "Maïs (uitgelekt)" },
+      { "h": 200, "e": "gram", "n": "Tomatenblokjes uit blik" },
+      { "h": 0.5, "e": "eetlepel", "n": "Tomatenpuree" },
+      { "h": 25, "e": "gram", "n": "Geraspte cheddar of 30+ kaas" },
+      { "h": 0.5, "e": "stuks", "n": "Ui (gesnipperd)" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (geperst)" },
+      { "h": 0.5, "e": "stuks", "n": "Paprika (in kleine blokjes)" },
+      { "h": 0.5, "e": "eetlepel", "n": "Chilipoeder" },
+      { "h": 0.5, "e": "theelepel", "n": "Komijnpoeder" },
+      { "h": 0.5, "e": "theelepel", "n": "Paprikapoeder" },
+      { "h": 0.5, "e": "theelepel", "n": "Gedroogde oregano" },
+      { "h": null, "e": "", "n": "Bakspray" },
+      { "h": null, "e": "", "n": "Peper en zout" }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar in water met zout en giet af.",
+      "Spray een hapjespan in met bakspray en bak het rundergehakt rul op middelhoog vuur. Voeg de ui, de knoflook en de paprika toe en bak ze 3 tot 4 minuten mee.",
+      "Strooi het chilipoeder, het komijnpoeder, het paprikapoeder en de oregano erover en bak ze 1 minuut mee. Roer de tomatenpuree en de tomatenblokjes erdoor.",
+      "Voeg de kidneybonen en de maïs toe, zet het vuur laag en laat 8 tot 10 minuten pruttelen zonder deksel tot er een dikke saus staat.",
+      "Roer de gekookte rijst en de geraspte kaas door de warme saus tot de kaas gesmolten is en het geheel bindt.",
+      "Verwarm de wraps kort, verdeel de vulling over het midden, vouw de zijkanten naar binnen en rol strak op.",
+      "Leg de burrito's 1 tot 2 minuten met de naad naar beneden in een droge hete koekenpan tot de buitenkant knapperig is."
+    ],
+    "voeding": { "kcal": 510, "eiwit": 44, "kh": 48, "vet": 14 }
+  },
+  {
+    "id": "burrito-kip",
+    "titel": "Burrito met kip",
+    "omschrijving": "Gekruide kip met zwarte bonen en salsa, op een laag geprakte avocado met yoghurt en limoen.",
+    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["kip"], "vrij": ["mexicaans"] },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 175, "e": "gram", "n": "Kipfilet (in kleine blokjes)" },
+      { "h": 2, "e": "stuks", "n": "Grote witte wrap" },
+      { "h": 50, "e": "gram", "n": "Witte basmatirijst (ongekookt)" },
+      { "h": 100, "e": "gram", "n": "Zwarte bonen (uitgelekt)" },
+      { "h": 2.5, "e": "eetlepel", "n": "Milde tomatensalsa" },
+      { "h": 1, "e": "eetlepel", "n": "Griekse yoghurt 0%" },
+      { "h": 0.5, "e": "stuks", "n": "Rijpe avocado" },
+      { "h": 20, "e": "gram", "n": "Geraspte 30+ kaas" },
+      { "h": 0.5, "e": "stuks", "n": "Rode ui (fijngesnipperd)" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (geperst)" },
+      { "h": 0.25, "e": "stuks", "n": "Limoen (sap)" },
+      { "h": 1, "e": "theelepel", "n": "Gerookt paprikapoeder" },
+      { "h": 1, "e": "theelepel", "n": "Komijnpoeder" },
+      { "h": 0.5, "e": "theelepel", "n": "Uienpoeder" },
+      { "h": null, "e": "", "n": "Verse koriander of peterselie" },
+      { "h": null, "e": "", "n": "Olijfolie" },
+      { "h": null, "e": "", "n": "Zout" }
+    ],
+    "stappen": [
+      "Kook de basmatirijst volgens de aanwijzingen op de verpakking gaar en laat hem met de deksel op de pan kort doorgaren.",
+      "Bak de kipblokjes in een beetje olijfolie op hoog vuur goudbruin.",
+      "Voeg de knoflook, het gerookte paprikapoeder, de komijn en het uienpoeder toe en bak ze 1 minuut mee.",
+      "Zet het vuur lager, voeg de zwarte bonen en de tomatensalsa toe en laat 2 tot 3 minuten zachtjes pruttelen.",
+      "Roer de gekookte rijst en de geraspte kaas door het mengsel tot de kaas gesmolten is.",
+      "Prak de avocado fijn met het limoensap, een snuf zout en de Griekse yoghurt.",
+      "Verwarm de wraps kort, besmeer ze met de avocadomix en verdeel de warme kipvulling erover.",
+      "Strooi de rode ui en de koriander over de vulling.",
+      "Rol de burrito's strak op en grill ze 1 minuut in een hete droge koekenpan met de naad naar beneden."
+    ],
+    "voeding": { "kcal": 1030, "eiwit": 68, "kh": 132, "vet": 24 }
+  },
+  {
+    "id": "cajun-kip-pasta",
+    "titel": "Cajun kip met romige tomatenpasta",
+    "omschrijving": "De romigheid komt van geblende hüttenkäse, niet van room. Gedroogde tomaten en spinazie erdoor.",
+    "labels": { "maaltijd": ["diner"], "basis": ["pasta"], "proteine": ["kip"], "vrij": ["romig"] },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 140, "e": "gram", "n": "Kipfilet (in reepjes)" },
+      { "h": 70, "e": "gram", "n": "Fettuccine of penne (ongekookt)" },
+      { "h": 60, "e": "gram", "n": "Hüttenkäse (glad geblend)" },
+      { "h": 25, "e": "gram", "n": "Gedroogde tomaten (in reepjes)" },
+      { "h": 50, "e": "gram", "n": "Verse spinazie" },
+      { "h": 10, "e": "gram", "n": "Parmezaanse kaas (geraspt)" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
+      { "h": 0.5, "e": "eetlepel", "n": "Cajunkruiden" },
+      { "h": 1, "e": "theelepel", "n": "Olijfolie uit de pot van de gedroogde tomaten" },
+      { "h": null, "e": "", "n": "Peper en zout" }
+    ],
+    "stappen": [
+      "Kook de pasta volgens de aanwijzingen op de verpakking al dente. Vang vlak voor het afgieten een scheutje kookvocht op.",
+      "Hussel de kipreepjes in een kom om met de cajunkruiden, peper en zout.",
+      "Verhit de olijfolie in een pan en bak de kip in 5 minuten goudbruin en gaar. Haal de kip uit de pan en zet hem apart.",
+      "Fruit de knoflook en de gedroogde tomaten 1 minuut aan in dezelfde pan op laag vuur.",
+      "Voeg de geblende hüttenkäse en een scheutje kookvocht toe en roer tot er een egale saus ontstaat.",
+      "Voeg de spinazie toe en laat de blaadjes in 1 minuut slinken.",
+      "Schep de pasta en de kip door de saus en serveer met de Parmezaanse kaas eroverheen."
+    ],
+    "voeding": { "kcal": 490, "eiwit": 42, "kh": 50, "vet": 14 }
+  },
+  {
+    "id": "chili-con-carne",
+    "titel": "Chili con carne",
+    "omschrijving": "Eén pan, twaalf minuten pruttelen. Een lepel hüttenkäse erop in plaats van zure room.",
+    "labels": { "maaltijd": ["diner"], "basis": [], "proteine": ["rund"], "vrij": ["mexicaans", "bonen", "één pan"] },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 150, "e": "gram", "n": "Mager rundergehakt" },
+      { "h": 120, "e": "gram", "n": "Kidneybonen uit blik" },
+      { "h": 50, "e": "gram", "n": "Maïs uit blik" },
+      { "h": 150, "e": "gram", "n": "Tomatenblokjes" },
+      { "h": 1, "e": "stuks", "n": "Paprika" },
+      { "h": 0.5, "e": "stuks", "n": "Ui (gesnipperd)" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
+      { "h": 1, "e": "theelepel", "n": "Chilikruiden of komijnpoeder" },
+      { "h": 1, "e": "theelepel", "n": "Sambal oelek" },
+      { "h": 1, "e": "eetlepel", "n": "Hüttenkäse (als topping)" },
+      { "h": null, "e": "", "n": "Bakspray" }
+    ],
+    "stappen": [
+      "Spray een pan in met bakspray en bak het rundergehakt rul met de ui, de knoflook en de chilikruiden.",
+      "Voeg de paprika, de tomatenblokjes, de kidneybonen, de maïs en de sambal toe.",
+      "Laat 10 tot 12 minuten zachtjes pruttelen met de deksel schuin op de pan.",
+      "Schep in een diepe kom en garneer met de hüttenkäse."
+    ],
+    "voeding": { "kcal": 470, "eiwit": 45, "kh": 42, "vet": 11 }
+  },
+  {
+    "id": "chilli-beef-gewokte-rijst",
+    "titel": "Chilli beef met gewokte rijst en bloemkool",
+    "omschrijving": "Gemarineerde biefstuk die er maar twee minuten in gaat, met rijst en bloemkool die meewokken.",
+    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["rund"], "vrij": ["aziatisch", "wok"] },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      { "h": 200, "e": "gram", "n": "Biefstuk (in dunne reepjes)" },
+      { "h": 50, "e": "gram", "n": "Basmatirijst (ongekookt)" },
+      { "h": 150, "e": "gram", "n": "Bloemkool (in kleine roosjes)" },
+      { "h": 0.5, "e": "stuks", "n": "Witte ui (in dunne halve ringen)" },
+      { "h": 0.5, "e": "stuks", "n": "Wortel (in dunne reepjes)" },
+      { "h": 0.5, "e": "stuks", "n": "Rode chilipeper (in dunne ringen)" },
+      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
+      { "h": 0.5, "e": "theelepel", "n": "Verse gember (fijngehakt)" },
+      { "h": 1, "e": "eetlepel", "n": "Lichte sojasaus, voor de marinade" },
+      { "h": 0.75, "e": "eetlepel", "n": "Lichte sojasaus, voor de saus" },
+      { "h": 0.75, "e": "eetlepel", "n": "Sweet chili sauce (light)" },
+      { "h": 0.5, "e": "eetlepel", "n": "Honing" },
+      { "h": 0.5, "e": "eetlepel", "n": "Tomatenketchup 0%" },
+      { "h": 1, "e": "eetlepel", "n": "Rijstazijn" },
+      { "h": null, "e": "", "n": "Bakspray" },
+      { "h": null, "e": "", "n": "Peper en zout" }
+    ],
+    "stappen": [
+      "Kook de basmatirijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Meng de biefstukreepjes met de sojasaus voor de marinade, de knoflook en de gember en laat ze 10 tot 15 minuten marineren.",
+      "Meng in een kommetje de sweet chili sauce, de honing, de ketchup, de rijstazijn en de sojasaus voor de saus tot een egale saus.",
+      "Kook de bloemkoolroosjes in 3 tot 4 minuten beetgaar, giet ze af en spoel ze koud af om het garen te stoppen.",
+      "Spray een wok in met bakspray op hoog vuur en roerbak de biefstuk in anderhalve minuut rondom bruin. Haal hem direct uit de pan.",
+      "Bak de ui en de wortel 3 minuten aan in dezelfde pan. Voeg de chilipeper, de rijst en de bloemkool toe en wok ze 3 tot 4 minuten krachtig mee.",
+      "Draai het vuur laag, voeg de biefstuk en de saus toe en hussel alles 1 minuut om tot de saus zich om het gerecht hecht."
+    ],
+    "voeding": { "kcal": 540, "eiwit": 45, "kh": 58, "vet": 9 }
+  }
+]
