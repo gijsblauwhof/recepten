@@ -178,62 +178,6 @@
     }
   },
   {
-    "id": "babi-pangang",
-    "titel": "Babi pangang",
-    "omschrijving": "Knapperige varkenshaas uit de airfryer met kant-en-klare saus. Vier stappen en klaar.",
-    "labels": {
-      "maaltijd": [
-        "diner"
-      ],
-      "basis": [
-        "rijst"
-      ],
-      "proteine": [
-        "varken"
-      ],
-      "vrij": [
-        "indonesisch",
-        "airfryer"
-      ]
-    },
-    "tijd": 25,
-    "basisPersonen": 1,
-    "ingredienten": [
-      {
-        "h": 150,
-        "e": "gram",
-        "n": "Varkenshaas"
-      },
-      {
-        "h": 50,
-        "e": "gram",
-        "n": "Basmatirijst (ongekookt)"
-      },
-      {
-        "h": 100,
-        "e": "gram",
-        "n": "Magere babi pangang saus"
-      },
-      {
-        "h": 150,
-        "e": "gram",
-        "n": "Atjar tjampoer"
-      }
-    ],
-    "stappen": [
-      "Kook de basmatirijst gaar en giet af.",
-      "Snijd de varkenshaas in plakken en bak ze knapperig in de airfryer, 10 minuten op 190 graden, of in een hete pan.",
-      "Verwarm de saus in een steelpan.",
-      "Serveer het vlees met de saus, de rijst en de atjar."
-    ],
-    "voeding": {
-      "kcal": 490,
-      "eiwit": 40,
-      "kh": 56,
-      "vet": 10
-    }
-  },
-  {
     "id": "burrito-gehakt",
     "titel": "Burrito met gehakt",
     "omschrijving": "Gehaktsaus die indikt tot hij bindt, met rijst en kaas door de vulling en een knapperig gegrilde buitenkant.",
