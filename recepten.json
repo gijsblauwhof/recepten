@@ -4485,5 +4485,572 @@
       "kh": 77,
       "vet": 22
     }
+  },
+  {
+    "id": "rendang",
+    "titel": "Rendang",
+    "omschrijving": "Runderlappen die vier tot vijf uur zachtjes inkoken in kokosmelk en boemboe, tot het vlees uit elkaar valt.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "indonesisch",
+        "stoofpot",
+        "langzaam garen"
+      ]
+    },
+    "tijd": 300,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 1000,
+        "e": "gram",
+        "n": "Runderlappen"
+      },
+      {
+        "h": 5,
+        "e": "stuks",
+        "n": "Sjalotjes"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Rode lomboks"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Kemirinoten"
+      },
+      {
+        "h": 4,
+        "e": "stuks",
+        "n": "Knoflookteen"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Centimeter verse gember"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Trassi"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Tamarindepasta"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Salamblad"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Stengels citroengras"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Staafje kaneel"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Hele steranijs"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Gemalen kruidnagel"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Djinten"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Ketoembar"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Koenjit"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Laos"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Zout en peper"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Gula djawa"
+      },
+      {
+        "h": 400,
+        "e": "ml",
+        "n": "Kokosmelk"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Zonnebloemolie"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Seroendeng of gebrande kokos"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Handvol limoenblad"
+      }
+    ],
+    "stappen": [
+      "Maak een boemboe van de sjalot, de lombok, de knoflook, de gember en de kemirinoten. Zorg dat die een stevige structuur heeft.",
+      "Snijd de runderlappen in blokjes van 2 centimeter en bak ze aan in een pan.",
+      "Fruit de boemboe in dezelfde pan 3 minuten aan op hoog vuur.",
+      "Voeg alle droge kruiden, het salamblad, het limoenblad, de trassi, de tamarinde en de zonnebloemolie toe en bak ze 3 tot 4 minuten mee op hoog vuur.",
+      "Voeg het vlees en het citroengras toe en bak alles kort mee.",
+      "Voeg de gula djawa, de kokosmelk, de steranijs en de kaneel toe en laat 3 tot 5 minuten sudderen op middelhoog vuur.",
+      "Zet het vuur daarna op de laagste stand en laat 4 tot 5 uur pruttelen. Roer om de 10 minuten goed door.",
+      "Haal als het vlees uit elkaar valt alle harde kruiden en het citroengras eruit, roer de seroendeng erdoor en serveer met rijst en atjar tjampoer."
+    ],
+    "voeding": {
+      "kcal": 815,
+      "eiwit": 52,
+      "kh": 16,
+      "vet": 61
+    }
+  },
+  {
+    "id": "oven-kip-aardappel-tomatensaus",
+    "titel": "Kipdijen uit de oven met aardappel en romige tomatensaus",
+    "omschrijving": "Kipdijen op een bed van grove aardappel en ui, bestreken met een romige tomatensaus met paprika en oregano.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "oven",
+        "turks",
+        "een bakplaat"
+      ]
+    },
+    "tijd": 60,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 800,
+        "e": "gram",
+        "n": "Kipdijen"
+      },
+      {
+        "h": 900,
+        "e": "gram",
+        "n": "Aardappelen (in grove stukken)"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Uien (in grove stukken)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 50,
+        "e": "ml",
+        "n": "Plantaardige olie, voor de saus"
+      },
+      {
+        "h": 65,
+        "e": "ml",
+        "n": "Plantaardige olie, voor de aardappelen en uien"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Melk"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Gedroogde oregano"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 190 graden.",
+      "Snijd de aardappelen en de uien in grove stukken en leg ze op een bakplaat.",
+      "Bestrooi ze met paprikapoeder, zwarte peper, oregano en zout, schenk de olie voor de aardappelen en uien erover en hussel alles goed door.",
+      "Verdeel de groenten gelijkmatig over de plaat en leg de kipdijen erbovenop.",
+      "Meng de tomatenpuree, de olie voor de saus, de melk, paprikapoeder, peper, oregano en zout tot een gladde saus.",
+      "Bestrijk de kip royaal met de saus.",
+      "Bak alles in de oven tot de kip gaar en mooi gebruind is en de aardappelen zacht zijn.",
+      "Serveer warm, eventueel met rijst en een frisse salade."
+    ],
+    "voeding": {
+      "kcal": 720,
+      "eiwit": 45,
+      "kh": 48,
+      "vet": 40
+    }
+  },
+  {
+    "id": "creamy-korean-beef-rice-bowl",
+    "titel": "Creamy Korean beef rice bowl",
+    "omschrijving": "Gekruid rundergehakt over rijst, afgemaakt met een romige pittige saus van mayonaise en gochujang.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "koreaans",
+        "romig",
+        "pittig",
+        "snel"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 454,
+        "e": "gram",
+        "n": "Rundergehakt"
+      },
+      {
+        "h": 110,
+        "e": "gram",
+        "n": "Witte rijst (ongekookt)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Bosuien (in ringetjes)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sesamolie, voor het gehakt"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Mayonaise"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Gochujang"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sesamolie, voor de saus"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar.",
+      "Bak het rundergehakt in een koekenpan rul en gaar.",
+      "Voeg de knoflook, de sojasaus en de sesamolie voor het gehakt toe en bak door tot het vlees overal bedekt is.",
+      "Roer de mayonaise, de gochujang en de sesamolie voor de saus glad.",
+      "Schep het gehakt over de warme rijst, lepel de romige saus erover en garneer met de bosui."
+    ],
+    "voeding": {
+      "kcal": 500,
+      "eiwit": 24,
+      "kh": 25,
+      "vet": 33
+    }
+  },
+  {
+    "id": "pasta-alla-zozzona",
+    "titel": "Pasta alla zozzona",
+    "omschrijving": "Rijke Romeinse pasta met krokante guanciale, salsiccia en tomaat, gebonden met een crème van eidooier en pecorino.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "varken"
+      ],
+      "vrij": [
+        "italiaans",
+        "romig"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 2,
+    "ingredienten": [
+      {
+        "h": 180,
+        "e": "gram",
+        "n": "Mezzi rigatoni (ongekookt)"
+      },
+      {
+        "h": 80,
+        "e": "gram",
+        "n": "Guanciale"
+      },
+      {
+        "h": 120,
+        "e": "gram",
+        "n": "Salsiccia"
+      },
+      {
+        "h": 250,
+        "e": "gram",
+        "n": "Pelati tomaten"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Eidooiers"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Pecorino Romano (geraspt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Pastawater"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Extra pecorino om te serveren"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse basilicum"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zout en zwarte peper"
+      }
+    ],
+    "stappen": [
+      "Bak de guanciale zonder olie langzaam krokant en haal hem uit de pan.",
+      "Bak de salsiccia goudbruin in het achtergebleven vet.",
+      "Voeg de grof geplette tomaten, peper en basilicum toe, gebruik weinig zout en laat 10 tot 12 minuten zachtjes koken.",
+      "Kook de mezzi rigatoni zeer al dente en bewaar een kopje pastawater.",
+      "Meng de eidooiers, de pecorino en een deel van het pastawater tot een gladde crème.",
+      "Meng de pasta ongeveer 1 minuut door de tomatensaus.",
+      "Zet het vuur uit, voeg de eidooiercrème en een scheutje pastawater toe en meng tot alles mooi smeuïg is.",
+      "Verdeel over de borden met de krokante guanciale en extra pecorino erover."
+    ],
+    "voeding": {
+      "kcal": 955,
+      "eiwit": 35,
+      "kh": 72,
+      "vet": 57
+    }
+  },
+  {
+    "id": "citroen-prei-orzo-kipballetjes",
+    "titel": "Citroen-prei orzo met kipballetjes",
+    "omschrijving": "Kipballetjes met dille en peterselie op romige orzo met zachte prei, spinazie en citroenrasp.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "een pan",
+        "fris",
+        "orzo"
+      ]
+    },
+    "tijd": 40,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 454,
+        "e": "gram",
+        "n": "Kipgehakt"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Panko paneermeel"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Gele ui (fijngeraspt en licht uitgeknepen)"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Knoflookteen, voor de balletjes (fijngehakt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Verse dille (fijngesneden)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Platte peterselie (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Groot ei (losgeklopt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Gedroogde oregano"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Zout"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Versgemalen zwarte peper"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Olijfolie, voor de balletjes"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie, voor de orzo"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Orzo (ongekookt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Grote prei (alleen wit en lichtgroen, in dunne ringen)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen, voor de orzo (fijngehakt)"
+      },
+      {
+        "h": 80,
+        "e": "ml",
+        "n": "Droge witte wijn"
+      },
+      {
+        "h": 650,
+        "e": "ml",
+        "n": "Kippenbouillon (warm)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Babyspinazie"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Grote citroen (rasp)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Citroensap om af te maken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse dille en peterselie om af te maken"
+      }
+    ],
+    "stappen": [
+      "Meng het kipgehakt met het panko, de geraspte ui, de knoflook voor de balletjes, de dille, de peterselie, het ei, de oregano, het zout en de peper. Draai er gelijke balletjes van.",
+      "Verhit de olijfolie voor de balletjes in een ruime pan en bak ze rondom goudbruin. Ze hoeven nog niet gaar te zijn. Haal ze uit de pan.",
+      "Verhit de olijfolie voor de orzo in dezelfde pan en bak de prei in een paar minuten zacht.",
+      "Voeg de knoflook voor de orzo toe en bak die kort mee.",
+      "Voeg de orzo toe en roer hem een minuut door de olie tot hij glanst.",
+      "Blus af met de witte wijn en laat die bijna helemaal verdampen.",
+      "Giet de warme kippenbouillon er in delen bij en roer regelmatig, tot de orzo gaar en romig is.",
+      "Leg de balletjes terug in de pan en laat ze de laatste minuten meegaren.",
+      "Roer de babyspinazie en de citroenrasp erdoor tot de blaadjes geslonken zijn en breng op smaak met peper en zout.",
+      "Maak af met citroensap, verse dille en peterselie, en eventueel een scheutje olijfolie."
+    ],
+    "voeding": {
+      "kcal": 485,
+      "eiwit": 33,
+      "kh": 47,
+      "vet": 16
+    }
   }
 ]
