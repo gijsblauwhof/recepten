@@ -2504,5 +2504,1773 @@
       "kh": 46,
       "vet": 11
     }
+  },
+  {
+    "id": "pasta-italiaanse-gehaktballetjes",
+    "titel": "Pasta met Italiaanse gehaktballetjes",
+    "omschrijving": "Zelfgedraaide balletjes die nagaren in passata met een scheut balsamico, op spaghetti.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "italiaans",
+        "een pan"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Mager rundergehakt"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Volkoren spaghetti (ongekookt)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Passata"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Oregano"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Scheutje balsamicoazijn"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse basilicum"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de spaghetti volgens de aanwijzingen op de verpakking gaar in water met zout.",
+      "Kruid het rundergehakt met de oregano, peper en zout en draai er balletjes van.",
+      "Spray een hapjespan in met bakspray en fruit de ui en de knoflook 2 minuten aan op middelhoog vuur.",
+      "Voeg de gehaktballetjes toe en bak ze in 6 minuten rondom bruin.",
+      "Giet de passata en de balsamicoazijn erbij en laat 5 minuten zachtjes pruttelen tot de saus licht is ingedikt en de balletjes gaar zijn.",
+      "Schep de spaghetti op een bord, giet de balletjes met de saus erover en garneer met de Parmezaanse kaas en de basilicum."
+    ],
+    "voeding": {
+      "kcal": 510,
+      "eiwit": 46,
+      "kh": 50,
+      "vet": 14
+    }
+  },
+  {
+    "id": "kabeljauw-pittige-tomatensaus",
+    "titel": "Kabeljauw in pittige tomatensaus",
+    "omschrijving": "Kabeljauw die zacht gaart in een pittige tomatensaus, met rijst ernaast.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "vis"
+      ],
+      "vrij": [
+        "een pan",
+        "pittig"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Kabeljauwfilet"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Basmatirijst (ongekookt)"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Tomatenblokjes uit blik"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode chilipeper (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Verse peterselie of koriander (fijngesneden)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Citroen (sap)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de basmatirijst volgens de aanwijzingen op de verpakking gaar in water met zout.",
+      "Dep de kabeljauw droog en breng hem op smaak met peper, zout en het citroensap.",
+      "Spray een pan in met bakspray en fruit de ui 3 minuten zacht aan op middelhoog vuur.",
+      "Voeg de knoflook, de chilipeper, het paprikapoeder en de chilivlokken toe en bak ze 1 minuut mee.",
+      "Roer de tomatenpuree erdoor en bak die kort mee.",
+      "Voeg de tomatenblokjes, peper en zout toe en laat de saus 10 minuten zachtjes pruttelen en indikken.",
+      "Leg de kabeljauw voorzichtig in de saus, doe de deksel op de pan en laat hem 8 tot 10 minuten op laag vuur garen.",
+      "Garneer met de peterselie of koriander en serveer met de gekookte rijst."
+    ],
+    "voeding": {
+      "kcal": 410,
+      "eiwit": 42,
+      "kh": 48,
+      "vet": 4
+    }
+  },
+  {
+    "id": "kip-cashew-rijst",
+    "titel": "Kip cashew met rijst",
+    "omschrijving": "Geroosterde cashewnoten en kip in een kleverige hoisinsaus, gewokt met twee kleuren paprika.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "aziatisch",
+        "wok"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Kipfilet (in blokjes)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Basmatirijst of zilvervliesrijst (ongekookt)"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Cashewnoten (ongezouten)"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Rode paprika (in blokjes)"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Groene paprika (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Bosui (in ringetjes)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Verse gember (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Hoisinsaus"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Oestersaus"
+      },
+      {
+        "h": 0.75,
+        "e": "eetlepel",
+        "n": "Sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Bruine suiker"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Maizena"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Koud water, voor het maizenapapje"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Rooster de cashewnoten in een droge wok goudbruin en geurig. Haal ze uit de pan en zet ze apart.",
+      "Spray de wok in met bakspray op hoog vuur en bak de kipblokjes in 5 minuten rondom goudbruin en gaar. Haal ze uit de pan.",
+      "Fruit de knoflook en de gember kort aan in dezelfde pan, voeg de paprika en het witte deel van de bosui toe en roerbak 2 tot 3 minuten op hoog vuur.",
+      "Roer de maizena los met het koude water tot een papje.",
+      "Voeg de hoisinsaus, de oestersaus, de sojasaus, de bruine suiker en de sesamolie toe aan de groenten, giet het maizenapapje erbij en laat kort pruttelen tot de saus indikt.",
+      "Voeg de kip en de cashewnoten toe en hussel op hoog vuur om tot de saus zich om alles hecht.",
+      "Serveer over de gekookte rijst en garneer met het groene deel van de bosui."
+    ],
+    "voeding": {
+      "kcal": 690,
+      "eiwit": 52,
+      "kh": 83,
+      "vet": 16
+    }
+  },
+  {
+    "id": "kip-in-pindasaus",
+    "titel": "Kip in pindasaus",
+    "omschrijving": "Kip met een snelle pindasaus van pindakaas, sojasaus en sambal, met broccoli en rijst.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "aziatisch",
+        "snel"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipfilet (in blokjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Rijst (ongekookt)"
+      },
+      {
+        "h": 125,
+        "e": "gram",
+        "n": "Broccoli (in kleine roosjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Pindakaas (100% pinda)"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Honing"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Stoom of kook de broccoliroosjes in 3 tot 4 minuten beetgaar.",
+      "Spray een koekenpan in met bakspray en bak de kipblokjes met de rode ui, peper en zout in 5 minuten goudbruin en gaar.",
+      "Meng de pindakaas, de sojasaus, de sambal, de honing en een scheutje warm water tot een gladde saus.",
+      "Voeg de pindasaus toe aan de kip en roer goed door op laag vuur.",
+      "Voeg de broccoli toe en verwarm alles 1 minuut mee.",
+      "Serveer over de gekookte rijst."
+    ],
+    "voeding": {
+      "kcal": 520,
+      "eiwit": 46,
+      "kh": 48,
+      "vet": 14
+    }
+  },
+  {
+    "id": "koreaanse-bbq-beef-rice-bowl",
+    "titel": "Koreaanse BBQ beef rice bowl",
+    "omschrijving": "Biefstukreepjes in een kleverige gochujangsaus, met een snelle zure komkommersalade erbij.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "koreaans",
+        "wok",
+        "pittig"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Biefstuk (in dunne reepjes)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Witte rijst (ongekookt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Komkommer (in flinterdunne schijfjes)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Bosui (in ringetjes)"
+      },
+      {
+        "h": 20,
+        "e": "ml",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 0.75,
+        "e": "eetlepel",
+        "n": "Gochujang"
+      },
+      {
+        "h": 0.75,
+        "e": "eetlepel",
+        "n": "Bruine suiker"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Runderbouillon"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Rijstazijn, voor de komkommer"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Rijstazijn, voor de saus"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Verse gember (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Maizena, voor het vlees"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Maizena, voor de saus"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Geroosterd sesamzaad"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snuf chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de witte rijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Meng de komkommerschijfjes met de rijstazijn voor de komkommer, de sesamolie, zout, de chilivlokken en het sesamzaad. Zet ze koud weg.",
+      "Meng in een steelpannetje de sojasaus, de gochujang, de bruine suiker, de runderbouillon, de rijstazijn voor de saus, de knoflook en de gember en breng zachtjes aan de kook.",
+      "Roer de maizena voor de saus los met een drupje koud water, roer dat door de saus en laat kort pruttelen tot hij indikt.",
+      "Bestrooi de biefstukreepjes gelijkmatig met de maizena voor het vlees, peper en zout.",
+      "Spray een wok in met bakspray op hoog vuur en wok de biefstukreepjes in 1 tot 2 minuten rondom goudbruin.",
+      "Giet de warme saus bij de biefstuk en hussel 30 seconden op hoog vuur tot de saus kleverig om het vlees hecht.",
+      "Verdeel de rijst over een kom, schep het vlees en de komkommersalade ernaast en garneer met de bosui."
+    ],
+    "voeding": {
+      "kcal": 512,
+      "eiwit": 52,
+      "kh": 53,
+      "vet": 9
+    }
+  },
+  {
+    "id": "koreaanse-rijstbowl",
+    "titel": "Koreaanse rijstbowl",
+    "omschrijving": "Gehakt, gewokte groenten en een spiegelei in nette vakken over de rijst, met gochujang eroverheen.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "koreaans",
+        "wok",
+        "bowl"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Mager rundergehakt of kipgehakt"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Rijst (ongekookt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Groot ei"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Verse spinazie"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Wortelrasp"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Taugé"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Gochujang, voor het gehakt"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Gochujang, om af te maken"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (geperst)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Spray een koekenpan in met bakspray en bak het ei als spiegelei. Haal het uit de pan en zet het apart.",
+      "Bak in dezelfde pan het gehakt rul en gaar met de knoflook, de sojasaus en de gochujang voor het gehakt.",
+      "Wok de spinazie, de wortelrasp en de taugé heel kort in een andere ingespoten pan, zodat de groenten stevig blijven.",
+      "Verdeel de rijst over een kom en schep het gehakt en de wokgroenten in losse vakken erover.",
+      "Leg het spiegelei in het midden en besprenkel alles met de gochujang om af te maken en de sesamolie."
+    ],
+    "voeding": {
+      "kcal": 500,
+      "eiwit": 43,
+      "kh": 46,
+      "vet": 15
+    }
+  },
+  {
+    "id": "loaded-zoete-aardappel-biefreepjes",
+    "titel": "Loaded zoete aardappel met biefreepjes",
+    "omschrijving": "Gepofte zoete aardappel gevuld met hüttenkäse en gewokte biefstuk met paprika.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "oven",
+        "snel"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Zoete aardappel"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Biefstukreepjes"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Hüttenkäse"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Bosuien (in ringetjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Paprika (in reepjes)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Sriracha"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Pof de zoete aardappel 25 minuten op 200 graden in de oven tot hij zacht is.",
+      "Spray een pan in met bakspray en wok de biefstukreepjes met de paprika op hoog vuur, met peper en zout.",
+      "Snijd de aardappel open en vul hem met de hüttenkäse en het biefstukmengsel.",
+      "Garneer met de bosui en een streep sriracha."
+    ],
+    "voeding": {
+      "kcal": 480,
+      "eiwit": 42,
+      "kh": 52,
+      "vet": 9
+    }
+  },
+  {
+    "id": "marry-me-chicken-pasta",
+    "titel": "Marry me chicken pasta",
+    "omschrijving": "Romige pasta met kip, zongedroogde tomaten en spinazie, afgemaakt met Parmezaan en basilicum.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "italiaans",
+        "romig"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Kipfilet (in blokjes)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Volkoren of eiwitrijke penne (ongekookt)"
+      },
+      {
+        "h": 35,
+        "e": "gram",
+        "n": "Verse babyspinazie"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Zongedroogde tomaten (in reepjes)"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 90,
+        "e": "ml",
+        "n": "Kookroom 7% vet"
+      },
+      {
+        "h": 60,
+        "e": "ml",
+        "n": "Vetarme kipbouillon"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Italiaanse kruiden"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse basilicum"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de penne volgens de aanwijzingen op de verpakking al dente, vang een scheutje kookvocht op en giet af.",
+      "Kruid de kipblokjes met het knoflookpoeder, de Italiaanse kruiden, het paprikapoeder, peper en zout.",
+      "Spray een hapjespan in met bakspray en bak de kip in 5 tot 6 minuten goudbruin en gaar. Haal hem uit de pan.",
+      "Fruit de knoflook 30 seconden aan, giet de kipbouillon en de kookroom erbij en breng zachtjes aan de kook.",
+      "Roer de Parmezaanse kaas, de zongedroogde tomaten en de chilivlokken erdoor en laat de saus zachtjes indikken.",
+      "Roer de babyspinazie door de saus tot die geslonken is.",
+      "Voeg de kip en de penne toe en schep goed om. Is de saus te dik, voeg dan een scheutje kookvocht toe.",
+      "Garneer met verse basilicum en versgemalen zwarte peper."
+    ],
+    "voeding": {
+      "kcal": 690,
+      "eiwit": 67,
+      "kh": 64,
+      "vet": 16
+    }
+  },
+  {
+    "id": "pindakaas-chili-crisp-noedels",
+    "titel": "Pindakaas en chili crisp noedels met kipgehakt",
+    "omschrijving": "Noedels in een romige pindasaus met chili crisp, gemaakt in de pan met het hete noedelvocht.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "aziatisch",
+        "noedels",
+        "pittig"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Mager kipgehakt"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Volkoren noedels (ongekookt)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Pindakaas (100% pinda)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Chili crisp of chiliolie"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Rijstazijn"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Knoflook (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Gember (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Sjalot (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Bosui (in ringetjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode chilipeper (in ringetjes)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Geroosterd sesamzaad"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de noedels volgens de aanwijzingen op de verpakking, vang vlak voor het afgieten een kopje heet kookvocht op en giet af.",
+      "Spray een hapjespan in met bakspray en fruit de knoflook, de gember, de sjalot en de helft van de bosui 1 minuut aan op middelhoog vuur.",
+      "Voeg het kipgehakt toe, breng op smaak met peper en zout en bak het in 5 tot 6 minuten rul, goudbruin en gaar.",
+      "Schuif het gehakt naar de rand van de pan, voeg de pindakaas, de chili crisp, de sojasaus en de rijstazijn toe in het midden en giet er een scheutje heet noedelvocht bij.",
+      "Roer op laag vuur tot de pindakaas smelt en er een romige saus ontstaat en meng die door het gehakt.",
+      "Voeg de noedels toe en hussel op laag vuur tot ze bedekt zijn met saus. Voeg extra noedelvocht toe als het te droog wordt.",
+      "Serveer op een bord en garneer met de rest van de bosui, de rode chilipeper en het sesamzaad."
+    ],
+    "voeding": {
+      "kcal": 520,
+      "eiwit": 42,
+      "kh": 48,
+      "vet": 16
+    }
+  },
+  {
+    "id": "pittige-kip-rosa-pasta",
+    "titel": "Pittige kip rosa pasta",
+    "omschrijving": "Roze saus van passata met geblende hüttenkäse erdoor, van het vuur af geroerd zodat hij niet schift.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "italiaans",
+        "romig",
+        "pittig"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Kipfilet"
+      },
+      {
+        "h": 70,
+        "e": "gram",
+        "n": "Eiwitrijke of volkoren penne (ongekookt)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Hüttenkäse (glad geblend)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Tomatenpassata"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Chilivlokken, voor de kip"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Chilivlokken, voor de saus"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kruid de kipfilet stevig met peper, zout en de chilivlokken voor de kip. Grill hem in een ingespoten grillpan 5 tot 6 minuten per kant goudbruin en gaar, laat even rusten en snijd in dunne plakjes.",
+      "Kook de penne volgens de aanwijzingen op de verpakking al dente, vang een scheutje kookvocht op en giet af.",
+      "Giet de passata in een pan en laat die met de knoflook en de chilivlokken voor de saus 3 tot 4 minuten zachtjes pruttelen.",
+      "Haal de pan volledig van het vuur en roer de geblende hüttenkäse erdoor tot een romige roze saus ontstaat.",
+      "Meng de penne en de plakjes kip door de saus en serveer met de Parmezaanse kaas eroverheen. Voeg een scheutje kookvocht toe als de saus te dik is."
+    ],
+    "voeding": {
+      "kcal": 570,
+      "eiwit": 52,
+      "kh": 48,
+      "vet": 18
+    }
+  },
+  {
+    "id": "proteine-carbonara-kalkoenbacon",
+    "titel": "Proteïne carbonara met kalkoenbacon",
+    "omschrijving": "Carbonara zonder room: de saus ontstaat van het vuur af uit ei, Parmezaan en kookvocht.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kalkoen"
+      ],
+      "vrij": [
+        "italiaans",
+        "snel"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Kalkoenbacon (in reepjes)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Volkoren penne (ongekookt)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Doperwten (diepvries)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Heel ei"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Losse ei-eiwitten"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Parmezaanse kaas (fijngeraspt)"
+      },
+      {
+        "h": 3,
+        "e": "eetlepel",
+        "n": "Pastakookvocht"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Versgemalen zwarte peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de penne al dente volgens de aanwijzingen op de verpakking en voeg de doperwten de laatste 3 minuten toe aan het kookwater. Vang het pastakookvocht op en giet af.",
+      "Klop het hele ei, de losse eiwitten, de Parmezaanse kaas en een royale hoeveelheid zwarte peper los in een kommetje.",
+      "Spray een pan in met bakspray en bak de kalkoenbacon op middelhoog vuur in 3 tot 4 minuten goudbruin en knapperig.",
+      "Haal de pan volledig van het vuur en voeg de pasta en de doperwten toe.",
+      "Giet direct het eimengsel en het pastakookvocht erbij en roer van het vuur af krachtig door tot er door de rustwarmte een romige saus ontstaat.",
+      "Serveer direct, eventueel met extra zwarte peper."
+    ],
+    "voeding": {
+      "kcal": 675,
+      "eiwit": 52,
+      "kh": 62,
+      "vet": 20
+    }
+  },
+  {
+    "id": "rigatoni-worst-spek",
+    "titel": "Rigatoni met worst en spek",
+    "omschrijving": "Tomatensaus die romig wordt van Griekse yoghurt, van het vuur af erdoor geroerd.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip",
+        "varken"
+      ],
+      "vrij": [
+        "italiaans",
+        "romig"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Kipbraadworst (vel verwijderd, verkruimeld)"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Magere spekreepjes of kalkoenbacon"
+      },
+      {
+        "h": 70,
+        "e": "gram",
+        "n": "Rigatoni (ongekookt)"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Tomatenblokjes of passata"
+      },
+      {
+        "h": 40,
+        "e": "gram",
+        "n": "Magere Griekse yoghurt 0%"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Ui (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse basilicum"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rigatoni volgens de aanwijzingen op de verpakking al dente in water met zout, vang een scheutje kookvocht op en giet af.",
+      "Spray een pan in met bakspray op middelhoog vuur en bak het worstvlees en de spekreepjes in 4 tot 5 minuten goudbruin en knapperig.",
+      "Voeg de ui en de knoflook toe en bak ze 2 minuten mee tot de ui zacht is. Roer de chilivlokken erdoor.",
+      "Giet de tomatenblokjes erbij en laat de saus 5 minuten zachtjes pruttelen en indikken.",
+      "Haal de pan volledig van het vuur en roer de Griekse yoghurt erdoor tot een egale romige saus ontstaat.",
+      "Schep de rigatoni met een scheutje kookvocht door de saus, meng alles goed en garneer met basilicum en zwarte peper."
+    ],
+    "voeding": {
+      "kcal": 580,
+      "eiwit": 40,
+      "kh": 68,
+      "vet": 15
+    }
+  },
+  {
+    "id": "romige-citroen-pasta-worst",
+    "titel": "Romige citroenpasta met worst",
+    "omschrijving": "Verkruimelde braadworst in een citroensaus die indikt met bloem, afgemaakt met roomkaas.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "romig",
+        "fris"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipbraadworst of runderbraadworst (vel verwijderd)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Volkoren pasta (ongekookt)"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Rode ui (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Light kookroom (7 tot 10% vet)"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Water"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Zuivelspread light"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Citroensap"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Bloem"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Provençaalse kruiden"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Rasp van een biologische citroen"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snufje kurkuma"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de pasta volgens de aanwijzingen op de verpakking al dente, vang vlak voor het afgieten een scheutje kookvocht op en giet af.",
+      "Spray een hapjespan in met bakspray en bak het verkruimelde worstvlees goudbruin en gaar. Voeg de rode ui en de knoflook toe en fruit ze 2 tot 3 minuten mee.",
+      "Strooi de bloem over het vlees en roer 1 minuut door om de bloem te garen.",
+      "Giet het citroensap, de kookroom en het water in de pan, breng zachtjes aan de kook en laat ongeveer 10 minuten pruttelen tot de saus begint in te dikken.",
+      "Roer de citroenrasp, de zuivelspread, de Provençaalse kruiden, het paprikapoeder, het knoflookpoeder, de kurkuma, peper en zout erdoor en laat nog 5 minuten zachtjes stoven op laag vuur.",
+      "Schep de pasta door de saus en meng alles goed. Voeg wat kookvocht toe als de saus te dik is."
+    ],
+    "voeding": {
+      "kcal": 710,
+      "eiwit": 42,
+      "kh": 66,
+      "vet": 28
+    }
+  },
+  {
+    "id": "romige-paprikapasta-pittig-gehakt",
+    "titel": "Romige paprikapasta met pittig gehakt",
+    "omschrijving": "Saus van geblende gegrilde paprika en hüttenkäse, met knapperig gebakken gehakt erdoor.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "italiaans",
+        "romig",
+        "pittig"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 130,
+        "e": "gram",
+        "n": "Mager rundergehakt"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Calamarata of paccheri (ongekookt)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Gegrilde rode paprika uit pot (goed uitgelekt)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Hüttenkäse (glad geblend)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Cherrytomaten (gehalveerd)"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Verse rozemarijn (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de pasta volgens de aanwijzingen op de verpakking al dente, vang een scheutje kookvocht op en giet af.",
+      "Blend de uitgelekte gegrilde paprika met de hüttenkäse tot een volledig gladde romige saus.",
+      "Spray een pan in met bakspray en bak het rundergehakt op hoog vuur rul en knapperig.",
+      "Voeg halverwege de knoflook, de chilivlokken en de cherrytomaten toe en bak 2 tot 3 minuten mee tot de tomaten zacht worden en licht openbarsten.",
+      "Zet het vuur laag, giet de paprikasaus erbij en warm die heel rustig mee op. Laat de saus niet koken, anders schift de kaas.",
+      "Schep de pasta met een drupje kookvocht door de saus en meng alles goed.",
+      "Serveer op een bord en garneer met de Parmezaanse kaas en de rozemarijn."
+    ],
+    "voeding": {
+      "kcal": 570,
+      "eiwit": 46,
+      "kh": 54,
+      "vet": 16
+    }
+  },
+  {
+    "id": "romige-pasta-worst-spinazie",
+    "titel": "Romige pasta met worst en spinazie",
+    "omschrijving": "Penne in een saus van kipbouillon en kookroom, met Parmezaan en net geslonken spinazie.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "italiaans",
+        "romig"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipbraadworst of runderbraadworst (vel verwijderd)"
+      },
+      {
+        "h": 70,
+        "e": "gram",
+        "n": "Volkoren penne (ongekookt)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Verse babyspinazie"
+      },
+      {
+        "h": 60,
+        "e": "ml",
+        "n": "Kookroom 7% vet"
+      },
+      {
+        "h": 50,
+        "e": "ml",
+        "n": "Vetarme kipbouillon"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Italiaanse kruiden"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse peterselie (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snuf chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de penne volgens de aanwijzingen op de verpakking beetgaar in water met zout en giet af.",
+      "Spray een hapjespan in met bakspray op middelhoog vuur en bak het verkruimelde worstvlees in 5 minuten rondom goudbruin en gaar.",
+      "Voeg de ui en de knoflook toe en bak ze 2 tot 3 minuten mee tot de ui zacht is.",
+      "Giet de kipbouillon en de kookroom erbij, roer de aanbaksels van de bodem los en breng zachtjes aan de kook.",
+      "Roer de Parmezaanse kaas en de Italiaanse kruiden erdoor en laat een paar minuten pruttelen tot de kaas gesmolten is en de saus indikt.",
+      "Voeg de babyspinazie toe en roer die 1 tot 2 minuten door de saus tot de blaadjes net geslonken zijn.",
+      "Schep de penne door de saus en meng alles goed.",
+      "Serveer op een bord en garneer met de peterselie en een snuf chilivlokken."
+    ],
+    "voeding": {
+      "kcal": 650,
+      "eiwit": 42,
+      "kh": 56,
+      "vet": 25
+    }
+  },
+  {
+    "id": "smash-burger-tacos",
+    "titel": "Smash burger tacos met gekarameliseerde ui",
+    "omschrijving": "Gehakt plat gedrukt op een tortilla en met de vleeskant in de pan, met burgersaus en zachte ui.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "amerikaans",
+        "taco"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 125,
+        "e": "gram",
+        "n": "Mager rundergehakt 5%"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Kleine maïstortilla's"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Plakjes cheddar light"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Kleine ui (in dunne ringen)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Ahornsiroop"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "American BBQ-kruidenmix"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Magere Griekse yoghurt 0%"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Ketchup zonder toegevoegde suiker"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Amerikaanse mosterd"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Augurk (zeer fijn gesneden)"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Augurkennat"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Handje ijsbergsla (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse peterselie (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snufje zoetstof of kokosbloesemsuiker"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Meng de Griekse yoghurt, de ketchup, de mosterd, de augurk, het augurkennat, het knoflookpoeder en de zoetstof tot een gladde burgersaus en zet die apart.",
+      "Spray een pan in met bakspray op middelhoog vuur, voeg de uienringen, de ahornsiroop en een snuf zout toe en bak ze rustig in 15 tot 20 minuten goudbruin en heel zacht. Voeg een spatje water toe als ze te droog worden.",
+      "Verdeel het rundergehakt in gelijke ballen, één per tortilla. Druk op elke tortilla een bal helemaal plat uit tot aan de randen en bestrooi royaal met de BBQ-kruiden, peper en zout.",
+      "Verhit een droge koekenpan op middelhoog tot hoog vuur en leg de tortilla's met de vleeskant naar beneden. Druk stevig aan en bak 2 tot 3 minuten tot het vlees een knapperig bruin korstje heeft.",
+      "Draai de taco's om, leg op elke burger een plakje cheddar, doe een deksel op de pan en laat de kaas 1 minuut smelten.",
+      "Haal de taco's uit de pan, beleg ze met de ijsbergsla, de gekarameliseerde ui, een schep burgersaus en de peterselie, en vouw ze dubbel."
+    ],
+    "voeding": {
+      "kcal": 485,
+      "eiwit": 46,
+      "kh": 38,
+      "vet": 15
+    }
+  },
+  {
+    "id": "tex-mex-zoete-aardappel-traybake",
+    "titel": "Tex-Mex zoete aardappel traybake",
+    "omschrijving": "Alles van één bakplaat: geroosterde zoete aardappel en paprika, met kip en zwarte bonen erbij.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "oven",
+        "mexicaans",
+        "een bakplaat"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipfilet (in blokjes)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Zoete aardappel (in kleine blokjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Zwarte bonen (uitgelekt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Rode paprika (in blokjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode ui (in grove stukken)"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Geraspte kaas 30+ of cheddar"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Magere Griekse yoghurt 0%"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Gerookt paprikapoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Komijnpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse koriander (fijngehakt)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snuf chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 200 graden en bekleed een bakplaat met bakpapier.",
+      "Verdeel de zoete aardappel, de paprika en de rode ui over de bakplaat.",
+      "Spray alles in met bakspray en bestrooi het met de helft van het paprikapoeder, het komijnpoeder en het knoflookpoeder, peper en zout. Rooster 15 minuten in de oven.",
+      "Kruid de kipblokjes met de rest van de kruiden en de chilivlokken.",
+      "Haal de bakplaat uit de oven, voeg de kip en de zwarte bonen toe en schep alles goed om.",
+      "Rooster nog 10 tot 12 minuten tot de kip gaar is en de zoete aardappel zacht.",
+      "Strooi de kaas over de warme traybake en zet die nog 1 minuut terug in de oven tot de kaas gesmolten is.",
+      "Schep op een bord en garneer met de Griekse yoghurt en de koriander."
+    ],
+    "voeding": {
+      "kcal": 490,
+      "eiwit": 41,
+      "kh": 54,
+      "vet": 11
+    }
   }
 ]
