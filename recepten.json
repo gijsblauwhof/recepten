@@ -2400,7 +2400,12 @@
       "Meng de tomaatjes, de komkommer, de rode ui en de rest van de peterselie in een schaaltje en breng op smaak met peper en zout.",
       "Verdeel de citroenkrieltjes, de balletjes en de salade over een kom en serveer met de tzatziki."
     ],
-    "voeding": null
+    "voeding": {
+      "kcal": 390,
+      "eiwit": 27,
+      "kh": 38,
+      "vet": 11
+    }
   },
   {
     "id": "griekse-rijstschotel-gyros",
