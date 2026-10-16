@@ -863,7 +863,7 @@
   {
     "id": "proteine-granola",
     "titel": "Eiwitrijke proteïne granola",
-    "omschrijving": "Eén grote plaat granola die je na het afkoelen in stukken breekt. Vrij in smaakmaker en crunch.",
+    "omschrijving": "Eén grote plaat granola die je na het afkoelen in stukken breekt. Vrij in smaakmaker en crunch. Gebaseerd op 6 personen.",
     "labels": {
       "maaltijd": [
         "ontbijt"
@@ -874,7 +874,6 @@
       ],
       "vrij": [
         "oven",
-        "meal prep",
         "havermout"
       ]
     },
@@ -889,7 +888,7 @@
       {
         "h": 30,
         "e": "gram",
-        "n": "Pompoenpitten of zonnebloempitten"
+        "n": "Walnoten"
       },
       {
         "h": 1,
@@ -907,17 +906,17 @@
         "n": "Grote banaan als bindmiddel, of appelmoes zonder suiker"
       },
       {
-        "h": null,
-        "e": "",
-        "n": "Noten, gepofte granen of cacaonibs naar keuze"
+        "h": 25,
+        "e": "gram",
+        "n": "Cacaonibs"
       }
     ],
     "stappen": [
-      "Verwarm de oven voor op 160 graden hetelucht en bekleed een bakplaat met bakpapier.",
-      "Meng de havermout, de pitten, het zout en de smaakmaker in een grote kom. Meng de noten of cacaonibs er ook doorheen.",
+      "Verwarm de oven voor op 180 graden hetelucht en bekleed een bakplaat met bakpapier.",
+      "Meng de havermout, de walnoten, het zout en de smaakmaker in een grote kom. Meng de cacaonibs er ook doorheen.",
       "Voeg het bindmiddel toe en kneed stevig door tot de havermout overal vochtig is.",
       "Stort het mengsel op de bakplaat en druk het met de achterkant van een lepel aan tot één compacte koek.",
-      "Bak in 18 tot 22 minuten goudbruin. Schep tussendoor niet om, anders krijg je geen brokken.",
+      "Bak in 20 tot 25 minuten goudbruin. Schep tussendoor niet om, anders krijg je geen brokken.",
       "Laat volledig afkoelen op de bakplaat. Hij wordt pas krokant als hij koud is."
     ],
     "voeding": null
