@@ -3,19 +3,69 @@
     "id": "asian-beef-broccolini",
     "titel": "Asian beef en broccolini bowl",
     "omschrijving": "Snelle wok met biefstuk en broccolini over zilvervliesrijst. Geen olie in de pan, klaar in twintig minuten.",
-    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["rund"], "vrij": ["aziatisch", "wok"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "aziatisch",
+        "wok"
+      ]
+    },
     "tijd": 20,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 180, "e": "gram", "n": "Biefstuk (in reepjes)" },
-      { "h": 60, "e": "gram", "n": "Zilvervliesrijst (ongekookt)" },
-      { "h": 150, "e": "gram", "n": "Broccolini of broccoli" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
-      { "h": 2, "e": "eetlepel", "n": "Lichte sojasaus" },
-      { "h": 1, "e": "theelepel", "n": "Sesamolie" },
-      { "h": null, "e": "", "n": "Rode chilipeper in ringetjes of chilivlokken" },
-      { "h": null, "e": "", "n": "Bakspray" },
-      { "h": null, "e": "", "n": "Peper en zout" }
+      {
+        "h": 180,
+        "e": "gram",
+        "n": "Biefstuk (in reepjes)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Zilvervliesrijst (ongekookt)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Broccolini of broccoli"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Rode chilipeper in ringetjes of chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
     ],
     "stappen": [
       "Kook de zilvervliesrijst volgens de aanwijzingen op de verpakking gaar en giet af.",
@@ -24,28 +74,94 @@
       "Blus de pan af met de sojasaus en de sesamolie en voeg de chilipeper toe.",
       "Hussel alles kort om en serveer over de zilvervliesrijst."
     ],
-    "voeding": { "kcal": 510, "eiwit": 46, "kh": 48, "vet": 12 }
+    "voeding": {
+      "kcal": 510,
+      "eiwit": 46,
+      "kh": 48,
+      "vet": 12
+    }
   },
   {
     "id": "babi-ketjap",
     "titel": "Babi ketjap",
     "omschrijving": "Varkenshaas die zachtjes indikt in ketjap, met sperziebonen en een frisse schep atjar ernaast.",
-    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["varken"], "vrij": ["indonesisch"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "varken"
+      ],
+      "vrij": [
+        "indonesisch"
+      ]
+    },
     "tijd": 25,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 175, "e": "gram", "n": "Magere varkenshaas (in reepjes)" },
-      { "h": 50, "e": "gram", "n": "Basmatirijst (ongekookt)" },
-      { "h": 150, "e": "gram", "n": "Sperziebonen (gehalveerd)" },
-      { "h": 50, "e": "gram", "n": "Atjar tjampoer" },
-      { "h": 0.5, "e": "stuks", "n": "Ui (gesnipperd)" },
-      { "h": 2, "e": "eetlepel", "n": "Ketjap manis (minder zoet)" },
-      { "h": 1, "e": "theelepel", "n": "Sambal oelek" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
-      { "h": 0.5, "e": "theelepel", "n": "Gemberpoeder" },
-      { "h": 0.5, "e": "theelepel", "n": "Laospoeder" },
-      { "h": null, "e": "", "n": "Bakspray" },
-      { "h": null, "e": "", "n": "Peper en zout" }
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Magere varkenshaas (in reepjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Basmatirijst (ongekookt)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Sperziebonen (gehalveerd)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Atjar tjampoer"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Ketjap manis (minder zoet)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Gemberpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Laospoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
     ],
     "stappen": [
       "Kook de basmatirijst en de sperziebonen in aparte pannen gaar en giet af.",
@@ -54,20 +170,55 @@
       "Giet de ketjap manis in de pan en laat 2 minuten zachtjes pruttelen tot de saus stroperig om het vlees zit.",
       "Serveer met de rijst, de sperziebonen en de atjar tjampoer aan de zijkant."
     ],
-    "voeding": { "kcal": 480, "eiwit": 44, "kh": 52, "vet": 8 }
+    "voeding": {
+      "kcal": 480,
+      "eiwit": 44,
+      "kh": 52,
+      "vet": 8
+    }
   },
   {
     "id": "babi-pangang",
     "titel": "Babi pangang",
     "omschrijving": "Knapperige varkenshaas uit de airfryer met kant-en-klare saus. Vier stappen en klaar.",
-    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["varken"], "vrij": ["indonesisch", "airfryer"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "varken"
+      ],
+      "vrij": [
+        "indonesisch",
+        "airfryer"
+      ]
+    },
     "tijd": 25,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 150, "e": "gram", "n": "Varkenshaas" },
-      { "h": 50, "e": "gram", "n": "Basmatirijst (ongekookt)" },
-      { "h": 100, "e": "gram", "n": "Magere babi pangang saus" },
-      { "h": 150, "e": "gram", "n": "Atjar tjampoer" }
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Varkenshaas"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Basmatirijst (ongekookt)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Magere babi pangang saus"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Atjar tjampoer"
+      }
     ],
     "stappen": [
       "Kook de basmatirijst gaar en giet af.",
@@ -75,33 +226,120 @@
       "Verwarm de saus in een steelpan.",
       "Serveer het vlees met de saus, de rijst en de atjar."
     ],
-    "voeding": { "kcal": 490, "eiwit": 40, "kh": 56, "vet": 10 }
+    "voeding": {
+      "kcal": 490,
+      "eiwit": 40,
+      "kh": 56,
+      "vet": 10
+    }
   },
   {
     "id": "burrito-gehakt",
     "titel": "Burrito met gehakt",
     "omschrijving": "Gehaktsaus die indikt tot hij bindt, met rijst en kaas door de vulling en een knapperig gegrilde buitenkant.",
-    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["rund"], "vrij": ["mexicaans", "meal prep"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "mexicaans",
+        "meal prep"
+      ]
+    },
     "tijd": 35,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 150, "e": "gram", "n": "Mager rundergehakt" },
-      { "h": 2, "e": "stuks", "n": "Tortillawrap" },
-      { "h": 50, "e": "gram", "n": "Zilvervliesrijst (ongekookt)" },
-      { "h": 75, "e": "gram", "n": "Kidneybonen (uitgelekt)" },
-      { "h": 35, "e": "gram", "n": "Maïs (uitgelekt)" },
-      { "h": 200, "e": "gram", "n": "Tomatenblokjes uit blik" },
-      { "h": 0.5, "e": "eetlepel", "n": "Tomatenpuree" },
-      { "h": 25, "e": "gram", "n": "Geraspte cheddar of 30+ kaas" },
-      { "h": 0.5, "e": "stuks", "n": "Ui (gesnipperd)" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (geperst)" },
-      { "h": 0.5, "e": "stuks", "n": "Paprika (in kleine blokjes)" },
-      { "h": 0.5, "e": "eetlepel", "n": "Chilipoeder" },
-      { "h": 0.5, "e": "theelepel", "n": "Komijnpoeder" },
-      { "h": 0.5, "e": "theelepel", "n": "Paprikapoeder" },
-      { "h": 0.5, "e": "theelepel", "n": "Gedroogde oregano" },
-      { "h": null, "e": "", "n": "Bakspray" },
-      { "h": null, "e": "", "n": "Peper en zout" }
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Mager rundergehakt"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Tortillawrap"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Zilvervliesrijst (ongekookt)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Kidneybonen (uitgelekt)"
+      },
+      {
+        "h": 35,
+        "e": "gram",
+        "n": "Maïs (uitgelekt)"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Tomatenblokjes uit blik"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Geraspte cheddar of 30+ kaas"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (geperst)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Paprika (in kleine blokjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Chilipoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Komijnpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Gedroogde oregano"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
     ],
     "stappen": [
       "Kook de rijst volgens de aanwijzingen op de verpakking gaar in water met zout en giet af.",
@@ -112,33 +350,119 @@
       "Verwarm de wraps kort, verdeel de vulling over het midden, vouw de zijkanten naar binnen en rol strak op.",
       "Leg de burrito's 1 tot 2 minuten met de naad naar beneden in een droge hete koekenpan tot de buitenkant knapperig is."
     ],
-    "voeding": { "kcal": 510, "eiwit": 44, "kh": 48, "vet": 14 }
+    "voeding": {
+      "kcal": 510,
+      "eiwit": 44,
+      "kh": 48,
+      "vet": 14
+    }
   },
   {
     "id": "burrito-kip",
     "titel": "Burrito met kip",
     "omschrijving": "Gekruide kip met zwarte bonen en salsa, op een laag geprakte avocado met yoghurt en limoen.",
-    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["kip"], "vrij": ["mexicaans"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "mexicaans"
+      ]
+    },
     "tijd": 35,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 175, "e": "gram", "n": "Kipfilet (in kleine blokjes)" },
-      { "h": 2, "e": "stuks", "n": "Grote witte wrap" },
-      { "h": 50, "e": "gram", "n": "Witte basmatirijst (ongekookt)" },
-      { "h": 100, "e": "gram", "n": "Zwarte bonen (uitgelekt)" },
-      { "h": 2.5, "e": "eetlepel", "n": "Milde tomatensalsa" },
-      { "h": 1, "e": "eetlepel", "n": "Griekse yoghurt 0%" },
-      { "h": 0.5, "e": "stuks", "n": "Rijpe avocado" },
-      { "h": 20, "e": "gram", "n": "Geraspte 30+ kaas" },
-      { "h": 0.5, "e": "stuks", "n": "Rode ui (fijngesnipperd)" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (geperst)" },
-      { "h": 0.25, "e": "stuks", "n": "Limoen (sap)" },
-      { "h": 1, "e": "theelepel", "n": "Gerookt paprikapoeder" },
-      { "h": 1, "e": "theelepel", "n": "Komijnpoeder" },
-      { "h": 0.5, "e": "theelepel", "n": "Uienpoeder" },
-      { "h": null, "e": "", "n": "Verse koriander of peterselie" },
-      { "h": null, "e": "", "n": "Olijfolie" },
-      { "h": null, "e": "", "n": "Zout" }
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Kipfilet (in kleine blokjes)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote witte wrap"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Witte basmatirijst (ongekookt)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Zwarte bonen (uitgelekt)"
+      },
+      {
+        "h": 2.5,
+        "e": "eetlepel",
+        "n": "Milde tomatensalsa"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Griekse yoghurt 0%"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rijpe avocado"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Geraspte 30+ kaas"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode ui (fijngesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (geperst)"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Limoen (sap)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Gerookt paprikapoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Komijnpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Uienpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse koriander of peterselie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zout"
+      }
     ],
     "stappen": [
       "Kook de basmatirijst volgens de aanwijzingen op de verpakking gaar en laat hem met de deksel op de pan kort doorgaren.",
@@ -151,26 +475,84 @@
       "Strooi de rode ui en de koriander over de vulling.",
       "Rol de burrito's strak op en grill ze 1 minuut in een hete droge koekenpan met de naad naar beneden."
     ],
-    "voeding": { "kcal": 1030, "eiwit": 68, "kh": 132, "vet": 24 }
+    "voeding": {
+      "kcal": 1030,
+      "eiwit": 68,
+      "kh": 132,
+      "vet": 24
+    }
   },
   {
     "id": "cajun-kip-pasta",
     "titel": "Cajun kip met romige tomatenpasta",
     "omschrijving": "De romigheid komt van geblende hüttenkäse, niet van room. Gedroogde tomaten en spinazie erdoor.",
-    "labels": { "maaltijd": ["diner"], "basis": ["pasta"], "proteine": ["kip"], "vrij": ["romig"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "romig"
+      ]
+    },
     "tijd": 25,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 140, "e": "gram", "n": "Kipfilet (in reepjes)" },
-      { "h": 70, "e": "gram", "n": "Fettuccine of penne (ongekookt)" },
-      { "h": 60, "e": "gram", "n": "Hüttenkäse (glad geblend)" },
-      { "h": 25, "e": "gram", "n": "Gedroogde tomaten (in reepjes)" },
-      { "h": 50, "e": "gram", "n": "Verse spinazie" },
-      { "h": 10, "e": "gram", "n": "Parmezaanse kaas (geraspt)" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
-      { "h": 0.5, "e": "eetlepel", "n": "Cajunkruiden" },
-      { "h": 1, "e": "theelepel", "n": "Olijfolie uit de pot van de gedroogde tomaten" },
-      { "h": null, "e": "", "n": "Peper en zout" }
+      {
+        "h": 140,
+        "e": "gram",
+        "n": "Kipfilet (in reepjes)"
+      },
+      {
+        "h": 70,
+        "e": "gram",
+        "n": "Fettuccine of penne (ongekookt)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Hüttenkäse (glad geblend)"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Gedroogde tomaten (in reepjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Verse spinazie"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Cajunkruiden"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Olijfolie uit de pot van de gedroogde tomaten"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
     ],
     "stappen": [
       "Kook de pasta volgens de aanwijzingen op de verpakking al dente. Vang vlak voor het afgieten een scheutje kookvocht op.",
@@ -181,27 +563,89 @@
       "Voeg de spinazie toe en laat de blaadjes in 1 minuut slinken.",
       "Schep de pasta en de kip door de saus en serveer met de Parmezaanse kaas eroverheen."
     ],
-    "voeding": { "kcal": 490, "eiwit": 42, "kh": 50, "vet": 14 }
+    "voeding": {
+      "kcal": 490,
+      "eiwit": 42,
+      "kh": 50,
+      "vet": 14
+    }
   },
   {
     "id": "chili-con-carne",
     "titel": "Chili con carne",
     "omschrijving": "Eén pan, twaalf minuten pruttelen. Een lepel hüttenkäse erop in plaats van zure room.",
-    "labels": { "maaltijd": ["diner"], "basis": [], "proteine": ["rund"], "vrij": ["mexicaans", "bonen", "één pan"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "mexicaans",
+        "bonen",
+        "één pan"
+      ]
+    },
     "tijd": 25,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 150, "e": "gram", "n": "Mager rundergehakt" },
-      { "h": 120, "e": "gram", "n": "Kidneybonen uit blik" },
-      { "h": 50, "e": "gram", "n": "Maïs uit blik" },
-      { "h": 150, "e": "gram", "n": "Tomatenblokjes" },
-      { "h": 1, "e": "stuks", "n": "Paprika" },
-      { "h": 0.5, "e": "stuks", "n": "Ui (gesnipperd)" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
-      { "h": 1, "e": "theelepel", "n": "Chilikruiden of komijnpoeder" },
-      { "h": 1, "e": "theelepel", "n": "Sambal oelek" },
-      { "h": 1, "e": "eetlepel", "n": "Hüttenkäse (als topping)" },
-      { "h": null, "e": "", "n": "Bakspray" }
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Mager rundergehakt"
+      },
+      {
+        "h": 120,
+        "e": "gram",
+        "n": "Kidneybonen uit blik"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Maïs uit blik"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Tomatenblokjes"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Paprika"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Chilikruiden of komijnpoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Hüttenkäse (als topping)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      }
     ],
     "stappen": [
       "Spray een pan in met bakspray en bak het rundergehakt rul met de ui, de knoflook en de chilikruiden.",
@@ -209,32 +653,115 @@
       "Laat 10 tot 12 minuten zachtjes pruttelen met de deksel schuin op de pan.",
       "Schep in een diepe kom en garneer met de hüttenkäse."
     ],
-    "voeding": { "kcal": 470, "eiwit": 45, "kh": 42, "vet": 11 }
+    "voeding": {
+      "kcal": 470,
+      "eiwit": 45,
+      "kh": 42,
+      "vet": 11
+    }
   },
   {
     "id": "chilli-beef-gewokte-rijst",
     "titel": "Chilli beef met gewokte rijst en bloemkool",
     "omschrijving": "Gemarineerde biefstuk die er maar twee minuten in gaat, met rijst en bloemkool die meewokken.",
-    "labels": { "maaltijd": ["diner"], "basis": ["rijst"], "proteine": ["rund"], "vrij": ["aziatisch", "wok"] },
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "aziatisch",
+        "wok"
+      ]
+    },
     "tijd": 30,
     "basisPersonen": 1,
     "ingredienten": [
-      { "h": 200, "e": "gram", "n": "Biefstuk (in dunne reepjes)" },
-      { "h": 50, "e": "gram", "n": "Basmatirijst (ongekookt)" },
-      { "h": 150, "e": "gram", "n": "Bloemkool (in kleine roosjes)" },
-      { "h": 0.5, "e": "stuks", "n": "Witte ui (in dunne halve ringen)" },
-      { "h": 0.5, "e": "stuks", "n": "Wortel (in dunne reepjes)" },
-      { "h": 0.5, "e": "stuks", "n": "Rode chilipeper (in dunne ringen)" },
-      { "h": 1, "e": "stuks", "n": "Knoflookteen (fijngehakt)" },
-      { "h": 0.5, "e": "theelepel", "n": "Verse gember (fijngehakt)" },
-      { "h": 1, "e": "eetlepel", "n": "Lichte sojasaus, voor de marinade" },
-      { "h": 0.75, "e": "eetlepel", "n": "Lichte sojasaus, voor de saus" },
-      { "h": 0.75, "e": "eetlepel", "n": "Sweet chili sauce (light)" },
-      { "h": 0.5, "e": "eetlepel", "n": "Honing" },
-      { "h": 0.5, "e": "eetlepel", "n": "Tomatenketchup 0%" },
-      { "h": 1, "e": "eetlepel", "n": "Rijstazijn" },
-      { "h": null, "e": "", "n": "Bakspray" },
-      { "h": null, "e": "", "n": "Peper en zout" }
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Biefstuk (in dunne reepjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Basmatirijst (ongekookt)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Bloemkool (in kleine roosjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Witte ui (in dunne halve ringen)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Wortel (in dunne reepjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode chilipeper (in dunne ringen)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Verse gember (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus, voor de marinade"
+      },
+      {
+        "h": 0.75,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus, voor de saus"
+      },
+      {
+        "h": 0.75,
+        "e": "eetlepel",
+        "n": "Sweet chili sauce (light)"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Honing"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Tomatenketchup 0%"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Rijstazijn"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
     ],
     "stappen": [
       "Kook de basmatirijst volgens de aanwijzingen op de verpakking gaar en giet af.",
@@ -245,6 +772,361 @@
       "Bak de ui en de wortel 3 minuten aan in dezelfde pan. Voeg de chilipeper, de rijst en de bloemkool toe en wok ze 3 tot 4 minuten krachtig mee.",
       "Draai het vuur laag, voeg de biefstuk en de saus toe en hussel alles 1 minuut om tot de saus zich om het gerecht hecht."
     ],
-    "voeding": { "kcal": 540, "eiwit": 45, "kh": 58, "vet": 9 }
+    "voeding": {
+      "kcal": 540,
+      "eiwit": 45,
+      "kh": 58,
+      "vet": 9
+    }
+  },
+  {
+    "id": "baked-oats-bessen",
+    "titel": "Baked oats uit de oven",
+    "omschrijving": "Proteïnecake met bessen uit de oven. Smaakt als cake, telt als ontbijt.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "oven",
+        "havermout",
+        "zoet"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Groot ei"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Magere kwark (vanille) of magere Griekse yoghurt 0%"
+      },
+      {
+        "h": 70,
+        "e": "ml",
+        "n": "Ongezoete amandelmelk"
+      },
+      {
+        "h": 35,
+        "e": "gram",
+        "n": "Bloem"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Vanille proteïnepoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Honing"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Bakpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Handje blauwe bessen en frambozen"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 180 graden en vet een klein ovenschaaltje in met bakspray.",
+      "Klop het ei, de kwark, de amandelmelk en de honing in een kom los met een garde.",
+      "Voeg de bloem, het proteïnepoeder en het bakpoeder toe en roer tot een glad beslag zonder klontjes.",
+      "Giet het beslag in het schaaltje en verdeel de bessen en frambozen erover.",
+      "Bak in 20 tot 25 minuten goudbruin en stevig in het midden.",
+      "Laat 5 minuten afkoelen voor je hem uit het schaaltje haalt."
+    ],
+    "voeding": {
+      "kcal": 410,
+      "eiwit": 32,
+      "kh": 38,
+      "vet": 12
+    }
+  },
+  {
+    "id": "proteine-granola",
+    "titel": "Eiwitrijke proteïne granola",
+    "omschrijving": "Eén grote plaat granola die je na het afkoelen in stukken breekt. Vrij in smaakmaker en crunch.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "oven",
+        "meal prep",
+        "havermout"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 6,
+    "ingredienten": [
+      {
+        "h": 250,
+        "e": "gram",
+        "n": "Volkoren havermout (grove vlokken)"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Pompoenpitten of zonnebloempitten"
+      },
+      {
+        "h": 1,
+        "e": "snufje",
+        "n": "Zout, flinke snuf"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Kaneel, koekkruiden of citroenrasp"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Grote banaan als bindmiddel, of appelmoes zonder suiker"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Noten, gepofte granen of cacaonibs naar keuze"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 160 graden hetelucht en bekleed een bakplaat met bakpapier.",
+      "Meng de havermout, de pitten, het zout en de smaakmaker in een grote kom. Meng de noten of cacaonibs er ook doorheen.",
+      "Voeg het bindmiddel toe en kneed stevig door tot de havermout overal vochtig is.",
+      "Stort het mengsel op de bakplaat en druk het met de achterkant van een lepel aan tot één compacte koek.",
+      "Bak in 18 tot 22 minuten goudbruin. Schep tussendoor niet om, anders krijg je geen brokken.",
+      "Laat volledig afkoelen op de bakplaat. Hij wordt pas krokant als hij koud is."
+    ],
+    "voeding": null
+  },
+  {
+    "id": "avocado-ei-wrap",
+    "titel": "Hartige avocado ei wrap",
+    "omschrijving": "Romig roerei met sambal op een laag geprakte avocado, met verse spinazie.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "snel",
+        "hartig"
+      ]
+    },
+    "tijd": 10,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Volkoren wrap of proteïnewrap"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote eieren"
+      },
+      {
+        "h": 40,
+        "e": "gram",
+        "n": "Avocado (geprakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek of sriracha 0%"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Hand verse spinazie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zwarte peper en zeezout"
+      }
+    ],
+    "stappen": [
+      "Kluts de eieren los met de sambal, peper en zout.",
+      "Spray een koekenpan in met bakspray en bak de eieren op middelhoog vuur tot een romig roerei.",
+      "Besmeer de wrap gelijkmatig met de geprakte avocado.",
+      "Verdeel de spinazie over de wrap en schep het warme roerei erbovenop.",
+      "Rol de wrap strak op en snijd hem schuin door midden."
+    ],
+    "voeding": {
+      "kcal": 380,
+      "eiwit": 22,
+      "kh": 28,
+      "vet": 18
+    }
+  },
+  {
+    "id": "huttenkase-kip-rijstwafels",
+    "titel": "Hüttenkäse kipfilet rijstwafels",
+    "omschrijving": "Rijstwafels met hüttenkäse, kipfilet en komkommer. Klaar in vijf minuten, geen pan nodig.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "snel",
+        "hartig",
+        "geen pan"
+      ]
+    },
+    "tijd": 5,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 4,
+        "e": "stuks",
+        "n": "Zilvervliesrijstwafels"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Hüttenkäse"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Magere kipfilet (vleeswaren)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Komkommer (in dunne schijfjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zwarte peper en zeezout"
+      }
+    ],
+    "stappen": [
+      "Leg de rijstwafels naast elkaar op een bord.",
+      "Besmeer elke rijstwafel royaal en gelijkmatig met de hüttenkäse.",
+      "Beleg de wafels met de plakjes kipfilet en de schijfjes komkommer.",
+      "Bestrooi met zwarte peper, zeezout en chilivlokken."
+    ],
+    "voeding": {
+      "kcal": 310,
+      "eiwit": 35,
+      "kh": 26,
+      "vet": 5
+    }
+  },
+  {
+    "id": "overnight-oats",
+    "titel": "Overnight oats",
+    "omschrijving": "'s Avonds mengen, 's ochtends eten. Minimaal zes uur in de koelkast.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "meal prep",
+        "havermout",
+        "zoet",
+        "geen pan"
+      ]
+    },
+    "tijd": 10,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Havermout"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Magere kwark of magere Griekse yoghurt 0%"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Ongezoete amandelmelk"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Vanille proteïnepoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Chiazaad"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Kaneel"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Diepvries bosvruchten"
+      }
+    ],
+    "stappen": [
+      "Meng de havermout, het proteïnepoeder, het chiazaad en de kaneel in een weckpot of afsluitbaar bakje.",
+      "Voeg de kwark en de amandelmelk toe en roer krachtig tot een egale massa.",
+      "Verdeel de bosvruchten over de bovenkant.",
+      "Sluit het bakje af en zet het minimaal 6 uur of een hele nacht in de koelkast."
+    ],
+    "voeding": {
+      "kcal": 420,
+      "eiwit": 38,
+      "kh": 48,
+      "vet": 7
+    }
   }
 ]
