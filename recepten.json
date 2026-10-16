@@ -4379,5 +4379,111 @@
       "kh": 50,
       "vet": 23
     }
+  },
+  {
+    "id": "gochujang-beef-rice",
+    "titel": "Gochujang beef rice",
+    "omschrijving": "Rundergehakt dat je stukslaat tot de randen knapperig worden, in gochujang over rijst met een spiegelei. Van olirobcooks op Instagram.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "koreaans",
+        "wok",
+        "snel",
+        "pittig"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 2,
+    "ingredienten": [
+      {
+        "h": 250,
+        "e": "gram",
+        "n": "Mager rundergehakt 5%"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Rijst (ongekookt)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Eieren"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Witte ui (in grove stukken)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Bosuien (in de lengte gesneden)"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Duim verse gember (geraspt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Gochujang"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Rijstazijn"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Sesamzaad"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "MSG (optioneel)"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Snijd de witte ui in grove stukken en de bosui in de lengte, hak de knoflook fijn en rasp de gember.",
+      "Bak het rundergehakt in een hete pan en breek het stevig uit elkaar, zodat de randen knapperig worden.",
+      "Voeg de witte ui, de bosui, de knoflook en de gember toe en bak alles een paar minuten door.",
+      "Schenk de gochujang, de sojasaus, de rijstazijn en de sesamolie langs de rand van de wok zodat ze zich gelijkmatig verdelen, en roer alles door. Voeg naar smaak MSG toe.",
+      "Bak de eieren in een aparte pan als spiegelei.",
+      "Verdeel de rijst over de borden, schep het gehakt erover, leg er een spiegelei op en maak af met het sesamzaad."
+    ],
+    "voeding": {
+      "kcal": 685,
+      "eiwit": 41,
+      "kh": 77,
+      "vet": 22
+    }
   }
 ]
