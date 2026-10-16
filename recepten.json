@@ -318,32 +318,32 @@
     "basisPersonen": 1,
     "ingredienten": [
       {
-        "h": 175,
+        "h": 80,
         "e": "gram",
         "n": "Kipfilet (in kleine blokjes)"
       },
       {
-        "h": 2,
+        "h": 1,
         "e": "stuks",
-        "n": "Grote witte wrap"
+        "n": "Wrap"
       },
       {
-        "h": 50,
+        "h": 30,
         "e": "gram",
         "n": "Witte basmatirijst (ongekookt)"
       },
       {
-        "h": 100,
+        "h": 50,
         "e": "gram",
         "n": "Zwarte bonen (uitgelekt)"
       },
       {
-        "h": 2.5,
+        "h": 1.25,
         "e": "eetlepel",
         "n": "Milde tomatensalsa"
       },
       {
-        "h": 1,
+        "h": 0.5,
         "e": "eetlepel",
         "n": "Griekse yoghurt 0%"
       },
@@ -373,17 +373,17 @@
         "n": "Limoen (sap)"
       },
       {
-        "h": 1,
+        "h": 0.5,
         "e": "theelepel",
         "n": "Gerookt paprikapoeder"
       },
       {
-        "h": 1,
+        "h": 0.5,
         "e": "theelepel",
         "n": "Komijnpoeder"
       },
       {
-        "h": 0.5,
+        "h": 0.25,
         "e": "theelepel",
         "n": "Uienpoeder"
       },
@@ -415,10 +415,10 @@
       "Rol de burrito's strak op en grill ze 1 minuut in een hete droge koekenpan met de naad naar beneden."
     ],
     "voeding": {
-      "kcal": 1030,
-      "eiwit": 68,
-      "kh": 132,
-      "vet": 24
+      "kcal": 515,
+      "eiwit": 34,
+      "kh": 66,
+      "vet": 12
     }
   },
   {
