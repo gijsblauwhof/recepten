@@ -1694,5 +1694,810 @@
       "kh": 4,
       "vet": 17
     }
+  },
+  {
+    "id": "citroen-kruiden-kip-asperge-pasta",
+    "titel": "Citroen-kruiden kip met aspergetips en pasta",
+    "omschrijving": "Pasta met kip, aspergetips en courgettelinten, op het laatst afgeblust met citroensap.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "een pan",
+        "fris"
+      ]
+    },
+    "tijd": 20,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Kipfilet (in reepjes)"
+      },
+      {
+        "h": 70,
+        "e": "gram",
+        "n": "Volkoren penne of linguine (ongekookt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Courgette (in linten geschaafd)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Aspergetips"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Parmezaanse kaas (geraspt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Citroen (sap)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse peterselie (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de pasta volgens de aanwijzingen op de verpakking beetgaar in water met zout en giet af.",
+      "Marineer de kipreepjes met de helft van de knoflook, zwarte peper en zout.",
+      "Spray een pan in met bakspray en bak de kipreepjes met de rest van de knoflook en de chilivlokken in 5 minuten goudbruin en gaar.",
+      "Voeg de aspergetips en de courgettelinten toe en bak ze 2 tot 3 minuten mee tot ze licht beetgaar zijn.",
+      "Blus de pan af met het citroensap en roer de peterselie erdoorheen.",
+      "Voeg de gekookte pasta toe, schep alles goed om en serveer met de Parmezaanse kaas eroverheen."
+    ],
+    "voeding": {
+      "kcal": 490,
+      "eiwit": 46,
+      "kh": 52,
+      "vet": 8
+    }
+  },
+  {
+    "id": "citroen-kruiden-zalm-kriel-broccolini",
+    "titel": "Citroen-kruiden zalm met kriel en broccolini",
+    "omschrijving": "Zalm uit de pan met citroenkrieltjes en knapperig gewokte broccolini. Alles in dezelfde pan.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "vis"
+      ],
+      "vrij": [
+        "een pan",
+        "fris"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Zalmfilet"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Krieltjes (in de schil, gehalveerd)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Broccolini of bimi"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Citroen (schilrasp en sap)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse peterselie (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de krieltjes in gezouten water in 10 tot 12 minuten beetgaar, giet ze af en laat ze uitdampen.",
+      "Breng de zalmfilet op smaak met peper en zout.",
+      "Spray een anti-aanbakpan in met bakspray op middelhoog vuur en bak de zalm 3 tot 4 minuten per kant goudbruin en gaar. Haal hem uit de pan en houd hem warm onder folie.",
+      "Fruit de knoflook 30 seconden in dezelfde pan. Voeg de krieltjes, de citroenrasp en het citroensap toe, schep kort om en haal de krieltjes uit de pan.",
+      "Spray de pan opnieuw licht in en roerbak de broccolini 3 tot 4 minuten op hoog vuur tot hij knapperig beetgaar is.",
+      "Verdeel de citroenkrieltjes, de broccolini en de zalm over een bord en garneer met de peterselie."
+    ],
+    "voeding": {
+      "kcal": 465,
+      "eiwit": 36,
+      "kh": 24,
+      "vet": 18
+    }
+  },
+  {
+    "id": "deense-kabeljauw-mosterdsaus",
+    "titel": "Deense gestoomde kabeljauw met mosterdsaus",
+    "omschrijving": "Kabeljauw die stoomt boven prei, met een mosterd-dillesaus van het eigen kookvocht.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "vis"
+      ],
+      "vrij": [
+        "stomen",
+        "scandinavisch"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Kabeljauwfilet"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Stevige kleine aardappelen (in de schil)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Prei (in dikke ringen) of wortel (in schuine plakken)"
+      },
+      {
+        "h": 75,
+        "e": "ml",
+        "n": "Kookvocht uit de pan, voor de saus"
+      },
+      {
+        "h": 50,
+        "e": "ml",
+        "n": "Magere kookroom of halfvolle melk"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Grove Deense mosterd of dijonmosterd, flinke lepel"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Maizena"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Laurierblad"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Schijfje citroen"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Een paar peperkorrels"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse dille (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de aardappelen in de schil in gezouten water in 15 tot 20 minuten gaar en giet ze af.",
+      "Breng in een brede hapjespan een laagje water met het laurierblad, de peperkorrels, het schijfje citroen en zout aan de kook.",
+      "Leg de preiringen op de bodem van de pan en leg de kabeljauwfilet daarbovenop.",
+      "Zet het vuur laag, doe de deksel op de pan en laat de vis en de groenten in 6 tot 8 minuten zachtjes gaar stomen.",
+      "Schep de kabeljauw en de groenten voorzichtig uit de pan en houd ze warm onder folie. Bewaar het kookvocht.",
+      "Giet het kookvocht voor de saus door een zeef in een steelpannetje, voeg de kookroom en de mosterd toe en breng zachtjes aan de kook.",
+      "Meng de maizena met een drupje koud water tot een papje en roer dat door de saus tot hij indikt.",
+      "Breng op smaak met peper en zout en roer de dille er op het laatst doorheen.",
+      "Leg de aardappelen, de prei en de kabeljauw op een bord en giet de warme mosterdsaus erover."
+    ],
+    "voeding": {
+      "kcal": 390,
+      "eiwit": 42,
+      "kh": 40,
+      "vet": 5
+    }
+  },
+  {
+    "id": "garlic-noodles-teriyaki-kip",
+    "titel": "Garlic noodles met teriyaki kip",
+    "omschrijving": "Gemarineerde kip met een glanzende teriyakisaus op knoflooknoedels. Marineren mag, hoeft niet.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "aziatisch",
+        "wok",
+        "noedels"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipfilet (heel of in grove stukken)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Udon noedels, of 60 gram ongekookte volkoren noedels"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus, voor de marinade"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus, voor de noedelsaus"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Honing, voor de marinade"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Honing, voor de noedelsaus"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sesamolie, voor de marinade"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Sesamolie, voor de noedelsaus"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Knoflookteen, voor de marinade (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen, voor de saus (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Rijstazijn"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Bruine suiker"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Verse gember (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Oestersaus"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Hoisinsaus"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Bosui (in ringetjes)"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Sesamzaad"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Meng in een kom de sojasaus en de honing voor de marinade met de rijstazijn, de sesamolie voor de marinade, de bruine suiker, de knoflook voor de marinade en de gember. Voeg de kipfilet toe en laat bij voorkeur 20 tot 30 minuten marineren.",
+      "Kook de noedels volgens de aanwijzingen op de verpakking, giet ze af en zet ze apart.",
+      "Spray een koekenpan in met bakspray op middelhoog vuur. Haal de kip uit de marinade, bewaar die marinade, en bak de kip 5 tot 6 minuten per kant goudbruin en gaar.",
+      "Giet de overgebleven marinade bij de kip in de pan en laat 1 tot 2 minuten inkoken tot een glanzende saus. Haal de kip eruit en snijd hem in plakjes.",
+      "Spray een schone wok in met bakspray en fruit de knoflook voor de saus 30 seconden aan.",
+      "Roer de sojasaus, de honing en de sesamolie voor de noedelsaus erdoor, samen met de oestersaus en de hoisinsaus.",
+      "Voeg de gekookte noedels toe en hussel tot alles bedekt is met saus. Breng op smaak met peper en zout.",
+      "Verdeel de knoflooknoedels over een bord, leg de teriyakikip erop en garneer met de bosui en het sesamzaad."
+    ],
+    "voeding": {
+      "kcal": 480,
+      "eiwit": 43,
+      "kh": 55,
+      "vet": 9
+    }
+  },
+  {
+    "id": "gevulde-paprikas-gehakt",
+    "titel": "Gevulde paprika's met gehakt",
+    "omschrijving": "Paprikahelften gevuld met gehakt en courgette in passata, met kaas eroverheen uit de oven.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "oven",
+        "koolhydraatarm"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote paprika's"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Mager rundergehakt"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Passata"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Courgette (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Mexicaanse of Italiaanse kruiden"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Geraspte kaas 30+ light"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 190 graden.",
+      "Halveer de paprika's in de lengte en verwijder de zaadlijsten.",
+      "Bak het rundergehakt rul met de courgette, de kruiden en de sambal.",
+      "Roer de passata erdoor en laat 2 minuten pruttelen.",
+      "Vul de paprikahelften met het mengsel, bestrooi ze met de kaas en bak ze 20 minuten in de oven."
+    ],
+    "voeding": {
+      "kcal": 410,
+      "eiwit": 42,
+      "kh": 22,
+      "vet": 16
+    }
+  },
+  {
+    "id": "gele-curry-kipgehaktballetjes",
+    "titel": "Gele curry met kipgehaktballetjes",
+    "omschrijving": "Zelfgedraaide kipballetjes die nagaren in een gele currysaus van light kokosmelk, met rijst.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "thais",
+        "curry"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Mager kipgehakt"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Zilvervliesrijst of basmatirijst (ongekookt)"
+      },
+      {
+        "h": 120,
+        "e": "ml",
+        "n": "Light kokosmelk"
+      },
+      {
+        "h": 120,
+        "e": "ml",
+        "n": "Vetarme kipbouillon"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Ei-eiwit"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Paneermeel of havermoutmeel"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Gele currypasta"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Verse gember (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Vissaus"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse koriander"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Schijfje limoen"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Meng het kipgehakt met de knoflook, de gember, het ei-eiwit en het paneermeel. Rol er met vochtige handen kleine compacte balletjes van.",
+      "Spray een pan in met bakspray op middelhoog vuur en bak de balletjes rondom goudbruin. Ze hoeven nog niet helemaal gaar te zijn. Haal ze uit de pan.",
+      "Bak de gele currypasta 1 minuut aan in dezelfde pan tot de geuren vrijkomen.",
+      "Giet de kokosmelk, de kipbouillon en de vissaus erbij en breng alles zachtjes aan de kook.",
+      "Leg de balletjes terug in de saus en laat 8 tot 10 minuten zachtjes pruttelen tot de saus is ingedikt en de balletjes gaar zijn.",
+      "Breng op smaak met een kneepje limoensap en de gehakte koriander en serveer over de gekookte rijst."
+    ],
+    "voeding": {
+      "kcal": 680,
+      "eiwit": 44,
+      "kh": 75,
+      "vet": 21
+    }
+  },
+  {
+    "id": "griekse-krielbowl-kipballetjes",
+    "titel": "Griekse krielbowl met kipgehaktballetjes",
+    "omschrijving": "Citroenkrieltjes en kipballetjes samen van één bakplaat, met een frisse salade en tzatziki.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "oven",
+        "grieks",
+        "een bakplaat"
+      ]
+    },
+    "tijd": 50,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 115,
+        "e": "gram",
+        "n": "Mager kipgehakt"
+      },
+      {
+        "h": 170,
+        "e": "gram",
+        "n": "Krieltjes (in de schil, gehalveerd)"
+      },
+      {
+        "h": 40,
+        "e": "gram",
+        "n": "Snoeptomaatjes (in schijfjes)"
+      },
+      {
+        "h": 35,
+        "e": "gram",
+        "n": "Komkommer (in schijfjes)"
+      },
+      {
+        "h": 15,
+        "e": "gram",
+        "n": "Rode ui (in dunne halve ringen)"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Magere tzatziki"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Gele ui (geraspt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Citroensap"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Citroenrasp"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Gedroogde oregano, voor de krieltjes"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Gedroogde oregano, voor de balletjes"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Gedroogde dille"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse peterselie (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 220 graden en bekleed een bakplaat met bakpapier.",
+      "Hussel de krieltjes om met bakspray, het citroensap, de oregano voor de krieltjes, peper en zout.",
+      "Verdeel de krieltjes over de bakplaat en rooster ze 20 minuten in de oven.",
+      "Meng het kipgehakt met de geraspte gele ui, de knoflook, de helft van de peterselie, de citroenrasp, de oregano voor de balletjes, de dille, peper en zout en draai er gelijke balletjes van.",
+      "Schuif de krieltjes opzij, leg de balletjes erbij en bak alles nog 20 minuten tot de balletjes gaar zijn en de krieltjes goudbruin.",
+      "Meng de tomaatjes, de komkommer, de rode ui en de rest van de peterselie in een schaaltje en breng op smaak met peper en zout.",
+      "Verdeel de citroenkrieltjes, de balletjes en de salade over een kom en serveer met de tzatziki."
+    ],
+    "voeding": null
+  },
+  {
+    "id": "griekse-rijstschotel-gyros",
+    "titel": "Griekse rijstschotel met gyros",
+    "omschrijving": "Gekruide kipdijreepjes gewokt met paprika en rode ui, met rijst erdoor en tzatziki ernaast.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "grieks",
+        "wok",
+        "een pan"
+      ]
+    },
+    "tijd": 30,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 175,
+        "e": "gram",
+        "n": "Kipdijfilet (mager getrimd, in reepjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Rijst (ongekookt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Rode paprika (in reepjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode ui (in halve ringen)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Tzatziki"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Oregano"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Citroen (sap)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar in water met zout.",
+      "Kruid de kipdijreepjes met de oregano, het paprikapoeder, het knoflookpoeder, het citroensap, peper en zout.",
+      "Spray een koekenpan of wok in met bakspray en wok de rode ui, de paprika en de gekruide kip op hoog vuur in 5 tot 6 minuten goudbruin en gaar.",
+      "Schep de gekookte rijst en de sambal door het gyrosmengsel en verwarm alles 1 minuut mee op hoog vuur.",
+      "Serveer op een bord met de tzatziki aan de zijkant."
+    ],
+    "voeding": {
+      "kcal": 480,
+      "eiwit": 45,
+      "kh": 46,
+      "vet": 11
+    }
   }
 ]
