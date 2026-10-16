@@ -975,5 +975,798 @@
       "kh": 48,
       "vet": 7
     }
+  },
+  {
+    "id": "biefstuk-avocado-power-bowl",
+    "titel": "Biefstuk en avocado power bowl",
+    "omschrijving": "Salade met spiegeleieren en warme biefstukreepjes eroverheen. Nauwelijks koolhydraten.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "salade",
+        "snel",
+        "koolhydraatarm"
+      ]
+    },
+    "tijd": 15,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kogelbiefstuk"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote eieren"
+      },
+      {
+        "h": 40,
+        "e": "gram",
+        "n": "Avocado (in blokjes)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Cherrytomaten (gehalveerd)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Gemengde sla of rucola"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek of sriracha 0%"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verdeel de sla, de cherrytomaten en de avocado over een ruime bowl.",
+      "Spray een koekenpan in met bakspray en bak de spiegeleieren met peper en zout. Leg ze op de salade.",
+      "Zet dezelfde pan op hoog vuur, snijd de biefstuk in reepjes en schroei ze in 2 tot 3 minuten rondom bruin.",
+      "Schep de warme biefstukreepjes over de bowl en maak af met chilivlokken en sambal."
+    ],
+    "voeding": {
+      "kcal": 430,
+      "eiwit": 42,
+      "kh": 8,
+      "vet": 24
+    }
+  },
+  {
+    "id": "biefstuk-teriyaki-salade",
+    "titel": "Biefstuk teriyaki salade",
+    "omschrijving": "Koude salade met warme gewokte biefstuk in teriyaki er direct overheen.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "salade",
+        "aziatisch",
+        "wok",
+        "koolhydraatarm"
+      ]
+    },
+    "tijd": 15,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kogelbiefstuk (in reepjes)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Gemengde sla of veldsla"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Komkommer (in halve maantjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Wortelrasp"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Bosuien (in ringetjes)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Suikervrije teriyakisaus"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Fijngeraspte gember"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal brandal"
+      }
+    ],
+    "stappen": [
+      "Meng de sla, de komkommer, de wortelrasp en de bosui in een ruime schaal.",
+      "Verhit de sesamolie in een wok op hoog vuur en voeg de gember en de sambal toe.",
+      "Wok de biefstukreepjes 2 minuten krachtig en blus af met de sojasaus en de teriyakisaus.",
+      "Giet de warme teriyakibiefstuk direct over de salade en schep losjes om."
+    ],
+    "voeding": {
+      "kcal": 310,
+      "eiwit": 36,
+      "kh": 10,
+      "vet": 12
+    }
+  },
+  {
+    "id": "huevos-rancheros",
+    "titel": "Huevos rancheros",
+    "omschrijving": "Eieren die garen in een dikke tomaten-bonensaus, met een tortilla ernaast om te dippen.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "mexicaans",
+        "een pan",
+        "bonen"
+      ]
+    },
+    "tijd": 20,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Volkoren tortillawrap"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote eieren"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Losse ei-eiwitten"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Tomatenblokjes uit blik"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Zwarte bonen (gespoeld en uitgelekt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Mexicaanse kruiden"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      }
+    ],
+    "stappen": [
+      "Spray een pan in met bakspray en fruit de ui, de knoflook en de Mexicaanse kruiden 2 minuten aan.",
+      "Voeg de tomatenblokjes, de zwarte bonen en de sambal toe en laat 3 minuten pruttelen tot een dikke saus.",
+      "Maak kuiltjes in de saus, breek de hele eieren erin en giet de losse eiwitten in de overige kuiltjes.",
+      "Zet de deksel op de pan en laat 5 minuten op laag vuur stollen.",
+      "Verwarm de tortilla en serveer hem naast de pan om mee te dippen."
+    ],
+    "voeding": {
+      "kcal": 410,
+      "eiwit": 35,
+      "kh": 32,
+      "vet": 14
+    }
+  },
+  {
+    "id": "kipgehakt-avocado-quesadilla",
+    "titel": "Kipgehakt en avocado quesadilla",
+    "omschrijving": "Dubbelgevouwen tortilla met gekruid kipgehakt en gesmolten kaas, knapperig gegrild.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "mexicaans",
+        "snel"
+      ]
+    },
+    "tijd": 15,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Volkoren tortilla of proteïnetortilla"
+      },
+      {
+        "h": 125,
+        "e": "gram",
+        "n": "Mager kipgehakt"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Avocado (geprakt)"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Geraspte kaas 30+ light"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Mexicaanse kruiden"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Bak het kipgehakt in een ingespoten pan met de Mexicaanse kruiden, de sambal, peper en zout in 5 minuten rul en gaar.",
+      "Besmeer één helft van de tortilla met de geprakte avocado.",
+      "Schep het warme kipgehakt erop, strooi de geraspte kaas erover en vouw de tortilla dubbel.",
+      "Grill de quesadilla in een droge koekenpan 2 tot 3 minuten per kant tot hij knapperig is en de kaas gesmolten."
+    ],
+    "voeding": {
+      "kcal": 450,
+      "eiwit": 37,
+      "kh": 30,
+      "vet": 16
+    }
+  },
+  {
+    "id": "proteine-pannenkoeken-fruitspread",
+    "titel": "Proteïne pannenkoeken met fruitspread",
+    "omschrijving": "Stapel pannenkoekjes van havermeel en eiwit, met een dunne veeg fruitspread tussen elke laag.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "zoet",
+        "havermout"
+      ]
+    },
+    "tijd": 20,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Havermeel of volkoren meel"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Heel ei"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Losse ei-eiwitten"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Ongezoete amandelmelk"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Bakpoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Kaneel"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Suikervrije fruitspread"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      }
+    ],
+    "stappen": [
+      "Meng het havermeel, het hele ei, de losse eiwitten, de amandelmelk, het bakpoeder en de kaneel tot een vloeibaar beslag.",
+      "Verhit een koekenpan op middelhoog vuur en spray hem in met bakspray.",
+      "Bak kleine pannenkoekjes van het beslag goudbruin, ongeveer 2 minuten per kant.",
+      "Stapel de pannenkoeken op en besmeer elke laag met een dunne veeg fruitspread."
+    ],
+    "voeding": {
+      "kcal": 420,
+      "eiwit": 36,
+      "kh": 50,
+      "vet": 6
+    }
+  },
+  {
+    "id": "kip-avocado-wrap",
+    "titel": "Kip-avocado wrap",
+    "omschrijving": "Wrap met een romige spread van hüttenkäse en avocado, met warme gekruide kipreepjes.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "snel"
+      ]
+    },
+    "tijd": 15,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Volkoren wrap"
+      },
+      {
+        "h": 125,
+        "e": "gram",
+        "n": "Kipfilet (in reepjes)"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Avocado (geprakt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Hüttenkäse"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Tomaat (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Kipkruiden"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sriracha 0%"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Hand verse ijsbergsla"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Bestrooi de kipreepjes met de kipkruiden en bak ze in een ingespoten koekenpan in 5 tot 6 minuten goudbruin en gaar.",
+      "Meng de hüttenkäse met de geprakte avocado, peper en zout tot een romige spread.",
+      "Besmeer de wrap met het mengsel en verdeel de ijsbergsla, de tomatenblokjes en de warme kipreepjes erover.",
+      "Werk af met de sriracha en rol de wrap strak op."
+    ],
+    "voeding": {
+      "kcal": 430,
+      "eiwit": 38,
+      "kh": 32,
+      "vet": 15
+    }
+  },
+  {
+    "id": "sweet-chili-chicken-wrap",
+    "titel": "Sweet chili chicken wrap",
+    "omschrijving": "Kipblokjes die glanzend worden van suikervrije sweet chilisaus, in een wrap met ijsbergsla.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "snel",
+        "zoetpittig"
+      ]
+    },
+    "tijd": 15,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Volkoren wrap"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipfilet (in dobbelsteentjes)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Suikervrije sweet chilisaus"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Light zuivelspread"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Tomaat (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Paprikapoeder en knoflookpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Hand fijngesneden ijsbergsla"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      }
+    ],
+    "stappen": [
+      "Kruid de kipblokjes met het paprikapoeder en knoflookpoeder en bak ze in een ingespoten pan in 5 minuten gaar.",
+      "Zet het vuur laag en meng de sweet chilisaus door de kip tot alle blokjes glanzen.",
+      "Besmeer de wrap met de light zuivelspread.",
+      "Vul de wrap met de ijsbergsla, de tomaat en de warme sweet chili kip en rol hem strak op."
+    ],
+    "voeding": {
+      "kcal": 420,
+      "eiwit": 41,
+      "kh": 36,
+      "vet": 9
+    }
+  },
+  {
+    "id": "runderreepjes-paprika-wok-bowl",
+    "titel": "Runderreepjes en paprika wok-bowl",
+    "omschrijving": "Snelle wok met paprika en runderreepjes, met de rijst er op het laatst doorheen.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "wok",
+        "aziatisch"
+      ]
+    },
+    "tijd": 25,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Magere runderreepjes"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Basmatirijst (ongekookt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Rode paprika (in reepjes)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui (gesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Lichte sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal oelek"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Chilivlokken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray"
+      }
+    ],
+    "stappen": [
+      "Kook de basmatirijst volgens de aanwijzingen op de verpakking gaar en giet af.",
+      "Spray een wok in met bakspray en fruit de ui, de knoflook, de paprika en de sambal 3 minuten op hoog vuur.",
+      "Voeg de runderreepjes toe en wok ze 2 tot 3 minuten stevig mee op hoog vuur.",
+      "Blus af met de sojasaus en de chilivlokken en schep de gekookte rijst erdoor."
+    ],
+    "voeding": {
+      "kcal": 460,
+      "eiwit": 38,
+      "kh": 45,
+      "vet": 11
+    }
+  },
+  {
+    "id": "tonijnsalade-rijstwafels",
+    "titel": "Tonijnsalade op rijstwafels",
+    "omschrijving": "Tonijnsalade met Griekse yoghurt in plaats van mayonaise. Geen pan nodig.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "vis"
+      ],
+      "vrij": [
+        "snel",
+        "geen pan"
+      ]
+    },
+    "tijd": 10,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 120,
+        "e": "gram",
+        "n": "Tonijn in eigen nat (uitgelekt)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Magere Griekse yoghurt 0%"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Zilvervliesrijstwafels"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Rode ui (fijngesnipperd)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Augurk (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Groninger mosterd"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Laat de tonijn grondig uitlekken.",
+      "Meng de tonijn, de Griekse yoghurt, de rode ui, de augurk en de mosterd in een kom krachtig los met een vork.",
+      "Breng de tonijnsalade op smaak met peper en zout.",
+      "Verdeel de salade over de rijstwafels."
+    ],
+    "voeding": {
+      "kcal": 290,
+      "eiwit": 35,
+      "kh": 24,
+      "vet": 3
+    }
+  },
+  {
+    "id": "turkse-rundvleesblokjes-eieren",
+    "titel": "Turkse rundvleesblokjes met pittige eieren",
+    "omschrijving": "Gekruide biefstukblokjes met eieren die in dezelfde pan garen, dooier nog lopend.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "een pan",
+        "koolhydraatarm",
+        "turks"
+      ]
+    },
+    "tijd": 15,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 225,
+        "e": "gram",
+        "n": "Biefstuk (in blokjes van 2 cm)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote eieren"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Gerookt paprikapoeder, voor het vlees"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Gerookt paprikapoeder, om af te maken"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Chilivlokken, voor het vlees"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Chilivlokken, om af te maken"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Gedroogde tijm of oregano"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Verse peterselie of dille (fijngesneden)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of een scheutje olijfolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Meng de rundvleesblokjes in een kom met zout, zwarte peper, het paprikapoeder voor het vlees, de chilivlokken voor het vlees en de tijm of oregano.",
+      "Spray een grote gietijzeren pan in met bakspray op middelhoog vuur en bak de blokjes in 4 tot 5 minuten rondom goudbruin en net gaar.",
+      "Schuif het vlees naar één kant van de pan en zet het vuur iets lager.",
+      "Breek de eieren in de lege helft, leg eventueel een deksel op de pan en laat 3 tot 4 minuten garen tot het eiwit gestold is en de dooier nog lopend.",
+      "Haal de pan van het vuur en bestrooi alles met de peterselie, de resterende chilivlokken en het resterende paprikapoeder."
+    ],
+    "voeding": {
+      "kcal": 390,
+      "eiwit": 49,
+      "kh": 4,
+      "vet": 17
+    }
   }
 ]
