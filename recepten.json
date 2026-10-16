@@ -4272,5 +4272,113 @@
       "kh": 54,
       "vet": 11
     }
+  },
+  {
+    "id": "romige-gochujang-noedels-kip",
+    "titel": "Romige gochujang noedels met kip",
+    "omschrijving": "Lichtpittige gochujangsaus die indikt met kookroom, over woknoedels met kipdij. Van hapjevandedag op Instagram.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "koreaans",
+        "wok",
+        "noedels",
+        "romig",
+        "pittig"
+      ]
+    },
+    "tijd": 20,
+    "basisPersonen": 2,
+    "ingredienten": [
+      {
+        "h": 350,
+        "e": "gram",
+        "n": "Kipdijfilet (in blokjes)"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Woknoedels"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Gembersiroop"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Gochujang"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Honing"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Kookroom"
+      },
+      {
+        "h": 300,
+        "e": "ml",
+        "n": "Water"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Kippenbouillonblokje"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Bosuitjes (in ringetjes)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Sesamzaadjes"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Crispy chiliolie"
+      }
+    ],
+    "stappen": [
+      "Bak de kipdijblokjes in een ruime pan op hoog vuur rondom goudbruin en gaar.",
+      "Zet het vuur lager, voeg de knoflook toe en fruit die 30 seconden mee.",
+      "Roer de gochujang, de sojasaus, de honing en de gembersiroop erdoor en bak het mengsel kort aan tot het geurt.",
+      "Giet het water erbij, verkruimel het bouillonblokje erboven en breng alles aan de kook.",
+      "Laat de saus rustig inkoken terwijl je de noedels volgens de aanwijzingen op de verpakking gaar kookt.",
+      "Giet de kookroom bij de saus en laat die nog een paar minuten zachtjes indikken tot hij aan een lepel blijft hangen.",
+      "Schep de uitgelekte noedels door de saus tot ze helemaal bedekt zijn.",
+      "Verdeel over twee borden en maak af met de bosui, de sesamzaadjes en een beetje crispy chiliolie."
+    ],
+    "voeding": {
+      "kcal": 575,
+      "eiwit": 43,
+      "kh": 50,
+      "vet": 23
+    }
   }
 ]
