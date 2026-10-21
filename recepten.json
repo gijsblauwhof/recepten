@@ -6052,5 +6052,107 @@
       "kh": 52,
       "vet": 20
     }
+  },
+  {
+    "id": "zoete-aardappel-boats-gehakt",
+    "titel": "Gevulde zoete aardappel met gekruid gehakt",
+    "omschrijving": "Hele zoete aardappel uit de airfryer, opengesneden en gevuld met gekruid rundergehakt en spinazie, met gesmolten mozzarella erover.",
+    "labels": {
+      "maaltijd": [
+        "lunch",
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "airfryer",
+        "oven",
+        "eiwitrijk"
+      ]
+    },
+    "tijd": 60,
+    "basisPersonen": 2,
+    "ingredienten": [
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Grote zoete aardappels"
+      },
+      {
+        "h": 400,
+        "e": "gram",
+        "n": "Mager rundergehakt"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Light mozzarella (geraspt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Rode ui (fijngesnipperd)"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 4,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Italiaanse kruiden"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Chilipoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Handvol verse spinazie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Scheutje water"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Prik de zoete aardappels een paar keer in en gaar ze in de airfryer 40 tot 45 minuten op 190 graden, halverwege gekeerd. In de oven duurt het 50 tot 60 minuten op 200 graden, ook halverwege keren.",
+      "Bak ondertussen het rundergehakt rul en bruin in een pan.",
+      "Voeg de rode ui en de knoflook toe en bak ze een paar minuten mee tot de ui zacht is.",
+      "Roer de Italiaanse kruiden, het paprikapoeder en het chilipoeder erdoor en bak ze kort mee tot ze geuren.",
+      "Roer de tomatenpuree erdoor met een scheutje water en laat het mengsel een paar minuten indikken. Breng op smaak met peper en zout.",
+      "Voeg de spinazie toe en roer tot de blaadjes geslonken zijn.",
+      "Snijd de gare zoete aardappels in de lengte open en druk ze met een vork voorzichtig uit elkaar.",
+      "Vul ze royaal met het gehaktmengsel, strooi de mozzarella eroverheen en zet ze nog een paar minuten terug in de airfryer of oven tot de kaas gesmolten is."
+    ],
+    "voeding": {
+      "kcal": 580,
+      "eiwit": 54,
+      "kh": 52,
+      "vet": 18
+    }
   }
 ]
