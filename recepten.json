@@ -6997,5 +6997,90 @@
       "kh": 78,
       "vet": 23
     }
+  },
+  {
+    "id": "geroosterde-havermout-banaan-kwark",
+    "titel": "Geroosterde havermout met gekarameliseerde banaan op kwark",
+    "omschrijving": "Havermout die je kort roostert in boter, met banaan die karamelliseert en chocolade die net smelt. Warm over koude kwark met vers fruit.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "havermout",
+        "zoet",
+        "snel",
+        "fruit",
+        "een pan"
+      ]
+    },
+    "tijd": 10,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 250,
+        "e": "gram",
+        "n": "Magere kwark of Griekse yoghurt 0%"
+      },
+      {
+        "h": 40,
+        "e": "gram",
+        "n": "Havermout (grove vlokken)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Rijpe banaan (in plakjes)"
+      },
+      {
+        "h": 5,
+        "e": "gram",
+        "n": "Roomboter"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Honing"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Pure chocoladestukjes"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Vers fruit naar keuze"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Walnoten (optioneel)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snuf zout"
+      }
+    ],
+    "stappen": [
+      "Smelt de boter in een koekenpan op middelhoog vuur.",
+      "Voeg de havermout toe en rooster die ongeveer 2 minuten tot hij goudbruin is en begint te geuren. Blijf schudden, want hij brandt snel aan.",
+      "Voeg de banaan, de honing en een snuf zout toe.",
+      "Schud de pan tot alles bedekt is en de banaan aan de randen begint te karamelliseren.",
+      "Haal de pan van het vuur en roer de chocoladestukjes erdoor. Door de restwarmte smelten ze net, zonder te verbranden.",
+      "Schep de kwark of yoghurt in een kom en lepel het warme havermoutmengsel erover.",
+      "Maak af met het verse fruit en de walnoten. Eet hem meteen op, zolang het verschil tussen de warme havermout en de koude kwark er nog is."
+    ],
+    "voeding": {
+      "kcal": 605,
+      "eiwit": 32,
+      "kh": 83,
+      "vet": 18
+    }
   }
 ]
