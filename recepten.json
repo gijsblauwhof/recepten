@@ -6154,5 +6154,848 @@
       "kh": 52,
       "vet": 18
     }
+  },
+  {
+    "id": "aardappelquiches-uit-de-oven",
+    "titel": "Aardappelquiches uit de oven",
+    "omschrijving": "Geprakte aardappel als bodem, eiermengsel met hüttenkäse erop en kaas eroverheen. Gemaakt om in bakjes voor te bereiden.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "oven",
+        "meal prep",
+        "eiwitrijk"
+      ]
+    },
+    "tijd": 60,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 250,
+        "e": "gram",
+        "n": "Aardappelen (ongekookt gewogen)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Eieren"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Hüttenkäse"
+      },
+      {
+        "h": 25,
+        "e": "gram",
+        "n": "Geraspte lichte kaas"
+      },
+      {
+        "h": 5,
+        "e": "gram",
+        "n": "Hot sauce (optioneel)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Toppings naar keuze"
+      }
+    ],
+    "stappen": [
+      "Pof of kook de aardappels van tevoren gaar en laat ze afkoelen. Doe je dit vooruit, dan is de rest zo gepiept.",
+      "Verwarm de oven voor op 180 graden.",
+      "Prak de gare aardappels in een ovenbestendig bakje en druk ze stevig aan tot een bodem.",
+      "Breek de eieren erboven, voeg de hüttenkäse en eventueel de hot sauce toe en meng alles goed door.",
+      "Voeg je toppings toe en roer ze losjes door het eimengsel.",
+      "Strooi de geraspte kaas erover en bak het geheel ongeveer 30 minuten in de oven tot het gestold en goudbruin is."
+    ],
+    "voeding": {
+      "kcal": 390,
+      "eiwit": 30,
+      "kh": 35,
+      "vet": 17
+    }
+  },
+  {
+    "id": "bananenbrood-proteine-bowl",
+    "titel": "Bananenbrood proteïnebowl uit de oven",
+    "omschrijving": "Eén bakje dat smaakt als bananenbrood, met proteïnepoeder door het beslag. Blijft een paar dagen goed in de koelkast.",
+    "labels": {
+      "maaltijd": [
+        "ontbijt"
+      ],
+      "basis": [],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "oven",
+        "zoet",
+        "meal prep",
+        "eiwitrijk"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Kleine banaan (geprakt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Ei"
+      },
+      {
+        "h": 50,
+        "e": "ml",
+        "n": "Melk naar keuze"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Honing"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Bloem"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Proteïnepoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Kaneel"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Bakpoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Scheutje vanille-extract"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Snufje zout"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Chocoladestukjes en banaanschijfjes om te toppen (optioneel)"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 180 graden en vet een ovenbestendig bakje voor één portie in.",
+      "Meng de geprakte banaan, het ei, de melk, de honing en de vanille tot een glad mengsel.",
+      "Voeg de bloem, het proteïnepoeder, de kaneel, het bakpoeder en het zout toe en roer tot alles net gemengd is. Niet langer doorroeren.",
+      "Giet het beslag in het bakje en leg er banaanschijfjes en chocoladestukjes op als je die gebruikt.",
+      "Bak 25 tot 30 minuten, tot een satéprikker er schoon uitkomt.",
+      "Warm hem later op in de magnetron. In de koelkast blijft hij vier tot vijf dagen goed."
+    ],
+    "voeding": {
+      "kcal": 400,
+      "eiwit": 36,
+      "kh": 48,
+      "vet": 8
+    }
+  },
+  {
+    "id": "turks-broodje-flinterdunne-kipfilet",
+    "titel": "Turks broodje met flinterdunne kipfilet",
+    "omschrijving": "Kipfilet die eerst heel gebakken wordt, rust en dan flinterdun gesneden kort knapperig gaat, met Parmezaan en ingelegde peper.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [
+        "brood"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "broodje",
+        "snel"
+      ]
+    },
+    "tijd": 20,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Kipfilet"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Turks broodje"
+      },
+      {
+        "h": 15,
+        "e": "gram",
+        "n": "Parmezaanse kaas"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Lichte roomboter, om te besmeren en te bakken"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Ingelegde rode peper"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Bakspray of olie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Grof zeezout en peper"
+      }
+    ],
+    "stappen": [
+      "Sla de kipfilet gelijkmatig plat en breng hem op smaak met zout en peper.",
+      "Verhit bakspray of olie in een koekenpan en bak de kipfilet in 10 minuten goudbruin en gaar.",
+      "Wikkel de kip in aluminiumfolie en laat hem 5 minuten rusten.",
+      "Snijd de kipfilet flinterdun. Verhit dezelfde pan op hoog vuur met een klontje boter en bak de plakjes in 30 seconden goudbruin en knapperig.",
+      "Snijd het broodje door, besmeer het met een laag lichte roomboter en breng het op smaak met grof zeezout.",
+      "Leg de kip op het broodje, rasp de Parmezaanse kaas eroverheen en maak af met de ingelegde rode peper."
+    ],
+    "voeding": {
+      "kcal": 580,
+      "eiwit": 49,
+      "kh": 52,
+      "vet": 19
+    }
+  },
+  {
+    "id": "burritos-gehakt-salsa-guacamole",
+    "titel": "Burrito's met gehakt, salsa en guacamole",
+    "omschrijving": "Gehakt met paprika en maïs in zelfgemaakte tortilla's, met verse salsa en guacamole erbij.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "mexicaans",
+        "samen eten"
+      ]
+    },
+    "tijd": 40,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 500,
+        "e": "gram",
+        "n": "Rundergehakt of vega gehakt"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Ui"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen, voor het gehakt"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Maïs (uitgelekt)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Paprika's"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Komijn en gerookt paprikapoeder"
+      },
+      {
+        "h": 8,
+        "e": "stuks",
+        "n": "Medium tortilla's"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Avocado's"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Ui, voor de guacamole"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Knoflookteen, voor de guacamole"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Tomaat, voor de guacamole"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Limoen, voor de guacamole"
+      },
+      {
+        "h": 4,
+        "e": "stuks",
+        "n": "Tomaten, voor de salsa"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Witte ui, voor de salsa"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Limoen, voor de salsa"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Zure room"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Paar jalapeños uit pot"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Groene peper, voor de salsa"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Hand verse koriander"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Scheutje water"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Bak het gehakt aan in een pan en voeg de ui, de paprika en de knoflook voor het gehakt toe.",
+      "Bak de tomatenpuree, de kruiden, de maïs en de jalapeños mee, breng op smaak met peper en zout en voeg een scheutje water toe. Laat alles even zachtjes sudderen.",
+      "Maak ondertussen de salsa: snijd de tomaten voor de salsa, de witte ui, de groene peper en de koriander fijn en meng ze met flink wat limoensap, wat maïs, peper en zout.",
+      "Prak voor de guacamole de avocado met de geraspte knoflook en limoensap en meng de klein gesneden tomaat en ui erdoor.",
+      "Rol de tortilla's strak op met de vulling en bak ze aan in de pan zodat ze dicht blijven zitten. Druk ze eventueel aan met een spatel of een deksel.",
+      "Serveer ze op de salsa en top af met de guacamole, de zure room en verse koriander."
+    ],
+    "voeding": {
+      "kcal": 880,
+      "eiwit": 38,
+      "kh": 79,
+      "vet": 48
+    }
+  },
+  {
+    "id": "lemon-pepper-kip-rijstbowl",
+    "titel": "Citroen-peper kip met knoflookrijst en frisse yoghurtsalade",
+    "omschrijving": "Kip met een citroen-boterglazuur, gele knoflookrijst uit bouillon en een koude yoghurtsalade met komkommer en tomaat.",
+    "labels": {
+      "maaltijd": [
+        "lunch",
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "meal prep",
+        "eiwitrijk",
+        "fris"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 3,
+    "ingredienten": [
+      {
+        "h": 600,
+        "e": "gram",
+        "n": "Kipfilet of kipdij (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie, voor de kip"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Zout, voor de kip"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Zwarte peper"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Knoflookpoeder, voor de kip"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Uienpoeder"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Citroensap, voor de kip"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Citroenrasp"
+      },
+      {
+        "h": 14,
+        "e": "gram",
+        "n": "Ongezouten roomboter"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Peterselie (fijngehakt)"
+      },
+      {
+        "h": 190,
+        "e": "gram",
+        "n": "Basmatirijst (ongekookt)"
+      },
+      {
+        "h": 480,
+        "e": "ml",
+        "n": "Kippenbouillon (natriumarm)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie, voor de rijst"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Kurkuma"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Citroensap, voor de rijst"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Zout, voor de rijst"
+      },
+      {
+        "h": 240,
+        "e": "gram",
+        "n": "Magere Griekse yoghurt"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Komkommer (in blokjes)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Tomaten (in blokjes)"
+      },
+      {
+        "h": 0.25,
+        "e": "stuks",
+        "n": "Rode ui (fijngesneden)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Citroensap, voor de salade"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Knoflookpoeder, voor de salade"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Gedroogde dille of peterselie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout voor de salade"
+      }
+    ],
+    "stappen": [
+      "Spoel de rijst tot het water helder is. Verhit de olijfolie voor de rijst in een pan op middelhoog vuur en fruit de knoflook 30 seconden aan.",
+      "Voeg de rijst, de kurkuma, het zout voor de rijst en de bouillon toe. Breng aan de kook, zet het vuur laag, doe de deksel erop en laat 15 minuten koken. Roer het citroensap voor de rijst erdoor en maak de rijst los met een vork.",
+      "Verhit de olijfolie voor de kip in een koekenpan op middelhoog tot hoog vuur. Kruid de kip met het zout, de peper, het knoflookpoeder en het uienpoeder voor de kip en schroei hem 6 tot 8 minuten tot hij goudbruin en gaar is.",
+      "Zet het vuur laag, voeg de boter, het citroensap voor de kip en de citroenrasp toe en hussel tot de kip bedekt is en licht glanst.",
+      "Meng voor de salade de Griekse yoghurt, de komkommer, de tomaat, de rode ui, het citroensap voor de salade, het knoflookpoeder, de dille, peper en zout. Zet hem koud tot het serveren.",
+      "Verdeel de rijst, de kip en de salade over de bakjes en maak af met de peterselie."
+    ],
+    "voeding": {
+      "kcal": 595,
+      "eiwit": 51,
+      "kh": 48,
+      "vet": 18
+    }
+  },
+  {
+    "id": "taco-aardappelbowl-kaassaus",
+    "titel": "Taco-aardappelbowl met kaassaus",
+    "omschrijving": "Krokant geroosterde aardappelblokjes met tacogehakt, verse pico de gallo en een gladde kaassaus van cheddar en yoghurt.",
+    "labels": {
+      "maaltijd": [
+        "lunch",
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "mexicaans",
+        "oven",
+        "meal prep"
+      ]
+    },
+    "tijd": 45,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 680,
+        "e": "gram",
+        "n": "Aardappelen (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Paprikapoeder, voor de aardappelen"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Zout, voor de aardappelen"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Zwarte peper"
+      },
+      {
+        "h": 680,
+        "e": "gram",
+        "n": "Extra mager rundergehakt 7%"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Ui (fijngesneden)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Zakje tacokruiden"
+      },
+      {
+        "h": 120,
+        "e": "ml",
+        "n": "Runderbouillon (natriumarm)"
+      },
+      {
+        "h": 250,
+        "e": "gram",
+        "n": "Tomaten (in blokjes)"
+      },
+      {
+        "h": 80,
+        "e": "gram",
+        "n": "Kleine rode ui (in blokjes)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Jalapeño (fijngehakt)"
+      },
+      {
+        "h": 15,
+        "e": "gram",
+        "n": "Verse koriander (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Limoen (sap)"
+      },
+      {
+        "h": 56,
+        "e": "gram",
+        "n": "Magere geraspte cheddar"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Griekse yoghurt"
+      },
+      {
+        "h": 60,
+        "e": "ml",
+        "n": "Magere melk"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Hot sauce (optioneel)"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Paprikapoeder, voor de kaassaus"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 220 graden. Hussel de aardappelblokjes om met de olijfolie, het paprikapoeder voor de aardappelen, het knoflookpoeder, het zout en de zwarte peper.",
+      "Verdeel ze over een met bakpapier beklede bakplaat en rooster ze 25 tot 30 minuten, halverwege gekeerd, tot ze krokant en goudbruin zijn.",
+      "Verhit een grote koekenpan op middelhoog tot hoog vuur en bak het rundergehakt 5 tot 6 minuten terwijl je het uit elkaar breekt. Voeg de ui en de knoflook toe en bak ze nog 2 tot 3 minuten mee tot ze zacht zijn en geuren.",
+      "Roer de tacokruiden en de runderbouillon erdoor en laat 3 tot 4 minuten pruttelen tot het vocht is ingekookt en het mengsel indikt. Breng op smaak met peper en zout.",
+      "Meng voor de pico de gallo de tomaat, de rode ui, de jalapeño, de koriander, het limoensap en zout in een kom en zet die koud weg.",
+      "Klop in een steelpan op laag vuur de cheddar, de Griekse yoghurt, de melk, de hot sauce, het paprikapoeder voor de kaassaus en een snuf zout tot een gladde romige saus. Blijf doorroeren.",
+      "Verdeel de geroosterde aardappelen over de bakjes, leg het tacogehakt ernaast met een royale schep pico de gallo en schenk de kaassaus over het vlees en de aardappelen."
+    ],
+    "voeding": {
+      "kcal": 522,
+      "eiwit": 54,
+      "kh": 42,
+      "vet": 18
+    }
+  },
+  {
+    "id": "nasi-goreng-djawa",
+    "titel": "Nasi goreng djawa",
+    "omschrijving": "Nasi met een zelfgemaakte boemboe, krokante spekjes, kippendij in ketjap en roerei, afgemaakt met lente-ui en taugé.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "kip",
+        "varken"
+      ],
+      "vrij": [
+        "indonesisch",
+        "wok"
+      ]
+    },
+    "tijd": 50,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 335,
+        "e": "gram",
+        "n": "Rijst (ongekookt)"
+      },
+      {
+        "h": 300,
+        "e": "gram",
+        "n": "Kippendij (in blokjes)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Spekjes"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Spitskool (in reepjes)"
+      },
+      {
+        "h": 100,
+        "e": "gram",
+        "n": "Wortel (in reepjes)"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Eieren"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Sjalotjes"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Knoflookteen"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Centimeter verse gember"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Trassi"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Laos"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sambal badjak"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Ketoembar"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Maggiblok"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Ketjap manis, voor de kip"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Ketjap manis, voor de nasi"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Stengels lente-ui (in ringetjes)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Zonnebloemolie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Handjevol taugé"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Scheutje volle melk"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zout naar smaak"
+      }
+    ],
+    "stappen": [
+      "Spoel de rijst 2 tot 3 keer met koud water tot het water bijna helder is. Doe hem 20 minuten in de rijstkoker en laat hem daarna 15 minuten met de deksel erop staan. Laat de rijst na het koken goed afkoelen.",
+      "Maak van de sjalotjes, de knoflook, de gember, de trassi, de laos, de sambal badjak en de ketoembar een boemboe in de blender of tjobek.",
+      "Kluts de eieren met een scheutje volle melk en bak er een scramble van. Haal die uit de pan.",
+      "Doe de spekjes in een koude pan en bak ze al roerend in 2 tot 3 minuten krokant. Haal ze eruit en bak de kip 4 minuten in het spekvet. Voeg de ketjap manis voor de kip toe en bak nog 2 minuten door.",
+      "Verhit de zonnebloemolie in een hete wok en bak de boemboe met het verkruimelde maggiblok 1 tot 2 minuten aan tot het lekker geurt.",
+      "Voeg de spitskool en de wortel toe en bak ze 2 tot 3 minuten mee op hoog vuur. Voeg daarna de kip en de spekjes toe en bak ze 2 minuten mee.",
+      "Voeg de afgekoelde rijst en de ketjap manis voor de nasi toe. Blijf op hoog vuur goed roeren tot je na 4 tot 5 minuten mooie nasi hebt.",
+      "Roer het roerei erdoor en voeg tot slot de lente-ui en de taugé toe."
+    ],
+    "voeding": {
+      "kcal": 645,
+      "eiwit": 30,
+      "kh": 78,
+      "vet": 23
+    }
   }
 ]
