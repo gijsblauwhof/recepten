@@ -5052,5 +5052,1005 @@
       "kh": 47,
       "vet": 16
     }
+  },
+  {
+    "id": "tonijn-komkommer-rijstbowl",
+    "titel": "Tonijn-komkommer rijstbowl",
+    "omschrijving": "Bowl met tonijn uit blik, edamame en avocado in losse vakken, met een dunne srirachayoghurt eroverheen.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "vis"
+      ],
+      "vrij": [
+        "bowl",
+        "snel",
+        "meal prep"
+      ]
+    },
+    "tijd": 10,
+    "basisPersonen": 1,
+    "ingredienten": [
+      {
+        "h": 120,
+        "e": "gram",
+        "n": "Tonijn in water (uitgelekt)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Witte rijst (ongekookt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Komkommer (in blokjes)"
+      },
+      {
+        "h": 75,
+        "e": "gram",
+        "n": "Edamame (gedopt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Avocado (in plakjes)"
+      },
+      {
+        "h": 3,
+        "e": "eetlepel",
+        "n": "Griekse yoghurt"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Sriracha"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Limoensap"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Bosui (in ringetjes)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zwarte sesamzaadjes"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar en laat hem afkoelen tot handwarm.",
+      "Klop de Griekse yoghurt, de sriracha en het limoensap los met een scheutje water, tot het dun genoeg is om in dunne lijnen te schenken en het niet in klodders blijft liggen.",
+      "Verdeel de rijst over de bodem van de kom en leg de tonijn, de komkommer, de edamame en de avocado in eigen vakken erop in plaats van alles door elkaar.",
+      "Schenk de saus er in zigzaglijnen overheen en maak af met de zwarte sesamzaadjes en de bosui. Meng het pas door elkaar terwijl je eet."
+    ],
+    "voeding": {
+      "kcal": 510,
+      "eiwit": 42,
+      "kh": 48,
+      "vet": 16
+    }
+  },
+  {
+    "id": "taco-bowl-rundergehakt-zoete-aardappel",
+    "titel": "Taco bowl met rundergehakt en zoete aardappel",
+    "omschrijving": "Geroosterde zoete aardappel en gekruid rundergehakt op een bed van sla, met een limoen-yoghurtsaus.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "aardappel"
+      ],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "mexicaans",
+        "bowl",
+        "oven"
+      ]
+    },
+    "tijd": 40,
+    "basisPersonen": 2,
+    "ingredienten": [
+      {
+        "h": 400,
+        "e": "gram",
+        "n": "Mager rundergehakt 10%"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Grote zoete aardappel (geschild, in blokjes van 2 cm)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Tacokruiden"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Water"
+      },
+      {
+        "h": 70,
+        "e": "gram",
+        "n": "Geraspte sla"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Avocado (in blokjes)"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Griekse yoghurt"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Limoensap"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Verse koriander (fijngehakt)"
+      },
+      {
+        "h": 85,
+        "e": "gram",
+        "n": "Zwarte bonen, gekookt (optioneel)"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Verkruimelde feta (optioneel)"
+      },
+      {
+        "h": 10,
+        "e": "gram",
+        "n": "Pompoenpitten (optioneel)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 220 graden. Hussel de zoete aardappel om met de olijfolie, zout en zwarte peper, verdeel hem over een bakplaat en rooster hem 25 tot 30 minuten, halverwege keren, tot hij zacht en licht gekarameliseerd is.",
+      "Verhit een anti-aanbakpan op middelhoog tot hoog vuur en bak het rundergehakt in 8 tot 10 minuten bruin, terwijl je het uit elkaar breekt.",
+      "Roer de tacokruiden en het water erdoor en bak nog 2 minuten tot het vlees overal bedekt is.",
+      "Meng de Griekse yoghurt, het limoensap en de koriander glad.",
+      "Leg de sla in een kom en verdeel het taco-gehakt, de geroosterde zoete aardappel en de avocado erover. Voeg de zwarte bonen, de feta en de pompoenpitten toe als je die gebruikt.",
+      "Lepel de yoghurtsaus over de bowl en breng op smaak met extra peper en zout."
+    ],
+    "voeding": {
+      "kcal": 675,
+      "eiwit": 47,
+      "kh": 29,
+      "vet": 42
+    }
+  },
+  {
+    "id": "zalm-rijstbowl-airfryer",
+    "titel": "Zalm rijstbowl uit de airfryer",
+    "omschrijving": "Gemarineerde zalmblokjes die karamelliseren in de airfryer, met rijst, groente en spicy mayo.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "rijst"
+      ],
+      "proteine": [
+        "vis"
+      ],
+      "vrij": [
+        "airfryer",
+        "bowl",
+        "aziatisch"
+      ]
+    },
+    "tijd": 35,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 454,
+        "e": "gram",
+        "n": "Zalm (in hapklare stukken)"
+      },
+      {
+        "h": 120,
+        "e": "ml",
+        "n": "Sojasaus (natriumarm)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Rijstazijn"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Honing"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Sriracha, voor de marinade"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Gember-knoflookpasta"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Sesamolie"
+      },
+      {
+        "h": 4,
+        "e": "eetlepel",
+        "n": "Japanse mayonaise"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Sriracha, voor de spicy mayo"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Rijst (ongekookt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Ingelegde komkommer"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Wortel (in dunne reepjes)"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Edamame (gedopt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Avocado"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Chilivlokken en sesamzaad"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kook de rijst volgens de aanwijzingen op de verpakking gaar.",
+      "Meng de sojasaus, de rijstazijn, de honing, de sriracha voor de marinade, paprikapoeder, zout, zwarte peper, de gember-knoflookpasta en de sesamolie in een kom.",
+      "Voeg de zalm toe en schep hem voorzichtig om tot alles bedekt is. Laat minstens 15 minuten marineren.",
+      "Dep de zalm licht droog en leg de stukken in één laag in de mand van de airfryer, met ruimte ertussen zodat de randen karamelliseren in plaats van stomen.",
+      "Air-fry 6 tot 7 minuten op 200 graden, tot de zalm gekarameliseerd en net gaar is.",
+      "Verdeel de rijst over de kommen en leg de zalm, de ingelegde komkommer, de wortel, de edamame en de avocado erbij.",
+      "Meng de Japanse mayonaise met de sriracha voor de spicy mayo en schenk die over elke bowl.",
+      "Maak af met de chilivlokken en het sesamzaad."
+    ],
+    "voeding": {
+      "kcal": 705,
+      "eiwit": 35,
+      "kh": 56,
+      "vet": 38
+    }
+  },
+  {
+    "id": "arayes-gevulde-pita-rundergehakt",
+    "titel": "Arayes, gevulde pita met gekruid rundergehakt",
+    "omschrijving": "Pitapunten gevuld met een dunne laag gekruid rundergehakt, krokant gebakken en afgebakken in de oven, met knoflook-tahinsaus.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "libanees",
+        "oven",
+        "pita"
+      ]
+    },
+    "tijd": 45,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 454,
+        "e": "gram",
+        "n": "Rundergehakt 15%"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Kleine gele ui (geraspt en droog geknepen)"
+      },
+      {
+        "h": 5,
+        "e": "stuks",
+        "n": "Knoflookteen, voor het gehakt (fijn geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Jalapeño (geraspt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 20,
+        "e": "gram",
+        "n": "Peterselie, voor het gehakt (fijngehakt)"
+      },
+      {
+        "h": 15,
+        "e": "gram",
+        "n": "Koriander, voor het gehakt (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie, voor het gehakt"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "IJswater"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Zout, voor het gehakt"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Zwarte peper"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Komijnpoeder, voor het gehakt"
+      },
+      {
+        "h": 2,
+        "e": "theelepel",
+        "n": "Paprikapoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Piment"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Gemalen koriander"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Knoflookpoeder"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Kaneel"
+      },
+      {
+        "h": 4,
+        "e": "stuks",
+        "n": "Pitabroodjes (gehalveerd)"
+      },
+      {
+        "h": 180,
+        "e": "gram",
+        "n": "Griekse yoghurt"
+      },
+      {
+        "h": 60,
+        "e": "gram",
+        "n": "Tahin"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Knoflookteen, voor de saus (fijn geraspt)"
+      },
+      {
+        "h": 0.5,
+        "e": "stuks",
+        "n": "Citroen (sap)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Olijfolie, voor de saus"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Zout, voor de saus"
+      },
+      {
+        "h": 0.25,
+        "e": "theelepel",
+        "n": "Komijnpoeder, voor de saus"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Peterselie, voor de saus (fijngehakt)"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Koriander, voor de saus (fijngehakt)"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Olijfolie met fijngehakte knoflook en peterselie, om te bestrijken"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 175 graden.",
+      "Meng in een ruime kom het rundergehakt met de geraspte ui, de knoflook voor het gehakt, de jalapeño, de tomatenpuree, de peterselie en koriander voor het gehakt, de olijfolie voor het gehakt, het ijswater en alle kruiden, tot alles goed verdeeld en licht plakkerig is.",
+      "Halveer de pita's en open elke pocket voorzichtig. Verwarm ze eerst een paar seconden in de magnetron, dan gaan ze makkelijker open.",
+      "Strijk een dunne laag van het gehaktmengsel in elke pitahelft en bestrijk de buitenkant royaal met olijfolie.",
+      "Verhit een pan op middelhoog vuur en bak de arayes eerst met de vleeskant naar beneden 1 tot 2 minuten tot ze geschroeid zijn. Draai ze om en bak elke pitakant goudbruin en krokant.",
+      "Zet ze daarna nog 15 minuten in de oven tot het vlees gaar is.",
+      "Meng ondertussen alle ingrediënten voor de knoflook-tahinsaus glad.",
+      "Bestrijk de hete arayes met de olijfolie met knoflook en peterselie en serveer ze met de dipsaus."
+    ],
+    "voeding": {
+      "kcal": 700,
+      "eiwit": 32,
+      "kh": 42,
+      "vet": 44
+    }
+  },
+  {
+    "id": "chili-cheese-burritos",
+    "titel": "Chili cheese burrito's",
+    "omschrijving": "Grote batch burrito's met gekruide bonen, rundergehakt en cheddar. Bedoeld om in te vriezen en later op te warmen.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "rund"
+      ],
+      "vrij": [
+        "mexicaans",
+        "meal prep",
+        "vriezer"
+      ]
+    },
+    "tijd": 40,
+    "basisPersonen": 10,
+    "ingredienten": [
+      {
+        "h": 850,
+        "e": "gram",
+        "n": "Refried beans"
+      },
+      {
+        "h": 900,
+        "e": "gram",
+        "n": "Rundergehakt"
+      },
+      {
+        "h": 3,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 454,
+        "e": "gram",
+        "n": "Geraspte cheddar"
+      },
+      {
+        "h": 10,
+        "e": "stuks",
+        "n": "XL tortilla's"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zout, peper, knoflookpoeder, uienpoeder, chilipoeder en paprikapoeder"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Scheutje water"
+      }
+    ],
+    "stappen": [
+      "Verwarm de refried beans in een kleine pan op laag vuur. Maak ze dunner met een scheutje water en breng ze op smaak met zout, peper, knoflookpoeder, uienpoeder, chilipoeder en paprikapoeder.",
+      "Bak het rundergehakt bruin, giet het vet af en roer de tomatenpuree en dezelfde kruiden erdoor. Voeg een scheutje water toe en bak nog 2 tot 3 minuten door.",
+      "Verwarm de tortilla's tot ze zacht en soepel zijn. Schep een royale lepel bonen in het midden, daarna het gehakt, en strooi er geraspte cheddar overheen.",
+      "Vouw de zijkanten naar binnen en rol de burrito strak op. Herhaal tot de vulling op is.",
+      "Eet ze direct, of wikkel ze los van elkaar in en bewaar ze in de koelkast of vriezer. Warm ze op in de magnetron, de koekenpan of de airfryer."
+    ],
+    "voeding": {
+      "kcal": 710,
+      "eiwit": 40,
+      "kh": 53,
+      "vet": 37
+    }
+  },
+  {
+    "id": "casarecce-geroosterde-tomaat-pancetta",
+    "titel": "Casarecce met geroosterde tomaat en pancetta",
+    "omschrijving": "Saus van geroosterde tomaten met hüttenkäse en Griekse yoghurt, geblend tot hij romig is, met kip en krokante pancetta.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "kip",
+        "varken"
+      ],
+      "vrij": [
+        "italiaans",
+        "oven",
+        "romig"
+      ]
+    },
+    "tijd": 50,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 500,
+        "e": "gram",
+        "n": "Eiwitrijke casarecce (ongekookt)"
+      },
+      {
+        "h": 600,
+        "e": "gram",
+        "n": "Kipfilet (in blokjes)"
+      },
+      {
+        "h": 50,
+        "e": "gram",
+        "n": "Magere pancetta (in blokjes)"
+      },
+      {
+        "h": 200,
+        "e": "gram",
+        "n": "Tomaten (gehalveerd)"
+      },
+      {
+        "h": 150,
+        "e": "gram",
+        "n": "Magere hüttenkäse"
+      },
+      {
+        "h": 120,
+        "e": "gram",
+        "n": "Magere Griekse yoghurt"
+      },
+      {
+        "h": 30,
+        "e": "gram",
+        "n": "Fijngeraspte Parmezaanse kaas"
+      },
+      {
+        "h": 125,
+        "e": "ml",
+        "n": "Pastawater"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen (geraspt)"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Olijfolie"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Oregano"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Kippenbouillonpoeder"
+      },
+      {
+        "h": 0.5,
+        "e": "theelepel",
+        "n": "Balsamicoazijn"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Gerookt paprikapoeder"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Italiaanse kruiden"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Verse basilicum of peterselie"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Verwarm de oven voor op 190 graden.",
+      "Hussel de tomaten om met de olijfolie, zout, peper en de oregano en rooster ze 35 tot 40 minuten tot ze zacht, gekarameliseerd en licht geblakerd zijn.",
+      "Kruid ondertussen de kip met het gerookte paprikapoeder, de Italiaanse kruiden, zout en peper en bak hem in een grote pan goudbruin en gaar. Haal de kip uit de pan.",
+      "Bak de pancetta in dezelfde pan licht krokant, roer de geraspte knoflook erdoor en bak die 30 seconden mee.",
+      "Kook de pasta al dente en vang het pastawater op voor je afgiet.",
+      "Doe de geroosterde tomaten, de hüttenkäse, de Griekse yoghurt, het bouillonpoeder, de Parmezaanse kaas, de balsamicoazijn en het pastawater in een blender en blend tot een gladde romige saus.",
+      "Giet de saus in de pan bij de pancetta, voeg een scheutje extra pastawater toe als het nodig is en roer tot hij zijdezacht is.",
+      "Doe de kip terug in de pan en schep de gekookte pasta erdoor tot alles bedekt is.",
+      "Maak af met verse kruiden, extra Parmezaanse kaas en gemalen zwarte peper."
+    ],
+    "voeding": {
+      "kcal": 730,
+      "eiwit": 78,
+      "kh": 70,
+      "vet": 17
+    }
+  },
+  {
+    "id": "pasta-e-fagioli",
+    "titel": "Italiaanse pasta-bonenstoof",
+    "omschrijving": "Stevige stoof van borlottibonen en ditalini, romig geblend zonder room, met een korst Parmezaan meegekookt.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [
+        "pasta"
+      ],
+      "proteine": [
+        "vega"
+      ],
+      "vrij": [
+        "italiaans",
+        "bonen",
+        "een pan"
+      ]
+    },
+    "tijd": 45,
+    "basisPersonen": 3,
+    "ingredienten": [
+      {
+        "h": 170,
+        "e": "gram",
+        "n": "Ditalini (ongekookt)"
+      },
+      {
+        "h": 500,
+        "e": "gram",
+        "n": "Borlottibonen (uitgelekt)"
+      },
+      {
+        "h": 950,
+        "e": "ml",
+        "n": "Bouillon (natriumarm)"
+      },
+      {
+        "h": 3,
+        "e": "eetlepel",
+        "n": "Tomatenpuree"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Ui (fijngesneden)"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Knoflookteen (fijngehakt)"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Extra vierge olijfolie, om in te bakken"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Extra vierge olijfolie, om af te maken"
+      },
+      {
+        "h": 1,
+        "e": "stuks",
+        "n": "Korst Parmezaanse kaas"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zwarte peper"
+      }
+    ],
+    "stappen": [
+      "Fruit de ui en de knoflook 8 minuten zacht in de olijfolie om in te bakken, zonder dat ze kleuren.",
+      "Roer de tomatenpuree erdoor en bak die 2 minuten tot hij donkerrood kleurt.",
+      "Voeg de bonen, de bouillon en de Parmezaankorst toe en laat 15 minuten zachtjes trekken, zodat de korst zacht wordt en de pan op smaak brengt.",
+      "Pureer een derde van de pan glad en roer dat terug. Daar wordt de bouillon romig van, zonder room.",
+      "Voeg de ditalini toe en kook die 9 minuten, terwijl je regelmatig roert. Pasta die in de pan zelf kookt, plakt namelijk aan de bodem.",
+      "Haal de korst eruit en breng op smaak met zwarte peper.",
+      "Schep in diepe borden en maak af met de rauwe olijfolie om af te maken, zodat je die nog proeft."
+    ],
+    "voeding": {
+      "kcal": 450,
+      "eiwit": 22,
+      "kh": 69,
+      "vet": 9
+    }
+  },
+  {
+    "id": "indonesische-pulled-chicken",
+    "titel": "Indonesische pulled chicken",
+    "omschrijving": "Kipdij die eerst kort gegrild wordt en daarna uren stooft in ketjap met laos, sereh en limoenblad tot je hem uit elkaar trekt.",
+    "labels": {
+      "maaltijd": [
+        "diner"
+      ],
+      "basis": [],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "indonesisch",
+        "langzaam garen",
+        "bbq",
+        "pulled"
+      ]
+    },
+    "tijd": 180,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 1200,
+        "e": "gram",
+        "n": "Kipdijfilet of kipdijen"
+      },
+      {
+        "h": 1,
+        "e": "theelepel",
+        "n": "Kurkuma"
+      },
+      {
+        "h": 4,
+        "e": "stuks",
+        "n": "Knoflookteen"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Sjalotten"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Centimeter gember"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Centimeter laos"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Stengels sereh"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Laurierblaadjes"
+      },
+      {
+        "h": 3,
+        "e": "stuks",
+        "n": "Limoenblaadjes"
+      },
+      {
+        "h": 400,
+        "e": "ml",
+        "n": "Ketjap manis"
+      },
+      {
+        "h": 100,
+        "e": "ml",
+        "n": "Indo marinade"
+      },
+      {
+        "h": 150,
+        "e": "ml",
+        "n": "Water of kokosmelk"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Peper en zout"
+      }
+    ],
+    "stappen": [
+      "Kruid de kip met zout, peper en de kurkuma en grill hem kort aan beide kanten op directe hitte.",
+      "Bouw je barbecue om naar indirect en zet hem op 120 graden. In de oven werkt dit ook.",
+      "Doe de kip in een braadpan met deksel en voeg de knoflook, de sjalotten, de gember, de laos, de sereh, het laurierblad en het limoenblad toe.",
+      "Giet de ketjap manis, de Indo marinade en het water of de kokosmelk erbij.",
+      "Laat 2,5 tot 3 uur rustig stoven tot de kip zo mals is dat je hem makkelijk uit elkaar trekt.",
+      "Trek de kip uit elkaar in de saus en serveer hem op een broodje, bij rijst of nasi, of rechtstreeks uit de pan."
+    ],
+    "voeding": {
+      "kcal": 680,
+      "eiwit": 60,
+      "kh": 73,
+      "vet": 16
+    }
+  },
+  {
+    "id": "broodje-kip-ketjap",
+    "titel": "Broodje kip ketjap",
+    "omschrijving": "Kipdijblokjes in een stevige ketjapmarinade, kort hard gebakken en op een broodje met zuur en sambalmayo.",
+    "labels": {
+      "maaltijd": [
+        "lunch"
+      ],
+      "basis": [
+        "brood"
+      ],
+      "proteine": [
+        "kip"
+      ],
+      "vrij": [
+        "indonesisch",
+        "broodje",
+        "wok"
+      ]
+    },
+    "tijd": 20,
+    "basisPersonen": 4,
+    "ingredienten": [
+      {
+        "h": 1000,
+        "e": "gram",
+        "n": "Kippendijen (in kleine blokjes)"
+      },
+      {
+        "h": 4,
+        "e": "eetlepel",
+        "n": "Ketjap manis"
+      },
+      {
+        "h": 2,
+        "e": "stuks",
+        "n": "Centimeter verse gember (gesneden)"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Ketoembar"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Djinten"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Laos"
+      },
+      {
+        "h": 0.5,
+        "e": "eetlepel",
+        "n": "Sereh"
+      },
+      {
+        "h": 2,
+        "e": "eetlepel",
+        "n": "Sojasaus"
+      },
+      {
+        "h": 1,
+        "e": "eetlepel",
+        "n": "Sambal badjak"
+      },
+      {
+        "h": 4,
+        "e": "stuks",
+        "n": "Broodjes"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Handjevol limoenblad"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Zuur, bijvoorbeeld atjar of augurk"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Sambalmayo"
+      },
+      {
+        "h": null,
+        "e": "",
+        "n": "Beetje olie om in te bakken"
+      }
+    ],
+    "stappen": [
+      "Snijd de kip in kleine blokjes en doe ze in een grote kom. Voeg alle kruiden en sauzen toe en meng goed door, zodat elk stukje kip helemaal bedekt is met marinade.",
+      "Laat de kip voor de meeste smaak 24 tot 48 uur in de koelkast marineren. Heb je die tijd niet, dan kun je direct door naar de volgende stap.",
+      "Doe een beetje olie in een wadjang of op een plancha en bak de kip 3 tot 4 minuten op hoog vuur. Zet daarna het vuur op middelhoog tot laag en bak hem gaar.",
+      "Serveer op een broodje met zuur en sambalmayo."
+    ],
+    "voeding": {
+      "kcal": 620,
+      "eiwit": 56,
+      "kh": 52,
+      "vet": 20
+    }
   }
 ]
